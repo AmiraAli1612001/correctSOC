@@ -10,7 +10,8 @@ import {
   Button,
   Typography,
 } from "@mui/material";
-import React, { useEffect, useState } from "react";
+
+import React, { useState } from "react";
 import { Link, useNavigate } from "react-router-dom";
 import CheckIcon from "@mui/icons-material/Check";
 import ErrorOutlineIcon from "@mui/icons-material/ErrorOutline";
@@ -18,7 +19,7 @@ import AddIcon from "@mui/icons-material/Add";
 import ArrowForwardIcon from "@mui/icons-material/ArrowForward";
 import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
 import AdbIcon from "@mui/icons-material/Adb";
-import logo from "../assets/images/logo.webp";
+import logo from "../assets/images/logo-2.png";
 import MenuIcon from "@mui/icons-material/Menu";
 import LanguageIcon from "@mui/icons-material/Language";
 import SupportAgentIcon from "@mui/icons-material/SupportAgent";
@@ -26,11 +27,11 @@ import Logindrawer from "./logindrawer";
 import { useTranslation } from "react-i18next";
 
 const Pricing = () => {
-  let [lang , setLang] = useState(false)
+  document.body.title = "pricing";
 
-  let [PermanentOrTemporary, setPermanentOrTemporary] = useState("permanent");
+  let [lang, setLang] = useState(false);
+
   let [noneOrBlock, setNoneOrBlock] = useState("none");
-  // let [drawerDir, setdrawerDir] = useState("left");
   const { t, i18n } = useTranslation();
   let navigate = useNavigate();
   let accordion = [
@@ -66,6 +67,7 @@ const Pricing = () => {
 
   return (
     <Box className="price">
+      <title>pricing</title>
       <Logindrawer setNoneOrBlock={setNoneOrBlock} noneOrBlock={noneOrBlock} />
       <AppBar sx={{ backgroundColor: "#222" }}>
         <Toolbar>
@@ -123,17 +125,18 @@ const Pricing = () => {
                 gap: "30px",
               }}
             >
-              <Box className="lang" sx={{cursor :"pointer"}}>
-                <LanguageIcon className="icon"  onClick={() => {
-
-setLang(!lang)
-
-}} />
-                <Box className="drop" sx={{display : lang ? "block" : "none"}} >
+              <Box className="lang" sx={{ cursor: "pointer" }}>
+                <LanguageIcon
+                  className="icon"
+                  onClick={() => {
+                    setLang(!lang);
+                  }}
+                />
+                <Box className="drop" sx={{ display: lang ? "block" : "none" }}>
                   <p
                     onClick={() => {
                       i18n.changeLanguage("en");
-                      document.body.dir = "ltr";
+                      document.body.style.direction = "ltr";
                     }}
                   >
                     English
@@ -141,7 +144,7 @@ setLang(!lang)
                   <p
                     onClick={() => {
                       i18n.changeLanguage("ar");
-                      document.body.dir = "rtl";
+                      document.style.direction = "rtl";
                     }}
                   >
                     عربي

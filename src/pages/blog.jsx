@@ -1,12 +1,10 @@
 import { Box, Grid, CardMedia } from "@mui/material";
-import React, { useEffect, useState } from "react";
+import React, { useState } from "react";
 import Header from "../components/html/Header";
 import Footer from "../components/html/Footer";
-// import back from "../assets/images/Robo Shadow Blog.webp";
 import { Link } from "react-router-dom";
 import Right from "../components/html/rightBlog";
 import DefDrawer from "./defDrawer";
-import mid from "../assets/images/midd.webp";
 import one from "../assets/images/blog-1.webp";
 import two from "../assets/images/blog-3.webp";
 import three from "../assets/images/blog-4.webp";
@@ -14,16 +12,10 @@ import four from "../assets/images/blog-5.webp";
 import five from "../assets/images/blog-6.webp";
 import { t } from "i18next";
 
-// import Pagination from "../components/html/pagination";
-// // import Pagination from "../components/html/pagination";
-// import {MemoryRouter, Route, Routes, useLocation } from 'react-router-dom';
-// import Paginatio from '@mui/material/Pagination';
-// import PaginationItem from '@mui/material/PaginationItem';
-
 const Blog = () => {
-  // let [PermanentOrTemporary, setPermanentOrTemporary] = useState("permanent");
+  document.body.title = "blog";
+
   let [noneOrBlock, setNoneOrBlock] = useState("none");
-  // let [drawerDir, setdrawerDir] = useState("left");
 
   let blog = [
     {
@@ -62,14 +54,10 @@ const Blog = () => {
 
   return (
     <Box className="blog">
+      <title>blog</title>
+
       <Header setNoneOrBlock={setNoneOrBlock} />
-      <DefDrawer
-        noneOrBlock={noneOrBlock}
-        setNoneOrBlock={setNoneOrBlock}
-        // PermanentOrTemporary={PermanentOrTemporary}
-        // setPermanentOrTemporary={setPermanentOrTemporary}
-        // drawerDir={drawerDir}
-      />
+      <DefDrawer noneOrBlock={noneOrBlock} setNoneOrBlock={setNoneOrBlock} />
       <Box className="top">
         <Box className="back">
           <Box className="parent">
@@ -82,7 +70,7 @@ const Blog = () => {
       <Grid
         container
         className="grid"
-        sx={{display :"flex",  alignItems: "center", justifyContent: "center"}}
+        sx={{ display: "flex", alignItems: "center", justifyContent: "center" }}
       >
         <Grid
           item
@@ -93,19 +81,27 @@ const Blog = () => {
             position: "relative",
             transform: { xs: "translateY(-0px)", md: "translateY(-100px)" },
             display: "flex",
-            alignItems: "center", justifyContent: "center"
+            alignItems: "center",
+            justifyContent: "center",
           }}
         >
           <Grid
             container
-            sx={{ display: "flex",
-            alignItems: "center", justifyContent: "center", gap: { xs :"10px", lg :"30px"} }}
+            sx={{
+              display: "flex",
+              alignItems: "center",
+              justifyContent: "center",
+              gap: { xs: "10px", lg: "30px" },
+            }}
           >
             {blog.map((item, index) => {
               return (
                 <Grid
-                sx={{ display: "flex",
-                alignItems: "center", justifyContent: "center" }}
+                  sx={{
+                    display: "flex",
+                    alignItems: "center",
+                    justifyContent: "center",
+                  }}
                   item
                   key={index}
                   className="item"

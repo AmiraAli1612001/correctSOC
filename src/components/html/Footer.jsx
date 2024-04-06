@@ -1,12 +1,11 @@
 import { Box, Grid, Typography } from "@mui/material";
 import React from "react";
 import FacebookIcon from "@mui/icons-material/Facebook";
-import LinkedInIcon from "@mui/icons-material/LinkedIn";
 import TwitterIcon from "@mui/icons-material/Twitter";
-import InstagramIcon from "@mui/icons-material/Instagram";
-import RedditIcon from "@mui/icons-material/Reddit";
 import { Link } from "react-router-dom";
 import { useTranslation } from "react-i18next";
+import YouTubeIcon from '@mui/icons-material/YouTube';
+
 
 const Footer = () => {
   const { t } = useTranslation();
@@ -19,10 +18,13 @@ const Footer = () => {
         color: "white",
         display: "flex",
         justifyContent: "center",
-        padding: "30px",
+        padding: {xs :"20px" , md :"100px "},
       }}
     >
-      <Grid container sx={{ display: "flex", justifyContent: "center" }}>
+      <Grid
+        container
+        sx={{ display: "flex", justifyContent: "center", gap: "80px" }}
+      >
         <Grid item xs={10} md={3}>
           <Typography variant="h4" color="inherit">
             {t("contact-us")}
@@ -30,25 +32,24 @@ const Footer = () => {
           <Typography variant="h6" color="inherit">
             {t("email")}
           </Typography>
-          <p>hello@roboshadow.com</p>
-          <Typography variant="h6" color="inherit">
+          <p>info@correct.ws</p>
+          {/* <Typography variant="h6" color="inherit">
             {t("phone")}
-          </Typography>
-          <p>+44 20 300 53729</p>
+          </Typography> */}
+          {/* <p>+44 20 300 53729</p>
           <Typography variant="h6" color="inherit">
             {t("head-office")}
-          </Typography>
+          </Typography> */}
 
-          <p>RoboShadow</p>
-          <p>64 Great Eastern St</p>
-          <p>London</p>
-          <p>EC2A 3QR, UK</p>
+          <p>CorrectSOC</p>
+          {/* <p  className="address">{t("address")}</p> */}
+
           <Box className="icons">
             <FacebookIcon />
-            <LinkedInIcon />
             <TwitterIcon />
-            <InstagramIcon />
-            <RedditIcon />
+            <YouTubeIcon/>
+
+      
           </Box>
         </Grid>
         <Grid item xs={10} md={3}>
@@ -138,7 +139,7 @@ const Footer = () => {
               });
             }}
           >
-            {t("about-us")}
+            {t("abt-us")}
           </Link>
         </Grid>
         <Grid item xs={10} md={3}>

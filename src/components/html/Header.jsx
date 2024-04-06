@@ -8,7 +8,7 @@ import {
   Button,
 } from "@mui/material";
 import React, { useState } from "react";
-import Logo from "../../assets/images/logo.webp";
+import Logo from "../../assets/images/logo-2.png";
 import { Link, useNavigate } from "react-router-dom";
 import "../../css/shares.css";
 import "../../css/style.css";
@@ -22,10 +22,10 @@ import MenuIcon from "@mui/icons-material/Menu";
 import { useTranslation } from "react-i18next";
 
 const Header = (props) => {
-  let [lang , setLang] = useState(false)
+  let [lang, setLang] = useState(false);
   // var dropdown = document.getElementById("dropdown")
   document.body.dir = window.localStorage.getItem("dir");
-  let [drop , setDrop] = useState(false)
+  let [drop, setDrop] = useState(false);
   let [nav, setNav] = useState(false);
   window.onscroll = function () {
     if (window.scrollY > 10) {
@@ -39,7 +39,7 @@ const Header = (props) => {
 
   let navigate = useNavigate();
   let links = [
-    { text: t("about-us"), path: "/about" },
+    { text: t("abt-us"), path: "/about" },
     { text: t("price"), path: "/pricing" },
     { text: t("blog"), path: "/blog" },
     { text: t("contact"), path: "/contact" },
@@ -53,19 +53,30 @@ const Header = (props) => {
       link: t("learn-more"),
       path: "/cyber-platform",
     },
+
     {
-      icon: hand,
+      icon: scanner,
+
       title: t("vulnerability-scanner"),
       p: t("cyber-header-p-2"),
       link: t("learn-more"),
       path: "/vulnerability-scanner",
     },
     {
-      icon: scanner,
+      icon: hand,
+
       title: t("Mobile-Network-Scanner"),
       p: t("mobile-network-p"),
       link: t("learn-more"),
       path: "/mobile-network",
+    },
+
+    {
+      // icon: "",
+      title: "",
+      p: "",
+      link: "",
+      path: "",
     },
   ];
   return (
@@ -88,7 +99,7 @@ const Header = (props) => {
               }}
             >
               <CardMedia
-                sx={{ width: { xs: "150px", lg: "210px" } }}
+                sx={{ width: { xs: "160px", lg: "230px" }, height: "85px" }}
                 component="img"
                 image={Logo}
                 onClick={() => {
@@ -112,28 +123,37 @@ const Header = (props) => {
                 <MenuIcon />
               </Button>
             </Grid>
-            <Grid  className="hed" item sx={{ display: { xs: "none", lg: "flex" } }}>
-              <Box className="menu" onClick={() => {
-                  setDrop(!drop)
-                
-              }}>
+            <Grid
+              className="hed"
+              item
+              sx={{ display: { xs: "none", lg: "flex" } }}
+            >
+              <Box
+                className="menu"
+                onClick={() => {
+                  setDrop(!drop);
+                }}
+              >
                 <Link
                   style={{
                     position: "relative",
                     display: "flex",
                     alignItems: "center",
                   }}
-                  
                 >
                   {t("products")}
                   <KeyboardArrowDownIcon />
                 </Link>
-                <Grid container className="dropdown" id="dropdown" sx={{display : drop ? "flex":"none"}}>
+                <Grid
+                  container
+                  className="dropdown"
+                  id="dropdown"
+                  sx={{ display: drop ? "flex" : "none" }}
+                >
                   {boxes.map((item) => {
                     return (
                       <Grid
                         item
-                        md={4}
                         className="item"
                         onClick={() => {
                           navigate(item.path);
@@ -145,11 +165,14 @@ const Header = (props) => {
                         }}
                       >
                         <Box>
-                          <CardMedia
-                            sx={{ width: "40px", height: "40px" }}
-                            component="img"
-                            image={item.icon}
-                          />
+                          {item.icon && (
+                            <CardMedia
+                              className="img"
+                              sx={{ width: "40px", height: "40px" }}
+                              component="img"
+                              image={item.icon}
+                            />
+                          )}
                           <Typography variant="h4" color="inherit">
                             {item.title}
                           </Typography>
@@ -240,26 +263,27 @@ const Header = (props) => {
                   </Link>
                 );
               })}
-              
 
               <Link to="/login" className="createA">
                 {t("create-account")}
               </Link>
             </Grid>
             <Grid item>
-            <Box className="lang"  sx={{cursor :"pointer"}} onClick={() => {
-
-              setLang(!lang)
-              
-            }}>
+              <Box
+                className="lang"
+                sx={{ cursor: "pointer" }}
+                onClick={() => {
+                  setLang(!lang);
+                }}
+              >
                 <LanguageIcon className="icon" />
-                <Box className="drop" sx={{display : lang ? "block" : "none"}}>
+                <Box className="drop" sx={{ display: lang ? "block" : "none" }}>
                   <p
                     onClick={() => {
                       i18n.changeLanguage("en");
-                      document.body.dir = "ltr";
+                      document.body.style.direction = "ltr";
                       window.localStorage.setItem("dir", "ltr");
-                      window.location.reload()
+                      window.location.reload();
                     }}
                   >
                     En
@@ -267,12 +291,11 @@ const Header = (props) => {
                   <p
                     onClick={() => {
                       i18n.changeLanguage("ar");
-                      document.body.dir = "rtl";
+                      document.body.style.direction = "rtl";
 
                       window.localStorage.setItem("dir", "rtl");
-                      
-                      window.location.reload()
 
+                      window.location.reload();
                     }}
                   >
                     Ar

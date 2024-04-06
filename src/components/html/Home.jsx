@@ -2,7 +2,6 @@ import { Box, Grid, Typography, CardMedia } from "@mui/material";
 import React, { useEffect, useState } from "react";
 import "../../css/style.css";
 import "../../css/shares.css";
-import computer from "../../assets/images/computer.webp";
 import { Link } from "react-router-dom";
 import { useTranslation } from "react-i18next";
 

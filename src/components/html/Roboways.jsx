@@ -26,8 +26,16 @@ const Roboways = () => {
     },
   ];
   return (
-    <Box className="robo-way">
-      <h1>{t("why-robo")}</h1>
+    <Box
+      className="robo-way"
+      sx={{
+        display: { xs: "none", md: "block" },
+        padding: { md: "50px 30px", lg: "80px 40px" },
+      }}
+    >
+      <h1 style={{ textAlign: "center", width: "90vw", margin: "auto" }}>
+        {t("the-robo-shadow-way")}
+      </h1>
 
       <Grid
         container
@@ -40,7 +48,8 @@ const Roboways = () => {
               item
               xs={10}
               sm={6}
-              md={3}
+              md={6}
+              lg={3}
               className="item"
               sx={{ marginTop: "50px" }}
             >

@@ -18,24 +18,19 @@ import { t } from "i18next";
 import { useTranslation } from "react-i18next";
 
 const Privacy = () => {
+  document.body.title = "privacy policy";
+
   const { t } = useTranslation();
 
   let legal = {
     title: t("privacy"),
   };
-  // let [PermanentOrTemporary, setPermanentOrTemporary] = useState("permanent");
   let [noneOrBlock, setNoneOrBlock] = useState("none");
-  // let [drawerDir, setdrawerDir] = useState("left");
   return (
     <Box sx={{ backgroundColor: "black" }}>
+      <title>privacy policy</title>
       <Header setNoneOrBlock={setNoneOrBlock} />
-      <DefDrawer
-        noneOrBlock={noneOrBlock}
-        setNoneOrBlock={setNoneOrBlock}
-        // PermanentOrTemporary={PermanentOrTemporary}
-        // setPermanentOrTemporary={setPermanentOrTemporary}
-        // drawerDir={drawerDir}
-      />
+      <DefDrawer noneOrBlock={noneOrBlock} setNoneOrBlock={setNoneOrBlock} />
       <LegalTop legal={legal} />
       <Box
         className="data"
@@ -52,9 +47,7 @@ const Privacy = () => {
         <h3>{t("privacy-h1-1")}</h3>
         <p>
           {t("privacy-p-1-1")}
-          <Link style={{ padding: "0px 10px" }}>
-            {t("website-d-p-1-2")}
-          </Link>{" "}
+          <Link style={{ padding: "0px 10px" }}>{t("terms-p-10")}</Link>{" "}
           {t("privacy-p-1-2")}
         </p>
         <p>{t("privacy-p-2-2")}</p>
@@ -73,7 +66,7 @@ const Privacy = () => {
         </p>
         <p>
           <span style={{ fontWeight: "bold" }}>{t("privacy-p-11")}</span>{" "}
-          {t("website-p-3-p-2")}
+          {t("cookie-link")}
         </p>
         <p>
           <span style={{ fontWeight: "bold" }}>{t("privacy-p-12")}</span>
@@ -180,7 +173,7 @@ const Privacy = () => {
         <h3>{t("privacy-p-70")} </h3>
         <p>{t("privacy-p-71")}</p>
 
-        <Table sx={{display : {xs :"none" , lg :"block"}}}>
+        <Table sx={{ display: { xs: "none", lg: "block" } }}>
           <TableHead>
             <TableRow>
               <TableCell className="bold">{t("privacy-p-72")} </TableCell>

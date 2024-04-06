@@ -4,13 +4,16 @@ import { Link } from "react-router-dom";
 import { useTranslation } from "react-i18next";
 
 const TopAbout = () => {
-  const { t, i18n } = useTranslation();
+  const { t } = useTranslation();
 
   return (
     <Box className="about-background">
-      <Grid container sx={{ padding: { xs: "30px", md: "60px" } }}>
+      <Grid container sx={{ padding: { xs: "30px", md: "100px" } }}>
         <Grid item xs={11} md={4} className="aboutBox">
-          <p>{t("about-us")}</p>
+          <p>
+            <span style={{ fontWeight: "bold" }}>{t("about")}</span>{" "}
+            {t("about-us")}
+          </p>
           <p>{t("about-top-p")}</p>
           <Box className="links">
             <Link
@@ -32,6 +35,7 @@ const TopAbout = () => {
                   behavior: "smooth",
                 });
               }}
+              style={{ margin: "0px 20px" }}
             >
               {t("discover-more")}
             </Link>

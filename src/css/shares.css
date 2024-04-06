@@ -1,92 +1,78 @@
 * {
-    padding: 0px;
-    margin: 0px;
-    font-family: Poppins,sans-serif;
-    box-sizing: border-box;
-    text-wrap: wrap;
-    flex-wrap: wrap;
-    
+  padding: 0px;
+  margin: 0px;
+  font-family: Poppins, sans-serif !important;
+  box-sizing: border-box;
+  text-wrap: wrap;
+  text-align: start ;
+  flex-wrap: wrap;
 }
 body {
-    font-family: Poppins,sans-serif;
-    font-style: normal;
-    font-weight: 400;
-    text-decoration: none;
-    overflow: auto !important;
-    padding-right: 0px !important;
+  font-family: Poppins, sans-serif !important;
+  font-style: normal !important;
+  font-weight: 400 !important;
+  text-decoration: none !important;
+  overflow: auto !important;
+  padding-right: 0px !important;
 }
 
-
-/* drawer */
+/************************************************** drawer ****************************************/
 .drawer .MuiButtonBase-root {
-    flex-grow: 0 !important;
-  }
-  
-  .css-16ac5r2-MuiButtonBase-root-MuiListItemButton-root {
-    -webkit-flex-grow: 0 !important;
-    -ms-flex-positive: 0 !important;
-    flex-grow: 0 !important;
-  }
-  
-  .MuiPaper-root::-webkit-scrollbar {
-    display: none;
-  }
-  
-  .css-1drgtl0-MuiButtonBase-root-MuiIconButton-root:hover {
-    border-radius: 0px !important;
-  }
-  .css-78trlr-MuiButtonBase-root-MuiIconButton-root {
-    border-radius: 0px !important;
-  }
-  .css-1tny64w-MuiModal-root-MuiDrawer-root .MuiDrawer-paper ,.css-1xcehlr-MuiDrawer-docked .MuiDrawer-paper , .css-12axqwi-MuiModal-root-MuiDrawer-root .MuiDrawer-paper {
-    height: 100vh !important;
-  }
-  
-  .css-1cxcwo2-MuiModal-root-MuiDrawer-root .MuiDrawer-paper {
-    background-color: #151b23 !important;
-  }
-  
-  .css-1cxcwo2-MuiModal-root-MuiDrawer-root .MuiDrawer-paper  a {
-    color: white !important;
-    padding: 20px 40px !important;
-    text-decoration: none !important;
-    font-size: 13px !important;
-    font-weight: bold;
-    transition: 0.5s;
+  flex-grow: 0 !important;
+}
+.css-1vcjqca-MuiModal-root-MuiDrawer-root .MuiDrawer-paper {
+  width: 280px !important;
+}
 
-  }
+.css-4t3x6l-MuiPaper-root-MuiDrawer-paper {
+  background-color: #151b23 !important;
+}
+.css-16ac5r2-MuiButtonBase-root-MuiListItemButton-root {
+  -webkit-flex-grow: 0 !important;
+  -ms-flex-positive: 0 !important;
+  flex-grow: 0 !important;
+}
 
-  .css-1cxcwo2-MuiModal-root-MuiDrawer-root .MuiDrawer-paper  a:hover {
-    color:  #6f41c0 !important;
-    transition: 0.5s;
+.MuiPaper-root::-webkit-scrollbar {
+  display: none;
+}
 
-  }
-  /* .drawer  {
-    position: relative;
-  } */
-  /* .drawer  .dropdown{
+.css-1drgtl0-MuiButtonBase-root-MuiIconButton-root:hover {
+  border-radius: 0px !important;
+}
+.css-78trlr-MuiButtonBase-root-MuiIconButton-root {
+  border-radius: 0px !important;
+}
+.css-1tny64w-MuiModal-root-MuiDrawer-root .MuiDrawer-paper,
+.css-1xcehlr-MuiDrawer-docked .MuiDrawer-paper,
+.css-12axqwi-MuiModal-root-MuiDrawer-root .MuiDrawer-paper {
+  height: 100vh !important;
+}
 
-    transform: translateX(0px) ;
-    height: 100vh;
-    flex-direction: column;
-    scale: 1 !important;
+.css-1cxcwo2-MuiModal-root-MuiDrawer-root .MuiDrawer-paper {
+  background-color: #151b23 !important;
+}
+.css-4t3x6l-MuiPaper-root-MuiDrawer-paper {
+  overflow: auto !important;
+}
 
-  } */
+.css-4t3x6l-MuiPaper-root-MuiDrawer-paper a {
+  color: white !important;
+  padding: 20px 40px !important;
+  text-decoration: none !important;
+  font-size: 13px !important;
+  font-weight: bold;
+  transition: 0.5s;
+}
 
-/*   
-.drawer .dropdown .item {
-    width:  240px !important;
-    color: white !important;
-    background-color: red;
-    z-index: 100;
-    
-} */
-
+.css-1cxcwo2-MuiModal-root-MuiDrawer-root .MuiDrawer-paper a:hover,
+.css-4t3x6l-MuiPaper-root-MuiDrawer-paper a:hover {
+  color: #6f41c0 !important;
+  transition: 0.5s;
+}
 
 .error {
-
   position: relative !important;
-  
 }
 .error:before {
   color: #f3f6f9 !important;
@@ -95,7 +81,7 @@ body {
   left: 50% !important;
   position: absolute !important;
   top: 50% !important;
-  transform: translate(-50%,-50%) !important;
+  transform: translate(-50%, -50%) !important;
   width: 100% !important;
   z-index: -1 !important;
 }

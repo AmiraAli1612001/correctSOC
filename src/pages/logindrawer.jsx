@@ -1,17 +1,15 @@
-// import { Close, Home, Login } from '@mui/icons-material';
 import { Box, Divider, Drawer, CardMedia } from "@mui/material";
-import React, { useState } from "react";
+import React from "react";
 import { Link } from "react-router-dom";
 import LanguageIcon from "@mui/icons-material/Language";
 import EmailIcon from "@mui/icons-material/Email";
 import PersonAddIcon from "@mui/icons-material/PersonAdd";
 import LoginIcon from "@mui/icons-material/Login";
-import logo from "../assets/images/logo.webp";
+import logo from "../assets/images/logo-2.png";
 import { useTranslation } from "react-i18next";
 
 const Logindrawer = (props) => {
   const { t } = useTranslation();
-
 
   const list = [
     {
@@ -63,7 +61,7 @@ const Logindrawer = (props) => {
       path: "/login",
     },
   ];
-  let drawerWidth = 240;
+  let drawerWidth = 280;
   return (
     <Drawer
       onClick={() => {
@@ -71,11 +69,9 @@ const Logindrawer = (props) => {
       }}
       className="drawer logDrawer"
       variant="temporary"
-      //   anchor={drawerDirr}
       smooth="true"
       sx={{
         display: props.noneOrBlock,
-        // display :"block",
         width: drawerWidth,
         flexShrink: 0,
         "& .MuiDrawer-paper": {
@@ -85,33 +81,25 @@ const Logindrawer = (props) => {
       }}
       open={props.noneOrBlock}
       onClose={() => {
-        // setPermanentOrTemporary("permanent");
         props.setNoneOrBlock("none");
       }}
     >
-      {/* <Box sx={{backgroundColor:"#663cb1", padding :"10px"  , textAlign :"right"}}> */}
-      {/* <Close  sx={{cursor :"pointer"}} onClick={() => {
-
-          props.setNoneOrBlock("none")
-          
-        }}/> */}
-      {/* </Box> */}
       <Box sx={{ display: "flex", justifyContent: "center" }}>
-        <CardMedia component="img" image={logo} />
+        <CardMedia component="img" image={logo}  sx={{height:"100px"}}/>
       </Box>
       <Divider />
 
       {list.map((item) => {
         return (
-          <Link to={item.path} onClick={() => {
-          
-      
-            window.scrollTo({
-              top: 0,
-              behavior: "smooth",
-            });
-
-        }} >
+          <Link
+            to={item.path}
+            onClick={() => {
+              window.scrollTo({
+                top: 0,
+                behavior: "smooth",
+              });
+            }}
+          >
             {item.icon}
             {item.text}
           </Link>

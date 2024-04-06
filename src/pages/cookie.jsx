@@ -7,28 +7,22 @@ import "../css/style.css";
 import LegalTop from "../components/html/legalTop";
 import { Link } from "react-router-dom";
 import DefDrawer from "./defDrawer";
-import { t } from "i18next";
 import { useTranslation } from "react-i18next";
 
 const Cookie = () => {
-  const { t, i18n } = useTranslation();
+  document.body.title = "cookies policy";
+
+  const { t } = useTranslation();
 
   let legal = {
     title: t("cookie-top"),
   };
-  let [PermanentOrTemporary, setPermanentOrTemporary] = useState("permanent");
   let [noneOrBlock, setNoneOrBlock] = useState("none");
-  // let [drawerDir, setdrawerDir] = useState("left");
   return (
     <Box sx={{ backgroundColor: "black" }}>
+      <title>cookies policy</title>
       <Header setNoneOrBlock={setNoneOrBlock} />
-      <DefDrawer
-        noneOrBlock={noneOrBlock}
-        setNoneOrBlock={setNoneOrBlock}
-        // PermanentOrTemporary={PermanentOrTemporary}
-        // setPermanentOrTemporary={setPermanentOrTemporary}
-        // drawerDir={drawerDir}
-      />
+      <DefDrawer noneOrBlock={noneOrBlock} setNoneOrBlock={setNoneOrBlock} />
       <LegalTop legal={legal} />
       <Box
         className="data"

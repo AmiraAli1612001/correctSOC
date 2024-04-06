@@ -4,7 +4,6 @@ import App from "./App";
 import "./i18n";
 
 import {
-  createBrowserRouter,
   Route,
   RouterProvider,
   createRoutesFromElements,
@@ -20,7 +19,6 @@ import Scanner from "./pages/scanner";
 import Portal from "./pages/Portal";
 import Privacy from "./pages/privacy";
 import Cookie from "./pages/cookie";
-import Carousel from "./components/html/Carousel";
 import Login from "./pages/login";
 import Blog from "./pages/blog";
 import Notfound from "./components/html/Notfound";
@@ -39,11 +37,9 @@ const router = createHashRouter(
       <Route path="portal" element={<Portal />} />
       <Route path="privacy" element={<Privacy />} />
       <Route path="cookie" element={<Cookie />} />
-      <Route path="c" element={<Carousel />} />
       <Route path="login" element={<Login />} />
       <Route path="blog" element={<Blog />} />
-      <Route path= "*" element={<Notfound />} />
-
+      <Route path="*" element={<Notfound />} />
     </Route>
   )
 );

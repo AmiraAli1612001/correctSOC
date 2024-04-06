@@ -6,10 +6,8 @@ import {
   Divider,
   Drawer,
   Grid,
- 
   Typography,
 } from "@mui/material";
-// import computer from "../assets/images/computer.webp";
 import { Link, useNavigate } from "react-router-dom";
 import eye from "../assets/images/eye.svg";
 import hand from "../assets/images/hand.svg";
@@ -17,30 +15,27 @@ import scanner from "../assets/images/scanner.svg";
 import NavigateNextIcon from "@mui/icons-material/NavigateNext";
 import "../css/shares.css";
 import "../css/style.css";
-import KeyboardArrowLeftIcon from '@mui/icons-material/KeyboardArrowLeft';
+import KeyboardArrowLeftIcon from "@mui/icons-material/KeyboardArrowLeft";
 import { useTranslation } from "react-i18next";
 
 const DefDrawer = (props) => {
   const { t } = useTranslation();
 
-  // let [PermanentOrTemporary, setPermanentOrTemporary] = useState("permanent");
-  // let [noneOrBlock, setNoneOrBlock] = useState("none");
-  // let [drawerDir, setdrawerDir] = useState("left");
+  //
   let navigate = useNavigate();
-  let drawerWidth = 240;
+  let drawerWidth = 280;
   const list = [
-    { text: t("products"), path: "/" },
     { text: t("about-us"), path: "/about" },
     { text: t("price"), path: "/pricing" },
     { text: t("blog"), path: "/blog" },
     { text: t("contact"), path: "/contact" },
     { text: t("login"), path: "/login" },
   ];
-  var drop = document.getElementById("drop")
+  var drop = document.getElementById("drop");
   let boxes = [
     {
       icon: eye,
-      title: t("cyber-platform") ,
+      title: t("cyber-platform"),
       p: "Demystify Cyber Security is baked into everything we do, our platform is the perfect vehicle to help us deliver Cyber Serenity.",
       link: "LEARN MORE",
       path: "/cyber-platform",
@@ -63,87 +58,89 @@ const DefDrawer = (props) => {
     },
   ];
 
-
-  let [dropy , setDropy] = useState(false)
+  let [dropy, setDropy] = useState(false);
 
   return (
     <Drawer
       className="drawer"
       variant="temporary"
-        anchor="left"
+      anchor="left"
       smooth="true"
-      onClick={() => {
-        // props.setNoneOrBlock("none");
-      }}
       sx={{
         display: props.noneOrBlock,
-        // display :"block",
-        width: drawerWidth,
+        width: `${drawerWidth}px`,
         flexShrink: 0,
         "& .MuiDrawer-paper": {
-          width: drawerWidth,
+          width: `${drawerWidth}px`,
           boxSizing: "border-box",
         },
       }}
       open="true"
       onClose={() => {
-        // setPermanentOrTemporary("temporary");
         props.setNoneOrBlock("none");
       }}
     >
       <Box
-        sx={{display :"flex", alignItems : "center",justifyContent :"space-between", backgroundColor: "#663cb1", padding: "10px", textAlign: "right" }}
+        sx={{
+          display: "flex",
+          alignItems: "center",
+          justifyContent: "space-between",
+          backgroundColor: "#663cb1",
+          padding: "10px",
+          textAlign: "right",
+        }}
       >
         <Close
           sx={{ cursor: "pointer" }}
           onClick={() => {
             props.setNoneOrBlock("none");
+            setDropy(false);
           }}
         />
-          <p  style={{display : dropy ? "flex":"none"}}>{t("Produtcs")}</p>
-       
-        <KeyboardArrowLeftIcon  sx={{cursor : "pointer", display : dropy ? "flex":"none"}} onClick={() => {
-          
-          setDropy(false)
-        }}/>
+        <p style={{ display: dropy ? "flex" : "none" }}>{t("Produtcs")}</p>
 
-
+        <KeyboardArrowLeftIcon
+          sx={{ cursor: "pointer", display: dropy ? "flex" : "none" }}
+          onClick={() => {
+            setDropy(false);
+          }}
+        />
       </Box>
 
       <Divider />
 
-      <Box className="menu" onClick={() => {
-             setDropy(!dropy)
-                
-              }}>
+      <Box
+        className="menu"
+        onClick={() => {
+          setDropy(!dropy);
+        }}
+      >
         <Link
-            className="pro"
-
+          className="pro"
           style={{
             position: "relative",
             display: "flex",
             alignItems: "center",
-            
           }}
           onClick={() => {
-
-            drop.style.width = "240px"
-            console.log("hello")
-         
-              
-            
+            drop.style.width = "240px";
+            console.log("hello");
           }}
         >
           {t("products")}
           <NavigateNextIcon />
         </Link>
-        <Grid container className="dropdown" id="drop" sx={{display : dropy ? "flex":"none"}}>
+        <Grid
+          container
+          className="dropdown"
+          id="drop"
+          sx={{ display: dropy ? "flex" : "none", flexDirection: "column" }}
+        >
           {boxes.map((item) => {
             return (
               <Grid
-              sx={{color:"white" , fontSize :"25px"}}
+                sx={{ color: "white", fontSize: "25px", border: "none" }}
                 item
-                md={4}
                 className="item"
                 onClick={() => {
                   navigate(item.path);
@@ -172,18 +169,17 @@ const DefDrawer = (props) => {
 
       {list.map((item) => {
         return (
-        
-        <Link   to={item.path}  onClick={() => {
-          
-      
-            window.scrollTo({
-              top: 0,
-              behavior: "smooth",
-            });
-
-        }}  >{item.text}</Link>
-        
-        
+          <Link
+            to={item.path}
+            onClick={() => {
+              window.scrollTo({
+                top: 0,
+                behavior: "smooth",
+              });
+            }}
+          >
+            {item.text}
+          </Link>
         );
       })}
       <Link
@@ -194,19 +190,14 @@ const DefDrawer = (props) => {
           display: "block",
           margin: "auto",
         }}
-       
         className="createA"
         to="/login"
-
         onClick={() => {
-          
-      
           window.scrollTo({
             top: 0,
             behavior: "smooth",
           });
-
-      }} 
+        }}
       >
         {t("create-account")}
       </Link>

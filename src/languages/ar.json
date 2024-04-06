@@ -1,1183 +1,864 @@
 {
-  "cate" :"الفئات",
-
-"don't-miss" : "لا تفوت",
-
-  "roboShadow" :"RoboShadow",
-
-    "products" :"منتجات" , 
-    "about-us" : "معلومات عنا",
-    "price" :"التسعير",
-    "blog" : "مدونة",
-    "contact" :"اتصال",
-    "login" :"تسجيل الدخول",
-    "create-account" :"انشاء حساب",
-
-    "cyber-security" : "الأمن الالكتروني",
-    "demy" : "ازالة الغموض",
-    "learn-more" : "يتعلم اكثر",
-    "vulnerability-scanner" : "ماسح الثغرات الأمنية",
-    "defender" :"المدافع ومدير AV",
-    "cyber-coverage" : "التغطية السيبرانية",
-    "encryption-coverage" : "تغطية التشفير",
-    "device-security-updates" :"تحديثات أمان الجهاز",
-    "MFA-auditing":"تدقيق MFA",
-    "certified-support" :"دعم معتمد" , 
-    "cyber-heal" : "شفاء سايبر",
-    "cyber-platform" :"الثغرات الامنية",
-
-
-    "contact-us" :"اتصل بنا",
-    "email" : "البريد الالكتروني" ,
-    "phone" :"الهاتف",
-    "head-office" :"المكتب الرئيسي",
-    "site-map" :"خريطة الموقع",
-    "home" :"الرئيسية",
-    "andriod" :"الماسح الضوئي",
-    "legal":"قانوني",
-    "terms" :"شروط الموقع",
-    "portal" :"شروط البوابه",
-    "privacy" :"سياسة الخصوصية",
-    "cookie" :"سياسة ملفات الارتباط",
-
-
-    "discover-more" : "اكتشف المزيد",
-    "about-top-p" :"ستسمح لك تقنية المسح الإلكتروني الخاصة بنا بمسح الشبكات بحثا عن نفس الشيءالمآثر التي سيبحث عنها المتسللون.",
-     "about-p-one" : "كشركة ناشئة ، فإن أحد الجوانب الأكثر إثارة هو الرحلة التي نخوضها وعملية تحديد نوع المنظمة التي نريد أن نكونها. نشعر أن إطلاق منتجنا كمصدر مفتوح هو خيار نود استكشافه في المستقبل ، ونرحب بأي تعليقات حول هذا المفهوم. في الوقت الحالي ، يتمثل بيان مهمتنا الأساسي في جعل الأمن السيبراني بسيطا ، بحيث تتاح للجميع فرصة" , 
-"about-p-two" : "نأمل في تحقيق ذلك من خلال ضمان منح مستخدمينا تقييما مجانيا وكاملا لنقاط الضعف في الأمن السيبراني ، والذي يغطي منصات الهجوم الداخلية والخارجية. من هنا ، نقدم لوحة تحكم يومية بسيطة تسرد نقاط الضعف الخاصة بك وتسمح بحدوث المعالجة بسلاسة من وحدة التحكم. تتيح منصتنا لمستخدمينا تطوير عمليات الامتثال السيبراني الخاصة بهم شيئا فشيئا.",
- "driven" :"يقودها العلم"      ,
- "accomplish" : "مدفوعة  لإنجاز المزيد",
- "driven-p-one" :"نحن محظوظون للعمل في عصر تكنولوجي دائم التغير وسريع الخطى. نقضي الكثير من الوقت في بناء دليل على مفهوم التكنولوجيا التجريبية حتى نتمكن من اختبار حدود Cyber Tech.",
-"driven-p-two"  :"نأمل أن يكون الأمر بسيطًا، بحيث يكون لدى الجميع نفس الشيء فرصة. من خلال إتاحة هذه المؤسسات بسهولة، يمكن الوصول إلى السوق الأوسع في كثير من الحالات. تطلب في المساعدة الجميع شبكاتهم الخاصة مثل المحترفين.",
-         
-         "use"  :"استخدام ",
-         "complete" : "مجانية تماما" , 
-         "login-p-one" : "إزالة الغموض عن الأمن السيبراني",
-         "login-email"  :"تسجيل الدخول باستخدام البريد الالكتروني",
-         "login-google" : "الدخول باستخدام جوجل",
-         "login-micro" : "تسجيل الدخول باستخدام مايكروسوفت",
-         "login-p-two-o" :"لانشاء حساب جديد",
-         "login-p-two-l" :" قم بالتسجيل",
-         "login-p-two-t" :"هنا",
-         "login-two" :"من خلال المتابعه فانك تشير الى قبول",
-         "login-terms-o" :"الشروط والاحكام",
-         "login-terms-m" :" و سياسة",
-         "login-terms-l" :"الخصوصيه",
-         "login-last" :"المحدوده",
-         "contact-p-one" :"نحن شركة عالمية، مقرها الرئيسي في لندن. تمتد عملية التطوير لدينا إلى الهند وأستراليا، لذا كفريق تكنولوجي نحن عالميون حقًا. يرجى الاتصال بنا عبر نموذج الاتصال أو لا تتردد في الاتصال بنا على وسائل التواصل الاجتماعي.",
-
-"get-touch" :"ابقى على تواصل",
-"name" :"الاسم",
-"msg" : "رسالة",
-
-
-"london-title" :"لندن",
-"london-off" :"مكتب",
-"london-sh" :"المقر الرئيسي لروبوشاد",
-"london-great" :"64 ش الشرقي الكبير",
-"london" :"لندن",
-"london-E" :"EC2A 3QR، المملكة المتحدة",
-
-
-
-
-
-
-
-"aus-title" :"أستراليا",
-"aus-off" :"مكتب",
-"aus-sh" :"177-219 طريق ميتشل",
-"aus-great" :"إرسكينفيل 2043",
-"aus" :"سيدني",
-"aus-E" :"أستراليا",
-
-
-
-
-
-
-
-
-
-
-
-
-"create-small" : "انشاء حساب" 
-,
-
-
-
-
-"most-pop" :"الأكثر شعبية",
-"discount" :"خصم 50% لأصحاب MSP",
-"free"  :"مجانا",
-"community" : "مجتمع",
-"prof" : "احترافي",
-"enter" :"مَشرُوع ",
-"price-p-one"  : "تهدف إلى السماح لأي منظمة على هذا الكوكب بالحصول على تقييم نقاط الضعف الداخلية والخارجية كل يوم. ",
-"prof-p-one" :"كل شيء في الطبقة المجانية ولكن مع تراكب تكنولوجيا الذكاء الاصطناعي الإضافي، تمت إضافة الكثير من الأشياء الجيدة لتوفير وقت فريق تكنولوجيا الأعمال. ",
-"enter-p-one" :"كل شيء في Cyber ​​Professional ولكن مع تراكب فريق الحوكمة المتقدم للفرق المتقدمة. ",
-"prof-price" :"20 جنيهًا إسترلينيًا شهريًا ",
-"enter-price" :"200 جنيه استرليني / شهر ",
-"comm-p-two" :"(جميع وكلاء الأجهزة مجانيون) ",
-"comm-p-three" :"(+1 جنيه إسترليني لكل جهاز Cyber ​​Heal - اختياري) ",
-"comm-p-four" :"(لا توجد بطاقة مطلوبة) ",
-"sign-up"  :"اشتراك",
-"feature" :"أبرز الميزات ",
-"comm-h-1" :" المسح السطحي لهجوم IP الخارجي ",
-"comm-h-2" :" الإبلاغ عن الثغرات الأمنية في Windows CVE ",
-"comm-h-3" : "أداة فحص أمان مواقع الويب (OWASP) ",
-"comm-h-4" :" Azure AD / 365 تسوية الأجهزة " , 
-"comm-h-5" :" تقارير الامتثال MFA ",
-"comm-h-6" :" إدارة Windows AV والمدافع " ,
-"comm-h-7" :" ويندوز تحديث المصالحة ",
-"comm-h-8" :"ترقيات المستقبل " ,
-"comm-h-9" :" دعم المجتمع ",
-"comm-h-10" :"استكشاف جميع الميزات ",
-
-
-
-
-"prof-h-1" :"كل شيء في المجتمع السيبراني ",
-"prof-h-2" :" RoboGuard (حماية المسح المستمر) ",
-"prof-h-3" : " 1 انقر فوق معالجة الثغرات الأمنية ",
-"prof-h-4" :"تكامل شودان (بحث القراصنة) " , 
-"prof-h-5" :" RoboAI (دقة الذكاء الاصطناعي وتحديد الأولويات) ",
-"prof-h-6" :" تقرير PDF عن الضعف السيبراني " ,
-"prof-h-7" :" اكتشاف سطح الهجوم ",
-"proh-h-7-2" :"مخطط سطح الهجوم ",
-"prof-h-8" :"مكتبة تثبيت / تحديث WinGet " ,
-"prof-h-9" :" عمليات مسح وأهداف غير محدودة ",
-"prof-h-10" :"أولوية قائمة انتظار المسح على الطبقة المجانية ",
-"prof-h-11" :"الموقع الجغرافي للجهاز ",
-"prof-h-12" :"العلامة التجارية ذات العلامة البيضاء لإعداد التقارير",
-"prof-h-13" :"التقارير المركزية MSP ",
-"prof-h-14" :"جميع الترقيات المستقبلية ",
-"prof-h-15" :"دعم الفريق السيبراني ",
-
-"submit" : "ارسال",
-
-
-"comm-p-five" : "(ضمان استعادة الأموال لمدة 30 يومًا)",
-
-
-
-
-     "enter-h-1" :" كل شيء في Cyber ​​Professional       ",
-"enter-h-2" :" إدارة حساب المستخدم ",
-"enter-h-3" : " ترقيات المستقبل ",
-"enter-h-4" :"دعم الحوكمة السيبرانية " , 
-"enter-h-5" :" دعم الامتثال السيبراني ",
-"enter-h-6" :" دعم اختبار الاختراق السنوي " ,
-"enter-h-7" :" المزيد قادم قريبا.. ",
-
-
-
-
-
-
-
-"ind-title" :"الهند",
-"ind-off" :"مكتب",
-"ind-sh" :"إيشا هاوس، شري داتا مارج،",
-"ind-great" :"سودارشان نجار، قريب",
-"ind" :"معبد جولاند رام,",
-"ind-E" :"تشينشواد، بيون 411033",
-"cyber" : "الالكترونية",
-"s-portal" : "البوابة",
-        
-
-
-
-
-
-
-
-
-
-
-
-
-
-"ask" :"أسئلة مكررة",
-"ask-1" :"لماذا تقدم الكثير مجانا؟",
-"ans-1" :"نحن شركة خاصة وهدفنا هو سد الفجوة في الأمن السيبراني للجميع. للقيام بذلك، كنا بحاجة إلى أفضل طبقة مجانية في العالم.",
-
-"ask-2" :"هل سيتم فرض رسوم على الإصدار المجاني؟",
-"ans-2" :"لا، لا توجد خطة حالية لهذا على الإطلاق.",
-
-"ask-3" :"هل يمكنني استعادة أموالي إذا لم أكن سعيدًا؟",
-"ans-3" :"نعم، إذا لم يعجبك المنتج لأي سبب من الأسباب خلال الشهر الأول، فسنقوم بإعادة أموالك بالكامل.",
-
-"ask-4" :"هل يمكنني استخدام البيانات كدليل للحصول على شهادة Cyber؟",
-"ans-4" :"في الأساس، نعم، سيتعين عليك مراجعة كل جهة اعتماد، لكن منصتنا تعمل على التوفيق بين سطح الهجوم الخاص بك وقواعد بيانات الأمن السيبراني العالمية.",
-
-"ask-5" :"ما الذي يغطيه هذا فعليًا من منظور الشهادة السيبرانية؟",
-"ans-5" :"من المحتمل أن يكون حوالي 70-80% من اختبار الاختراق الداخلي والخارجي القياسي، ويمثل جزءًا كبيرًا من أدوار تقييم الضعف.",
-
-"ask-6" :"هل سأكون مقاومًا للاختراق إذا استخدمت منتجك؟",
-"ans-6" :"يعد الأمن السيبراني نهجًا متعدد الطبقات ولا يوجد أحد مقاوم للاختراق ولكن Robo Shadow سيغطي قدرًا كبيرًا من التزاماتك السيبرانية.",
-
-"ask-7" :"أنا شركة تكنولوجيا معلومات، هل يمكنني إعادة بيع منتجكم؟",
-"ans-7" :"نعم، نقترح حاليًا مشاركة الإيرادات بنسبة 50/50، يرجى الاتصال بنا للمناقشة.",
-
-
-
-
-"foot-price" :"© 2017 - 2024 RoboShadow المحدودة v1.56.22",
-"foot-get" :"احصل على التطبيق",
-        
-
-
-
-
-
-"robo-way" :"طريقة روبو الظل",
-"robo-scan" :"مسح",
-"robo-p-1" :"قم بفحص مؤسستك بأكملها بحثًا عن المخاطر الأمنية",
-
-
-"robo-detect" :"يكشف",
-"robo-p-2" :"اكتشف المكان الذي تكون فيه أكثر عرضة للخطر",
-
-
-"robo-protect" :"يحمي",
-"robo-p-3" :"إزالة جميع نقاط الضعف",
-
-
-"robo-Anticipate" :"يتوقع",
-"robo-p-4" :"كن متقدمًا على الجهات الفاعلة السيئة من خلال التحقق باستمرار من سطح الهجوم الخاص بك",
-
-
-
-
-
-"section-vulnerability-h1" : "محرك فحص الثغرات الأمنية",
-"section-vulnerability-h2" :"(داخلي وخارجي) - الإبلاغ الكامل عن الثغرات الأمنية لسطح الهجوم.",
-"section-li-1" : "عناوين IP الخارجية وموقع الويب 65,535 ماسح المنافذ (بما في ذلك Shodan)",
-"section-li-2" : "لوحة معلومات الثغرات الأمنية الداخلية لتطبيقات Windows",
-"section-li-3" : "تقرير PDF الكامل لتقييم نقاط الضعف في مجال مكافحة التطرف العنيف",
-"section-li-4" : "فحص الثغرات الأمنية لموقع الويب OWASP",
-"section-li-5" :"المسح والأتمتة اليومية (Robo Guard)",
-"section-p-one" : "تقارير مجانية عن الثغرات الأمنية يمكن إثباتها لكل من عناوين IP الخارجية (سطح الهجوم الخارجي) ونقطة النهاية/الأجهزة. تعد القدرة على الحصول على تقييمات الضعف الداخلية والخارجية لعقارك جزءًا كبيرًا من اختبار اختراق الشركات القياسي.",
-"section-p-two" :"تسمح منصة Robo Shadow بشكل فعال للشركات والمؤسسات والأفراد بالوصول إلى تقرير تقييم الثغرات الأمنية يوميًا.",
-"section-i" :" *90% من وظائفنا متاحة في أفضل ما لدينا في العالم",
-"section-ins" : "الطبقة السيبرانية المجانية",
-
-
-
-
-
-
-
-"section-Defender-h1" : "المدافع ومدير AV",
-"section-Defender-h2" :"Windows Defender وإدارة AV للطرف الثالث",
-"section-Defender-li-1" : "تغطية كاملة لـ Windows Defender",
-"section-Defender-li-2" : "تقارير AV للجهات الخارجية (ممكّنة ومحدثة)",
-"section-Defender-li-3" : "تحديثات وتنبيهات المدافع",
-"section-Defender-li-4" : "الصلح مع م/365",
-
-"section-Defender-p-one" : "يتطلب اجتياز اختبار الاختراق الداخلي إثبات التغطية والتمكين الكاملين لمكافحة البرامج الضارة. غالبًا ما تكون بيئاتنا الآن عبارة عن مزيج من Windows Defender وكوكتيل من برامج AV الأخرى التابعة لجهات خارجية.",
-"section-Defender-p-two" :"يحل Windows Defender الآن محل AV التابع لجهات خارجية إلى حد كبير ويحتوي على مجموعة كاملة من الميزات الجيدة الأخرى مثل (Firewall & Anti Ransomware). يتيح لك Robo Shadow إدارة كل من Windows Defender وتغطية AV التابعة لجهات خارجية.",
-"section-Defender-i" :"*90% of our functionality is available on our “World’s Best ”",
-"section-Defender-ins" : "الطبقة السيبرانية المجانية",
-
-
-
-
-
-
-
-
-
-
-"section-update-h1" : "تحديثات أمان الجهاز",
-"section-update-h2" :"حتى اليوم يعد الحفاظ على تحديثات Windows أمرًا بالغ الأهمية لاجتياز اختبار الاختراق الداخلي.",
-"section-update-li-1" : "تقارير تحديث ويندوز",
-"section-update-li-2" : "التقارير المركزية لمستخدمي العملاء المتعددين",
-"section-update-li-3" : "يتضمن محركات الأقراص والتحديثات الهامة",
-"section-update-li-4" : "تحديث تقرير إعادة التشغيل",
-
-"section-update-p-one" : "يمكنك الحصول على جميع وسائل الدفاع الأمنية السيبرانية في العالم، ولكن يمكن أن تخضع ممتلكاتك فورًا لمشكلة أمان Microsoft والتي تحتاج إلى تصحيح/تحديث.",
-"section-update-p-two" :"لا يزال إعداد التقارير عن امتثالك لنظام التشغيل Windows، حتى الآن في هذا العصر الحديث، يمثل تحديًا. يقوم Robo Shadow بمركزية إعداد التقارير الخاصة بالامتثال لـ Windows Update، ويتم التوفيق بينها وبين Active Directory لضمان التغطية الخاصة بك.",
-"section-update-i" :"*90% من وظائفنا متاحة في أفضل ما لدينا في العالم”",
-"section-update-ins" : "الطبقة السيبرانية المجانية",
-
-
-
-
-
-
-
-
-
-
-"MFA-h1" :"تدقيق وزارة الخارجية",
-"MFA-h2"  :"سيقول جميع كبار المتسللين أن MFA هو أدنى ثمرة يمكن مهاجمتها",
-"MFA-li-1" :"تقرير عدم المطابقة MFA",
-"MFA-li-2" : "تقارير MFA للمستخدم الضيف",
-"MFA-li-3" :"امتثال المسؤولين العالميين",
-"MFA-li-4" :"تحديث تقرير إعادة التشغيل",
-"MFA-li-5" :"Azure AD التوفيق",
-"MFA-p-one" :"يبدو أننا جميعًا نعتمد وجود المصادقة متعددة العوامل بشكل جيد. ومع ذلك، ما زلنا نجد أن غالبية العملاء الذين يقومون بتمكين قدرات تدقيق MFA الخاصة بنا يتفاجأون بمدى عدم المطابقة الموجود في استخدام MFA.",
-"MFA-p-two" :"تعتبر هجمات التصيد الاحتيالي أقل أشكال الذكاء عندما يتعلق الأمر بالجرائم السيبرانية، وهي واحدة من أكثر الهجمات شيوعًا لسبب ما.",
-"section-MFA-i" :"*90% من وظائفنا متاحة في أفضل ما لدينا في العالم",
-"section-MFA-ins" : "الطبقة السيبرانية المجانية",
-
-
-
-
-
-"support-h1" :"دعم معتمد",
-"support-h2"  :"يمكن أن يكون الأمن السيبراني عالمًا وحيدًا. يغطي دعمنا السيبراني أفضل الممارسات السيبرانية وإرشادات تقوية البنية التحتية.",
-"support-li-1" :"الدعم من قبل فريق معتمد من Crest",
-"support-li-2" :"نصيحة حول أفضل الممارسات السيبرانية",
-"support-li-3" :"إرشادات تقوية البنية التحتية",
-"support-li-4" :"المساعدة والمشورة في الحوادث",
-"support-p-one" :"لتحقيق هدفنا المتمثل في إزالة الغموض عن الأمن السيبراني، كان جزءًا من هذا سيكون في شكل دعم معتمد في العالم الحقيقي. لا يقتصر الأمر على كل ما يتعلق بالإنترنت فحسب، بل إن فريق RoboShadow عبارة عن فريق ممتد للبنية التحتية والسحابة وأمن الشبكات ويوفر لمستخدمينا مساعدة فردية فيما يتعلق بالاستراتيجيات الإلكترونية والمشكلات والنصائح الصارمة.",
-"section-support-i" :"*90% من وظائفنا متاحة في أفضل ما لدينا في العالم",
-"section-support-ins" : "الطبقة السيبرانية المجانية",
-
-
-
-
-
-"heal-h1" :"شفاء سايبر",
-"heal-p-one"  :"تتيح لك قدرة RoboShadow Cyber ​​Heal ليس فقط اكتشاف نقاط الضعف ولكن أيضًا إصلاحها باستخدام تقنية Cyber ​​Heal الخاصة بنا.",
-"heal-p-two" :"لا يقتصر الأمر على تكوين الأمان فحسب؛ يمكنك تحديث / إزالة البرامج الضعيفة باستخدام Winget، بما في ذلك:",
-"heal-li-1" :"الإزالة عن بعد للتطبيقات التي لم تعد مطلوبة",
-"heal-li-2" :"قم بالتحديث مباشرة من مستودع Microsoft Winget لتقليل الوقت الإجمالي للمعالجة",
-"heal-li-3" :"أحضر برنامجك الخاص لتحديث التطبيقات عن بعد باستخدام ملفات MSI/EXE",
-"heal-p-three" :"يتوفر TCyber ​​Heal كجزء من مجموعة تقنية RoboShadow للمساعدة في تخفيف عبء الأمن السيبراني.",
-"heal-p-four" :"يحل Windows Defender الآن محل AV التابع لجهات خارجية إلى حد كبير ويحتوي على مجموعة كاملة من الميزات الجيدة الأخرى مثل (Firewall & Anti Ransomware). يتيح لك Robo Shadow إدارة كل من Windows Defender وتغطية AV التابعة لجهات خارجية.",
-"section-heal-i" :"*90% من وظائفنا متاحة في أفضل ما لدينا في العالم",
-"section-heal-ins" : "الطبقة السيبرانية المجانية",
-
-
-
-
-
-
-"why-robo" :"لماذا روبوشادو؟",
-"why-p-1" : "نحن في Robo Shadow نحاول سد الفجوة بين المؤسسات ذات المستوى الأعلى التي يمكنها تحمل كل شيء وأي شخص آخر يتعين عليه تعويضه أثناء تقدمه عندما يتعلق الأمر بـ Cyber.",
-"why-p-2" :"تم بناء منصة AI Cyber ​​Platform الشاملة الخاصة بنا على أحدث التقنيات التي تقدمها Microsoft وGoogle وAmazon Web Services من خلال تثليث الأفضل من كل منصة من الأنظمة الأساسية السحابية المهمة.",
-"why-p-3" :"يستطيع فريق Robo Shadow تقديم أدوات على مستوى المؤسسات لمؤسستك مدعومة بفريق الدعم السيبراني في المملكة المتحدة لمساعدتك على فهم البيانات السطحية للهجوم السيبراني.",
-"why-p-4" :"بفضل التصميم البديهي والتقارير اليومية، تسمح بيئة Robo Shadow لفريقك بالانتقال إلى أسلوب Daily Sec Ops، مما يجعل استيعاب الموقف السيبراني أكثر سهولة في الهضم في أجزاء عادية صغيرة الحجم بدلاً من التعامل مع قلق اختبار الاختراق السنوي.",
-
-         
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-"website-h1-1" :"شروط استخدام الموقع" ,
-"website-h1-2" :"يرجى قراءة هذه الشروط والأحكام بعناية قبل استخدام هذا الموقع",
-"website-p-1" :"تم آخر تحديث لشروط الاستخدام هذه: 20 يوليو 2023",
-"website-h2-1" : "من نحن وكيفية الاتصال بنا",
-"website-p-2" :"www.roboshadow.com هي خدمة تديرها شركة Robo Shadow Ltd (نحن، ولنا، وخاصتنا). نحن مسجلون في إنجلترا وويلز تحت رقم الشركة 10726476. ولدينا مكتب مسجل في 92 Friern Gardens, Wickford, Essex, England, SS12 0HD، ومكتبنا التجاري الرئيسي هو 64 Great Eastern St, London, EC2A 3QR.",
-"website-p-3-p-1" :"للاتصال بنا، يرجى البريد الإلكتروني",
-"website-p-3-p-2" :"hello@roboshadow.com",
-"website-p-3-p-3" :"أو اتصل بخط خدمة العملاء لدينا على الرقم +44 20 300 53729",
-
-"website-h2-2" :"تعريفات  ",
-"website-d-p-1-1" :"“الموقع، الموق",
-"website-d-p-1-2" :"www.roboshadow.com",
-"website-d-p-1-3" :"وportal.roboshadow.com وأي صفحات أو نطاقات فرعية مرتبطة بها.",
-"website-d-p-2" :"أنت، ملكك - نفسك كفرد، وموظفيك، والمقاولين من الباطن والشركات التابعة لك.",
-"website-d-p-3" :"نحن، نحن، ملكنا – Robo Shadow Limited",
-"website-d-p-4" :"البوابة – بوابة RoboShadow، بما في ذلك أدوات المسح والتقارير وعناصر الواجهة الأخرى المقدمة لك.",
-"website-s-h2-1" :"باستخدام موقعنا فإنك توافق على شروط الاستخدام هذه",
-"website-s-p-1"  : "باستخدام موقعنا، تؤكد أنت وموظفيك والمقاولين من الباطن والشركات التابعة لك (“أنت”، “خاصتك”) أنك تقبل شروط الاستخدام هذه وأنك توافق على الالتزام بها. تشكل شروط الاستخدام هذه عقدًا ملزمًا بينك وبيننا عندما تقبلها أنت.",
-"website-s-p-2" : "إذا كنت لا توافق على هذه الشروط، فيجب عليك عدم استخدام موقعنا." ,
-"website-s-p-3" : "نوصي بطباعة نسخة من هذه الشروط للرجوع إليها مستقبلاً.",
-"website-s-p-4" : "باستخدام موقعنا، فإنك تؤكد أنك عميل تجاري ولست مستهلكًا. نحن نحتفظ بالحق في طلب إثبات حالة العمل في أي وقت، ويجوز لنا رفض الخدمة لأي مستخدم لا يستطيع تقديم دليل مرضٍ على حالة نشاطه التجاري.",
-"website-s-p-5" :"إذا لم تكن لديك شركة مشروعة، فإنك تستخدم الموقع والبوابة على مسؤوليتك الخاصة.",
-"website-t-h2-1" :"There Are Other Terms That May Apply To You",
-"website-t-p-1" :"تشير شروط الاستخدام هذه إلى الشروط الإضافية التالية، والتي تنطبق أيضًا على استخدامك لموقعنا:",
-"website-t-li-1-1" :"ملكنا ",
-"website-t-li-1-2" :"سياسة الخصوصية",
-"website-t-li-1-3" :"الذي يحدد كيفية استخدامنا لمعلوماتك.",
-
-
-"website-t-li-2-1" :"ملكنا ",
-"website-t-li-2-2" :"سياسة ملفات الارتباط",
-"website-t-li-3-3" :"الذي يحدد معلومات حول ملفات تعريف الارتباط الموجودة على موقعنا.",
-
-
-"website-po-li-3-1" :"ملكنا",
-"website-po-li-3-2" :"شروط استخدام البوابة",
-"website-po-li-3-3" :"يحدد الشروط الخاصة بنا المتعلقة باستخدام منصة RoboShadow.",
-"website-po-li-4" :"اتفاقية ترخيص المستخدم النهائي الخاصة بنا والتي تنطبق إذا قمت بتنزيل RoboShadow Agent من خلال البوابة.",
-"website-po-p-2" :"قد نقوم بإجراء تغييرات على هذه الشروط",
-"website-po-p-3" :"يرجى العلم أن هذه الشروط والأحكام قابلة للتغيير في أي وقت، دون إشعار مسبق. تقع على عاتقك مسؤولية مراجعة هذه الشروط والأحكام بشكل دوري لمعرفة أي تحديثات أو تغييرات. يشكل استمرارك في استخدام خدماتنا ومنصتنا موافقتك على أي تعديلات أو تحديثات على هذه الشروط والأحكام.",
-
-
-
-"website-c-h1-1" :"قد نقوم بإجراء تغييرات على موقعنا",
-"website-c-p-1" :"يجوز لنا تحديث موقعنا وتغييره من وقت لآخر ليعكس التغييرات التي تطرأ على منتجاتنا واحتياجات مستخدمينا وأولويات أعمالنا. سنحاول أن نقدم لك إشعارًا معقولًا بأي تغييرات كبيرة ولكن هذا ليس ممكنًا دائمًا.",
-
-
-"website-w-h1-1" :"يجوز لنا تعليق موقعنا أو سحبه",
-"website-w-p-1" :"موقعنا متاح مجانًا، باستثناء بعض الميزات الموجودة في بوابة RoboShadow، والتي يتم تغطيتها بموجب شروط وأحكام البوابة.",
-"website-w-p-2" :"نحن لا نضمن أن موقعنا، أو أي محتوى فيه، سيكون متاحًا دائمًا أو دون انقطاع. يجوز لنا تعليق أو سحب أو تقييد توفر كل أو أي جزء من موقعنا لأسباب تجارية وتشغيلية. سنحاول أن نقدم لك إشعارًا معقولاً بأي تعليق أو انسحاب.",
-"website-w-p-3" :"أنت مسؤول أيضًا عن التأكد من أن جميع الأشخاص الذين يصلون إلى موقعنا من خلال اتصالك بالإنترنت على علم بشروط الاستخدام هذه وغيرها من الشروط والأحكام المعمول بها، وأنهم يلتزمون بها..",
-
-
-
-"website-r-h1-1" :"نحن لسنا مسؤولين عن المواقع التي نرتبط بها",
-"website-r-p-1" :"عندما يحتوي موقعنا على روابط لمواقع وموارد أخرى مقدمة من أطراف ثالثة، يتم توفير هذه الروابط لمعلوماتك فقط. لا ينبغي تفسير هذه الروابط على أنها موافقة منا على تلك المواقع المرتبطة أو المعلومات التي قد تحصل عليها منها.",
-
-
-"website-con-h1" :"ليس لدينا أي سيطرة على محتويات تلك المواقع أو الموارد.",
-"website-con-p-1" :"المحتوى الذي ينشئه المستخدم غير معتمد من قبلنا.",
-"website-con-p-2" :"قد يتضمن هذا الموقع معلومات ومواد تم تحميلها من قبل مستخدمين آخرين للموقع، بما في ذلك لوحات الإعلانات وغرف الدردشة. لم يتم التحقق من هذه المعلومات وهذه المواد أو الموافقة عليها من قبلنا. الآراء التي عبر عنها المستخدمون الآخرون على موقعنا لا تمثل وجهات نظرنا أو قيمنا.",
-"website-con-p-3-1" :"إذا قام المستخدم بتحميل شيء ما على موقعنا وهو غير قانوني أو ضار، فيرجى الإبلاغ عن ذلك إلى",
-"website-con-p-3-2" :"hello@roboshadow.com",
-"website-con-p-3-3" :"بحيث يمكن إنزال هذا خلال 24 ساعة.",
-
-
-
-
-"website-lia-h1" :"مسئولية قانونية",
-"website-lia-p-1" :"نحن لا نستبعد أو نحد بأي شكل من الأشكال من مسؤوليتنا تجاهك عندما يكون القيام بذلك غير قانوني. يتضمن ذلك المسؤولية عن الوفاة أو الإصابة الشخصية الناجمة عن إهمالنا أو إهمال موظفينا أو وكلائنا أو المقاولين من الباطن وعن الاحتيال أو التحريف الاحتيالي.",
-"website-lia-p-2" :"نحن نستبعد جميع الشروط أو الضمانات أو الإقرارات الضمنية أو غيرها من الشروط الضمنية التي قد تنطبق على موقعنا أو أي محتوى عليه.",
-"website-lia-p-3" :"لن نكون مسؤولين تجاهك عن أي خسارة أو ضرر، سواء في العقد أو الضرر (بما في ذلك الإهمال) أو خرق الواجب القانوني أو غير ذلك، حتى لو كان متوقعًا، والذي ينشأ بموجب أو فيما يتعلق بما يلي:",
-"website-lia-li-1" :"استخدام موقعنا أو عدم القدرة على استخدامه؛ أو", 
-"website-lia-li-2" :"use of or reliance on any content displayed on our site.",
-"website-lia-li-3" :"In particular, we will not be liable for:",
-"website-lia-li-4" :"loss of profits, sales, business, or revenue;",
-"website-lia-li-5" :"business interruption;",
-"website-lia-li-6" :"loss of anticipated savings;",
-"website-lia-li-7" :"loss of business opportunity, goodwill or reputation; or",
-"website-lia-li-8" :"any indirect or consequential loss or damage.",
-
-
-
-"website-info-h1" :"How We May Use Your Personal Information",
-"website-info-p-1-1" :"We will only use your personal information as set out in our ." ,
-"website-info-p-1-2" :"Privacy Policy",
-
-"website-ob-h1" :"Your Obligations When Using Our Site.",
-"website-ob-p-1"   : "You must keep your account details safe",
-"website-ob-p-2" :"If you choose, or you are provided with, a user identification code, password or any other piece of information as part of our security procedures, you must treat such information as confidential. You must not disclose it to any third party.",
-"website-ob-p-3" :"We have the right to disable any user identification code or password, whether chosen by you or allocated by us, at any time, if in our reasonable opinion you have failed to comply with any of the provisions of these terms of use.",
-"website-ob-p-4-1" :"If you know or suspect that anyone other than you knows your user identification code or password, you must promptly notify us at .",
-"website-ob-p-4-2" :"hello@roboshadow.com",
-
-
-"website-mat-h1" :"How You May Use Material On Our Site",
-"website-mat-p-1" :"You may print off one copy, and may download extracts, of any page(s) from our site for your personal use and you may draw the attention of others within your organisation to content posted on our site.",
-"website-mat-p-2" :"You must not modify the paper or digital copies of any materials you have printed off or downloaded in any way, and you must not use any illustrations, photographs, video or audio sequences or any graphics separately from any accompanying text.",
-"website-mat-p-3" :"Our status (and that of any identified contributors) as the authors of content on our site must always be acknowledged.",
-"website-mat-p-4" :"You must not use any part of the content on our site for commercial purposes without obtaining a licence to do so from us or our licensors.",
-"website-mat-p-5" :"If you print off, copy or download any part of our site in breach of these terms of use, your right to use our site will cease immediately and you must, at our option, return or destroy any copies of the materials you have made.",
-
-
-"website-not-h1" :"Do Not Rely On Information On This Site",
-"website-not-p-1" :"The content on our site is provided for general information only. It is not intended to amount to advice on which you should rely. You must obtain professional or specialist advice before taking, or refraining from, any action on the basis of the content on our site. Although we make reasonable efforts to update the information on our site, we make no representations, warranties or guarantees, whether express or implied, that the content on our site is accurate, complete or up to date. Therefore, we cannot be held liable for any direct or indirect damages or losses resulting from the use of our site or its content. By using our platform, you acknowledge and agree that any decisions or actions taken based on the information on our site are at your own risk and that we will not be held liable for any consequences that may arise.",
-
-
-"website-acc-h1" :"Acceptable Use Of Site" ,
-"website-acc-p-1" :"When you upload or post content to our site, you agree that you will not:",
-"website-acc-li-1" :"Upload any image, text or data that is illegal or harmful in nature. This includes, but is not limited to, pornography, hate speech, and content that promotes violence or discrimination. Any user found violating this rule may be subject to immediate account termination and legal action if deemed necessary. We reserve the right to remove any such content without notice or explanation.",
-"website-acc-li-2" :"Misrepresent our company in any way when using our reports or services. This means that you may not use our platform to promote false or misleading information about our company or our products and services. Additionally, you may not use our reports or services to make false claims or promises about the outcome or results of using our platform. Any user found to be engaging in such misrepresentation will be subject to immediate account termination and legal action if necessary. We take our company's reputation very seriously, and we expect our users to do the same.",
-
-
-"website-int-h1" :"Intellectual Property And Rights",
-"website-int-p-1" :"When you upload or post content to our site, you grant us the following rights to use that content:",
-"website-int-li-1" :"a worldwide, non-exclusive, royalty-free, transferable licence to use, reproduce, distribute, prepare derivative works of, display, and perform that user-generated content in connection with the service provided by the website and across different media including to promote the site or the service, to expire when the user deletes the content from the site,.",
-"website-int-li-2" :"a worldwide, non-exclusive, royalty-free, transferable licence for other users, partners or advertisers to use the content in accordance with the functionality of the site, to expire when the user deletes the content from the site.",
-
-
-"website-tra-h1" :"Trademarks And Intellectual Property",
-"website-tra-p-1" :"We are the owner or the licensee of all intellectual property rights in our site, and in the material published on it. Those works are protected by copyright laws and treaties around the world. All such rights are reserved.",
-"website-tra-p-2" :"Roboshadow and Robo are registered trademarks in the United Kingdom (Registration Number UK00003347019) and the United States of America (Registration Number 6,010,347). The use of these trademarks without our prior written consent is strictly prohibited. Any unauthorized use of these trademarks may result in legal action. We take the protection of our intellectual property rights very seriously and will pursue all legal remedies available to us to protect our trademarks.",
-
-
-"website-vir-h1" :"We Are Not Responsible For Viruses And You Must Not Introduce Them",
-"website-vir-p-1" :"We do not guarantee that our site will be secure or free from bugs or viruses or security threats, although we follow a strict security protocol to prevent this from happening.",
-"website-vir-p-2": "You are responsible for configuring your information technology, computer programmes and platform to access our site. You should use your own virus protection software.",
-"website-vir-p-3"  :"You must not misuse our site by knowingly introducing viruses, trojans, worms, logic bombs or other material that is malicious or technologically harmful. You must not attempt to gain unauthorised access to our site, the server on which our site is stored or any server, computer or database connected to our site. You must not attack our site via a denial-of-service attack or a distributed denial-of service attack. By breaching this provision, you would commit a criminal offence under the Computer Misuse Act 1990. We will report any such breach to the relevant law enforcement authorities and we will co-operate with those authorities by disclosing your identity to them. In the event of such a breach, your right to use our site will cease immediately.",
-
-
-"website-wh-h1" :"Which Country's Laws Apply To Any Disputes?",
-"website-wh-p-1" :"You and we both agree that the courts of England and Wales will have exclusive jurisdiction except that if you are a resident of Northern Ireland you may also bring proceedings in Northern Ireland, and if you are resident of Scotland, you may also bring proceedings in Scotland.",
-"website-wh-p-2" :"These terms of use, their subject matter and their formation (and any non-contractual disputes or claims) are governed by English law. We both agree to the exclusive jurisdiction of the courts of England and Wales."
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-,
-
-"vulnerability-scanner" :"ماسح الثغرات الأمنية",
-"scanner-back-p" : "يتم تضمين أداة فحص الثغرات المجانية ذات المستوى العالمي ضمن منصة الإنترنت الخاصة بنا، وهي مصممة لاكتشاف وتحديد أي نقاط ضعف داخل نظامك أو شبكتك. من خلال الفحص المنتظم، يمكنك الحفاظ على عمليات تكنولوجيا المعلومات الخاصة بك آمنة تمامًا، مما يضمن أقصى قدر من الحماية ضد الهجمات الضارة."
-,
-"comma-p":  "جميع الأدوات اللازمة للمساعدة في اجتياز شهادات الامتثال واختبارات الاختراق - يتم تقديمها مجانًا يوميًا بطريقة إزالة الغموض من قبل فريق دعم إلكتروني عالمي المستوى"
-,
-"who-h1" : "من هو الأفضل بالنسبة لـRobo Shadow؟"      ,
-"who-p-1": "أصحاب تكنولوجيا المعلومات الذين يحتاجون إلى أدوات لإدارة الإنترنت وإبلاغ الإدارة بالحوكمة",
+  "cate": "الفئات",
+  "don't-miss": "لا تفوت",
+  "CorrectSOC": "CorrectSOC",
+  "products": "منتجات",
+  "about-us": "عنا",
+  "price": "التسعير",
+  "blog": "مدونة",
+  "contact": "اتصال",
+  "login": "تسجيل الدخول",
+  "create-account": " انشاء حساب " ,
+  "cyber-security": "الأمن الالكتروني",
+  "demy": "ازالة الغموض",
+  "learn-more": "يتعلم اكثر",
+  "vulnerability-scanner": "ماسح الثغرات الأمنية",
+  "defender": "المدافع ومدير AV",
+  "cyber-coverage": "التغطية السيبرانية",
+  "encryption-coverage": "تغطية التشفير",
+  "device-security-updates": "تحديثات أمان الجهاز",
+  "MFA-auditing": "تدقيق MFA",
+  "certified-support": "دعم معتمد",
+  "cyber-heal": "شفاء سايبر",
+  "cyber-platform": "الثغرات الامنية",
+  "contact-us": "اتصل بنا",
+  "email": "البريد الالكتروني",
+  "phone": "الهاتف",
+  "head-office": "المكتب الرئيسي",
+  "site-map": "خريطة الموقع",
+  "home": "الرئيسية",
+  "andriod": "الماسح الضوئي",
+  "legal": "قانوني",
+  "terms": "شروط الموقع",
+  "portal": "شروط البوابه",
+  "privacy": "سياسة الخصوصية",
+  "cookie": "سياسة ملفات الارتباط",
+  "abt-us": "معلومات عنا",
+  "discover-more": "اكتشف المزيد",
+  "about-top-p": "ستسمح لك تقنية المسح الإلكتروني الخاصة بنا بمسح الشبكات بحثا عن نفس الشيءالمآثر التي سيبحث عنها المتسللون.",
+  "about-p-one": "كشركة ناشئة ، فإن أحد الجوانب الأكثر إثارة هو الرحلة التي نخوضها وعملية تحديد نوع المنظمة التي نريد أن نكونها. نشعر أن إطلاق منتجنا كمصدر مفتوح هو خيار نود استكشافه في المستقبل ، ونرحب بأي تعليقات حول هذا المفهوم. في الوقت الحالي ، يتمثل بيان مهمتنا الأساسي في جعل الأمن السيبراني بسيطا ، بحيث تتاح للجميع فرصة",
+  "about-p-two": "نأمل في تحقيق ذلك من خلال ضمان منح مستخدمينا تقييما مجانيا وكاملا لنقاط الضعف في الأمن السيبراني ، والذي يغطي منصات الهجوم الداخلية والخارجية. من هنا ، نقدم لوحة تحكم يومية بسيطة تسرد نقاط الضعف الخاصة بك وتسمح بحدوث المعالجة بسلاسة من وحدة التحكم. تتيح منصتنا لمستخدمينا تطوير عمليات الامتثال السيبراني الخاصة بهم شيئا فشيئا.",
+  "driven-by": " العلم",
+  "driven": "يقودها",
+  "accomplish-by": "لإنجاز المزيد",
+  "driven-p-one": "نحن محظوظون للعمل في عصر تكنولوجي دائم التغير وسريع الخطى. نقضي الكثير من الوقت في بناء دليل على مفهوم التكنولوجيا التجريبية حتى نتمكن من اختبار حدود Cyber Tech.",
+  "driven-p-two": "نأمل أن يكون الأمر بسيطًا، بحيث يكون لدى الجميع نفس الشيء فرصة. من خلال إتاحة هذه المؤسسات بسهولة، يمكن الوصول إلى السوق الأوسع في كثير من الحالات. تطلب في المساعدة الجميع شبكاتهم الخاصة مثل المحترفين.",
+
+  "use": "استخدام ",
+  "complete": "مجانية تماما",
+  "login-p-one": "إزالة الغموض عن الأمن السيبراني",
+  "login-email": "تسجيل الدخول باستخدام البريد الالكتروني",
+  "login-google": "الدخول باستخدام جوجل",
+  "login-micro": "تسجيل الدخول باستخدام مايكروسوفت",
+  "login-p-two-o": "لانشاء حساب جديد",
+  "login-p-two-l": " قم بالتسجيل",
+  "login-p-two-t": "هنا",
+  "login-two": "من خلال المتابعه فانك تشير الى قبول",
+  "login-terms-o": "الشروط والاحكام",
+  "login-terms-m": " و سياسة",
+  "login-terms-l": "الخصوصيه",
+  "login-last": "المحدوده",
+  "contact-p-one": "نحن شركة عالمية، مقرها الرئيسي في لندن. تمتد عملية التطوير لدينا إلى الهند وأستراليا، لذا كفريق تكنولوجي نحن عالميون حقًا. يرجى الاتصال بنا عبر نموذج الاتصال أو لا تتردد في الاتصال بنا على وسائل التواصل الاجتماعي.",
+  "get-touch": "ابقى على تواصل",
+  "name": "الاسم",
+  "msg": "رسالة",
+
+  "london-title": "لندن",
+  "london-off": "مكتب",
+  "london-sh": " عنوان المكتب  المسجلThe Apex, 2 Sheriffs Orchard , كوفنتري, ويست لندن, المملكة المتحدة, CV1 3PP UK",
+  "london-great": "64 ش الشرقي الكبير",
+  "london": "لندن",
+  "london-E": "EC2A 3QR، المملكة المتحدة",
+
+  "eg-title": "مصر",
+  "eg-off": "مكتب",
+  "eg-sh": "٣٣ شارع الدكتور إبراهيم أبو النجا الحى السابع مدينه نصر الدور الثانى",
+  "aus-great": "إرسكينفيل 2043",
+  "aus": "سيدني",
+  "aus-E": "أستراليا",
+
+  "create-small": "انشاء حساب",
+  "most-pop": "الأكثر شعبية",
+  "discount": "خصم 50% لأصحاب MSP",
+  "free": "مجانا",
+  "community": "مجتمع",
+  "prof": "احترافي",
+  "enter": "مَشرُوع ",
+  "price-p-one": "تهدف إلى السماح لأي منظمة على هذا الكوكب بالحصول على تقييم نقاط الضعف الداخلية والخارجية كل يوم. ",
+  "prof-p-one": "كل شيء في الطبقة المجانية ولكن مع تراكب تكنولوجيا الذكاء الاصطناعي الإضافي، تمت إضافة الكثير من الأشياء الجيدة لتوفير وقت فريق تكنولوجيا الأعمال. ",
+  "enter-p-one": "كل شيء في Cyber ​​Professional ولكن مع تراكب فريق الحوكمة المتقدم للفرق المتقدمة. ",
+  "prof-price": "20 جنيهًا إسترلينيًا شهريًا ",
+  "enter-price": "200 جنيه استرليني / شهر ",
+  "comm-p-two": "(جميع وكلاء الأجهزة مجانيون) ",
+  "comm-p-three": "(+1 جنيه إسترليني لكل جهاز Cyber ​​Heal - اختياري) ",
+  "comm-p-four": "(لا توجد بطاقة مطلوبة) ",
+  "sign-up": "اشتراك",
+  "feature": "أبرز الميزات ",
+  "comm-h-1": " المسح السطحي لهجوم IP الخارجي ",
+  "comm-h-2": " الإبلاغ عن الثغرات الأمنية في Windows CVE ",
+  "comm-h-3": "أداة فحص أمان مواقع الويب (OWASP) ",
+  "comm-h-4": " Azure AD / 365 تسوية الأجهزة ",
+  "comm-h-5": " تقارير الامتثال MFA ",
+  "comm-h-6": " إدارة Windows AV والمدافع ",
+  "comm-h-7": " ويندوز تحديث المصالحة ",
+  "comm-h-8": "ترقيات المستقبل ",
+  "comm-h-9": " دعم المجتمع ",
+  "comm-h-10": "استكشاف جميع الميزات ",
+
+  "prof-h-1": "كل شيء في المجتمع السيبراني ",
+  "prof-h-2": " RoboGuard (حماية المسح المستمر) ",
+  "prof-h-3": " 1 انقر فوق معالجة الثغرات الأمنية ",
+  "prof-h-4": "تكامل شودان (بحث القراصنة) ",
+  "prof-h-5": " RoboAI (دقة الذكاء الاصطناعي وتحديد الأولويات) ",
+  "prof-h-6": " تقرير PDF عن الضعف السيبراني ",
+  "prof-h-7": " اكتشاف سطح الهجوم ",
+  "proh-h-7-2": "مخطط سطح الهجوم ",
+  "prof-h-8": "مكتبة تثبيت / تحديث WinGet ",
+  "prof-h-9": " عمليات مسح وأهداف غير محدودة ",
+  "prof-h-10": "أولوية قائمة انتظار المسح على الطبقة المجانية ",
+  "prof-h-11": "الموقع الجغرافي للجهاز ",
+  "prof-h-12": "العلامة التجارية ذات العلامة البيضاء لإعداد التقارير",
+  "prof-h-13": "التقارير المركزية MSP ",
+  "prof-h-14": "جميع الترقيات المستقبلية ",
+  "prof-h-15": "دعم الفريق السيبراني ",
+
+  "submit": "ارسال",
+
+  "comm-p-five": "(ضمان استعادة الأموال لمدة 30 يومًا)",
+
+  "enter-h-1": " كل شيء في Cyber ​​Professional       ",
+  "enter-h-2": " إدارة حساب المستخدم ",
+  "enter-h-3": " ترقيات المستقبل ",
+  "enter-h-4": "دعم الحوكمة السيبرانية ",
+  "enter-h-5": " دعم الامتثال السيبراني ",
+  "enter-h-6": " دعم اختبار الاختراق السنوي ",
+  "enter-h-7": " المزيد قادم قريبا.. ",
+
+  "ind-title": "الهند",
+  "ind-off": "مكتب",
+  "ind-sh": "إيشا هاوس، شري داتا مارج،",
+  "ind-great": "سودارشان نجار، قريب",
+  "ind": "معبد جولاند رام,",
+  "ind-E": "تشينشواد، بيون 411033",
+  "cyber": "الالكترونية",
+  "s-portal": "البوابة",
+
+  "ask": "أسئلة مكررة",
+  "ask-1": "لماذا تقدم الكثير مجانا؟",
+  "ans-1": "نحن شركة خاصة وهدفنا هو سد الفجوة في الأمن السيبراني للجميع. للقيام بذلك، كنا بحاجة إلى أفضل طبقة مجانية في العالم.",
+
+  "ask-2": "هل سيتم فرض رسوم على الإصدار المجاني؟",
+  "ans-2": "لا، لا توجد خطة حالية لهذا على الإطلاق.",
+
+  "ask-3": "هل يمكنني استعادة أموالي إذا لم أكن سعيدًا؟",
+  "ans-3": "نعم، إذا لم يعجبك المنتج لأي سبب من الأسباب خلال الشهر الأول، فسنقوم بإعادة أموالك بالكامل.",
+
+  "ask-4": "هل يمكنني استخدام البيانات كدليل للحصول على شهادة Cyber؟",
+  "ans-4": "في الأساس، نعم، سيتعين عليك مراجعة كل جهة اعتماد، لكن منصتنا تعمل على التوفيق بين سطح الهجوم الخاص بك وقواعد بيانات الأمن السيبراني العالمية.",
+
+  "ask-5": "ما الذي يغطيه هذا فعليًا من منظور الشهادة السيبرانية؟",
+  "ans-5": "من المحتمل أن يكون حوالي 70-80% من اختبار الاختراق الداخلي والخارجي القياسي، ويمثل جزءًا كبيرًا من أدوار تقييم الضعف.",
+
+  "ask-6": "هل سأكون مقاومًا للاختراق إذا استخدمت منتجك؟",
+  "ans-6": "يعد الأمن السيبراني نهجًا متعدد الطبقات ولا يوجد أحد مقاوم للاختراق ولكن CorrectSOC سيغطي قدرًا كبيرًا من التزاماتك السيبرانية.",
+
+  "ask-7": "أنا شركة تكنولوجيا معلومات، هل يمكنني إعادة بيع منتجكم؟",
+  "ans-7": "نعم، نقترح حاليًا مشاركة الإيرادات بنسبة 50/50، يرجى الاتصال بنا للمناقشة.",
+
+  "foot-price": "© 2017 - 2024 CorrectSOC المحدودة v1.56.22",
+  "foot-get": "احصل على التطبيق",
+  "address" :"  مصر القاهره ٣٣ شارع الدكتور إبراهيم أبو النجا الحى السابع مدينه نصر الدور الثانى     , The Apex, 2 Sheriffs Orchard, كوفنتري, ويست لندن, المملكة المتحدة, CV1 3PP UK   ",
+
+  "robo-way": "طريقة روبو الظل",
+  "robo-scan": "مسح",
+  "robo-p-1": "قم بفحص مؤسستك بأكملها بحثًا عن المخاطر الأمنية",
+
+  "robo-detect": "يكشف",
+  "robo-p-2": "اكتشف المكان الذي تكون فيه أكثر عرضة للخطر",
+
+  "robo-protect": "يحمي",
+  "robo-p-3": "إزالة جميع نقاط الضعف",
+
+  "robo-Anticipate": "يتوقع",
+  "robo-p-4": "كن متقدمًا على الجهات الفاعلة السيئة من خلال التحقق باستمرار من سطح الهجوم الخاص بك",
+
+  "section-vulnerability-h1": "محرك فحص الثغرات الأمنية",
+  "section-vulnerability-h2": "(داخلي وخارجي) - الإبلاغ الكامل عن الثغرات الأمنية لسطح الهجوم.",
+  "section-li-1": "عناوين IP الخارجية وموقع الويب 65,535 ماسح المنافذ (بما في ذلك Shodan)",
+  "section-li-2": "لوحة معلومات الثغرات الأمنية الداخلية لتطبيقات Windows",
+  "section-li-3": "تقرير PDF الكامل لتقييم نقاط الضعف في مجال مكافحة التطرف العنيف",
+  "section-li-4": "فحص الثغرات الأمنية لموقع الويب OWASP",
+  "section-li-5": "المسح والأتمتة اليومية (Robo Guard)",
+  "section-p-one": "تقارير مجانية عن الثغرات الأمنية يمكن إثباتها لكل من عناوين IP الخارجية (سطح الهجوم الخارجي) ونقطة النهاية/الأجهزة. تعد القدرة على الحصول على تقييمات الضعف الداخلية والخارجية لعقارك جزءًا كبيرًا من اختبار اختراق الشركات القياسي.",
+  "section-p-two": "تسمح منصة CorrectSOC بشكل فعال للشركات والمؤسسات والأفراد بالوصول إلى تقرير تقييم الثغرات الأمنية يوميًا.",
+  "section-i": " *90% من وظائفنا متاحة في أفضل ما لدينا في العالم",
+  "section-ins": "الطبقة السيبرانية المجانية",
+
+  "section-Defender-h1": "المدافع ومدير AV",
+  "section-Defender-h2": "Windows Defender وإدارة AV للطرف الثالث",
+  "section-Defender-li-1": "تغطية كاملة لـ Windows Defender",
+  "section-Defender-li-2": "تقارير AV للجهات الخارجية (ممكّنة ومحدثة)",
+  "section-Defender-li-3": "تحديثات وتنبيهات المدافع",
+  "section-Defender-li-4": "الصلح مع م/365",
+
+  "section-Defender-p-one": "يتطلب اجتياز اختبار الاختراق الداخلي إثبات التغطية والتمكين الكاملين لمكافحة البرامج الضارة. غالبًا ما تكون بيئاتنا الآن عبارة عن مزيج من Windows Defender وكوكتيل من برامج AV الأخرى التابعة لجهات خارجية.",
+  "section-Defender-p-two": "يحل Windows Defender الآن محل AV التابع لجهات خارجية إلى حد كبير ويحتوي على مجموعة كاملة من الميزات الجيدة الأخرى مثل (Firewall & Anti Ransomware). يتيح لك CorrectSOC إدارة كل من Windows Defender وتغطية AV التابعة لجهات خارجية.",
+  "section-Defender-i": "*90% of our functionality is available on our “World’s Best ”",
+  "section-Defender-ins": "الطبقة السيبرانية المجانية",
+
+  "section-update-h1": "تحديثات أمان الجهاز",
+  "section-update-h2": "حتى اليوم يعد الحفاظ على تحديثات Windows أمرًا بالغ الأهمية لاجتياز اختبار الاختراق الداخلي.",
+  "section-update-li-1": "تقارير تحديث ويندوز",
+  "section-update-li-2": "التقارير المركزية لمستخدمي العملاء المتعددين",
+  "section-update-li-3": "يتضمن محركات الأقراص والتحديثات الهامة",
+  "section-update-li-4": "تحديث تقرير إعادة التشغيل",
+
+  "section-update-p-one": "يمكنك الحصول على جميع وسائل الدفاع الأمنية السيبرانية في العالم، ولكن يمكن أن تخضع ممتلكاتك فورًا لمشكلة أمان Microsoft والتي تحتاج إلى تصحيح/تحديث.",
+  "section-update-p-two": "لا يزال إعداد التقارير عن امتثالك لنظام التشغيل Windows، حتى الآن في هذا العصر الحديث، يمثل تحديًا. يقوم CorrectSOC بمركزية إعداد التقارير الخاصة بالامتثال لـ Windows Update، ويتم التوفيق بينها وبين Active Directory لضمان التغطية الخاصة بك.",
+  "section-update-i": "*90% من وظائفنا متاحة في أفضل ما لدينا في العالم”",
+  "section-update-ins": "الطبقة السيبرانية المجانية",
+
+  "MFA-h1": "تدقيق وزارة الخارجية",
+  "MFA-h2": "سيقول جميع كبار المتسللين أن MFA هو أدنى ثمرة يمكن مهاجمتها",
+  "MFA-li-1": "تقرير عدم المطابقة MFA",
+  "MFA-li-2": "تقارير MFA للمستخدم الضيف",
+  "MFA-li-3": "امتثال المسؤولين العالميين",
+  "MFA-li-4": "تحديث تقرير إعادة التشغيل",
+  "MFA-li-5": "Azure AD التوفيق",
+  "MFA-p-one": "يبدو أننا جميعًا نعتمد وجود المصادقة متعددة العوامل بشكل جيد. ومع ذلك، ما زلنا نجد أن غالبية العملاء الذين يقومون بتمكين قدرات تدقيق MFA الخاصة بنا يتفاجأون بمدى عدم المطابقة الموجود في استخدام MFA.",
+  "MFA-p-two": "تعتبر هجمات التصيد الاحتيالي أقل أشكال الذكاء عندما يتعلق الأمر بالجرائم السيبرانية، وهي واحدة من أكثر الهجمات شيوعًا لسبب ما.",
+  "section-MFA-i": "*90% من وظائفنا متاحة في أفضل ما لدينا في العالم",
+  "section-MFA-ins": "الطبقة السيبرانية المجانية",
+
+  "support-h1": "دعم معتمد",
+  "support-h2": "يمكن أن يكون الأمن السيبراني عالمًا وحيدًا. يغطي دعمنا السيبراني أفضل الممارسات السيبرانية وإرشادات تقوية البنية التحتية.",
+  "support-li-1": "الدعم من قبل فريق معتمد من Crest",
+  "support-li-2": "نصيحة حول أفضل الممارسات السيبرانية",
+  "support-li-3": "إرشادات تقوية البنية التحتية",
+  "support-li-4": "المساعدة والمشورة في الحوادث",
+  "support-p-one": "لتحقيق هدفنا المتمثل في إزالة الغموض عن الأمن السيبراني، كان جزءًا من هذا سيكون في شكل دعم معتمد في العالم الحقيقي. لا يقتصر الأمر على كل ما يتعلق بالإنترنت فحسب، بل إن فريق CorrectSOC عبارة عن فريق ممتد للبنية التحتية والسحابة وأمن الشبكات ويوفر لمستخدمينا مساعدة فردية فيما يتعلق بالاستراتيجيات الإلكترونية والمشكلات والنصائح الصارمة.",
+  "section-support-i": "*90% من وظائفنا متاحة في أفضل ما لدينا في العالم",
+  "section-support-ins": "الطبقة السيبرانية المجانية",
+
+  "heal-h1": "شفاء سايبر",
+  "heal-p-one": "تتيح لك قدرة CorrectSOC Cyber ​​Heal ليس فقط اكتشاف نقاط الضعف ولكن أيضًا إصلاحها باستخدام تقنية Cyber ​​Heal الخاصة بنا.",
+  "heal-p-two": "لا يقتصر الأمر على تكوين الأمان فحسب؛ يمكنك تحديث / إزالة البرامج الضعيفة باستخدام Winget، بما في ذلك:",
+  "heal-li-1": "الإزالة عن بعد للتطبيقات التي لم تعد مطلوبة",
+  "heal-li-2": "قم بالتحديث مباشرة من مستودع Microsoft Winget لتقليل الوقت الإجمالي للمعالجة",
+  "heal-li-3": "أحضر برنامجك الخاص لتحديث التطبيقات عن بعد باستخدام ملفات MSI/EXE",
+  "heal-p-three": "يتوفر TCyber ​​Heal كجزء من مجموعة تقنية CorrectSOC للمساعدة في تخفيف عبء الأمن السيبراني.",
+  "heal-p-four": "يحل Windows Defender الآن محل AV التابع لجهات خارجية إلى حد كبير ويحتوي على مجموعة كاملة من الميزات الجيدة الأخرى مثل (Firewall & Anti Ransomware). يتيح لك CorrectSOC إدارة كل من Windows Defender وتغطية AV التابعة لجهات خارجية.",
+  "section-heal-i": "*90% من وظائفنا متاحة في أفضل ما لدينا في العالم",
+  "section-heal-ins": "الطبقة السيبرانية المجانية",
+
+  "the-robo-shadow-way": "طريقة كوركت سوك",
+  "cyber": "الثغرات",
+  "platform": "الامنيه",
+  "why": " لماذا  ",
+  "robo": " Correct ",
+  "shadow": "SOC ؟ ",
+  "why-p-1": "نحن في CorrectSOC نحاول سد الفجوة بين المؤسسات ذات المستوى الأعلى التي يمكنها تحمل كل شيء وأي شخص آخر يتعين عليه تعويضه أثناء تقدمه عندما يتعلق الأمر بـ Cyber.",
+  "why-p-2": "تم بناء منصة AI Cyber ​​Platform الشاملة الخاصة بنا على أحدث التقنيات التي تقدمها Microsoft وGoogle وAmazon Web Services من خلال تثليث الأفضل من كل منصة من الأنظمة الأساسية السحابية المهمة.",
+  "why-p-3": "يستطيع فريق CorrectSOC تقديم أدوات على مستوى المؤسسات لمؤسستك مدعومة بفريق الدعم السيبراني في المملكة المتحدة لمساعدتك على فهم البيانات السطحية للهجوم السيبراني.",
+  "why-p-4": "بفضل التصميم البديهي والتقارير اليومية، تسمح بيئة CorrectSOC لفريقك بالانتقال إلى أسلوب Daily Sec Ops، مما يجعل استيعاب الموقف السيبراني أكثر سهولة في الهضم في أجزاء عادية صغيرة الحجم بدلاً من التعامل مع قلق اختبار الاختراق السنوي.",
+
+  "about": " معلومات",
+
+  "website-h1-1": "شروط استخدام الموقع",
+  "website-h1-2": "يرجى قراءة هذه الشروط والأحكام بعناية قبل استخدام هذا الموقع",
+  "website-p-1": "تم آخر تحديث لشروط الاستخدام هذه: 20 يوليو 2023",
+  "website-h2-1": "من نحن وكيفية الاتصال بنا",
+  "website-p-2": "www.CorrectSOC.com هي خدمة تديرها شركة CorrectSOC Ltd (نحن، ولنا، وخاصتنا). نحن مسجلون في إنجلترا وويلز تحت رقم الشركة 10726476. ولدينا مكتب مسجل في 92 Friern Gardens, Wickford, Essex, England, SS12 0HD، ومكتبنا التجاري الرئيسي هو 64 Great Eastern St, London, EC2A 3QR.",
+  "website-p-3-p-1": "للاتصال بنا، يرجى البريد الإلكتروني",
+  "website-p-3-p-2": "hello@CorrectSOC.com",
+  "website-p-3-p-3": "أو اتصل بخط خدمة العملاء لدينا على الرقم +44 20 300 53729",
+
+  "website-h2-2": "تعريفات  ",
+  "website-d-p-1-1": "“الموقع، الموق",
+  "website-d-p-1-2": "www.CorrectSOC.com",
+  "website-d-p-1-3": "وportal.CorrectSOC.com وأي صفحات أو نطاقات فرعية مرتبطة بها.",
+  "website-d-p-2": "أنت، ملكك - نفسك كفرد، وموظفيك، والمقاولين من الباطن والشركات التابعة لك.",
+  "website-d-p-3": "نحن، نحن، ملكنا – CorrectSOC Limited",
+  "website-d-p-4": "البوابة – بوابة CorrectSOC، بما في ذلك أدوات المسح والتقارير وعناصر الواجهة الأخرى المقدمة لك.",
+  "website-s-h2-1": "باستخدام موقعنا فإنك توافق على شروط الاستخدام هذه",
+  "website-s-p-1": "باستخدام موقعنا، تؤكد أنت وموظفيك والمقاولين من الباطن والشركات التابعة لك (“أنت”، “خاصتك”) أنك تقبل شروط الاستخدام هذه وأنك توافق على الالتزام بها. تشكل شروط الاستخدام هذه عقدًا ملزمًا بينك وبيننا عندما تقبلها أنت.",
+  "website-s-p-2": "إذا كنت لا توافق على هذه الشروط، فيجب عليك عدم استخدام موقعنا.",
+  "website-s-p-3": "نوصي بطباعة نسخة من هذه الشروط للرجوع إليها مستقبلاً.",
+  "website-s-p-4": "باستخدام موقعنا، فإنك تؤكد أنك عميل تجاري ولست مستهلكًا. نحن نحتفظ بالحق في طلب إثبات حالة العمل في أي وقت، ويجوز لنا رفض الخدمة لأي مستخدم لا يستطيع تقديم دليل مرضٍ على حالة نشاطه التجاري.",
+  "website-s-p-5": "إذا لم تكن لديك شركة مشروعة، فإنك تستخدم الموقع والبوابة على مسؤوليتك الخاصة.",
+  "website-t-h2-1": "There Are Other Terms That May Apply To You",
+  "website-t-p-1": "تشير شروط الاستخدام هذه إلى الشروط الإضافية التالية، والتي تنطبق أيضًا على استخدامك لموقعنا:",
+  "website-t-li-1-1": "ملكنا ",
+  "website-t-li-1-2": "سياسة الخصوصية",
+  "website-t-li-1-3": "الذي يحدد كيفية استخدامنا لمعلوماتك.",
+
+  "website-t-li-2-1": "ملكنا ",
+  "website-t-li-2-2": "سياسة ملفات الارتباط",
+  "website-t-li-3-3": "الذي يحدد معلومات حول ملفات تعريف الارتباط الموجودة على موقعنا.",
+
+  "website-po-li-3-1": "ملكنا",
+  "website-po-li-3-2": "شروط استخدام البوابة",
+  "website-po-li-3-3": "يحدد الشروط الخاصة بنا المتعلقة باستخدام منصة CorrectSOC.",
+  "website-po-li-4": "اتفاقية ترخيص المستخدم النهائي الخاصة بنا والتي تنطبق إذا قمت بتنزيل CorrectSOC Agent من خلال البوابة.",
+  "website-po-p-2": "قد نقوم بإجراء تغييرات على هذه الشروط",
+  "website-po-p-3": "يرجى العلم أن هذه الشروط والأحكام قابلة للتغيير في أي وقت، دون إشعار مسبق. تقع على عاتقك مسؤولية مراجعة هذه الشروط والأحكام بشكل دوري لمعرفة أي تحديثات أو تغييرات. يشكل استمرارك في استخدام خدماتنا ومنصتنا موافقتك على أي تعديلات أو تحديثات على هذه الشروط والأحكام.",
+
+  "website-c-h1-1": "قد نقوم بإجراء تغييرات على موقعنا",
+  "website-c-p-1": "يجوز لنا تحديث موقعنا وتغييره من وقت لآخر ليعكس التغييرات التي تطرأ على منتجاتنا واحتياجات مستخدمينا وأولويات أعمالنا. سنحاول أن نقدم لك إشعارًا معقولًا بأي تغييرات كبيرة ولكن هذا ليس ممكنًا دائمًا.",
+
+  "website-w-h1-1": "يجوز لنا تعليق موقعنا أو سحبه",
+  "website-w-p-1": "موقعنا متاح مجانًا، باستثناء بعض الميزات الموجودة في بوابة CorrectSOC، والتي يتم تغطيتها بموجب شروط وأحكام البوابة.",
+  "website-w-p-2": "نحن لا نضمن أن موقعنا، أو أي محتوى فيه، سيكون متاحًا دائمًا أو دون انقطاع. يجوز لنا تعليق أو سحب أو تقييد توفر كل أو أي جزء من موقعنا لأسباب تجارية وتشغيلية. سنحاول أن نقدم لك إشعارًا معقولاً بأي تعليق أو انسحاب.",
+  "website-w-p-3": "أنت مسؤول أيضًا عن التأكد من أن جميع الأشخاص الذين يصلون إلى موقعنا من خلال اتصالك بالإنترنت على علم بشروط الاستخدام هذه وغيرها من الشروط والأحكام المعمول بها، وأنهم يلتزمون بها..",
+
+  "website-r-h1-1": "نحن لسنا مسؤولين عن المواقع التي نرتبط بها",
+  "website-r-p-1": "عندما يحتوي موقعنا على روابط لمواقع وموارد أخرى مقدمة من أطراف ثالثة، يتم توفير هذه الروابط لمعلوماتك فقط. لا ينبغي تفسير هذه الروابط على أنها موافقة منا على تلك المواقع المرتبطة أو المعلومات التي قد تحصل عليها منها.",
+
+  "website-con-h1": "ليس لدينا أي سيطرة على محتويات تلك المواقع أو الموارد.",
+  "website-con-p-1": "المحتوى الذي ينشئه المستخدم غير معتمد من قبلنا.",
+  "website-con-p-2": "قد يتضمن هذا الموقع معلومات ومواد تم تحميلها من قبل مستخدمين آخرين للموقع، بما في ذلك لوحات الإعلانات وغرف الدردشة. لم يتم التحقق من هذه المعلومات وهذه المواد أو الموافقة عليها من قبلنا. الآراء التي عبر عنها المستخدمون الآخرون على موقعنا لا تمثل وجهات نظرنا أو قيمنا.",
+  "website-con-p-3-1": "إذا قام المستخدم بتحميل شيء ما على موقعنا وهو غير قانوني أو ضار، فيرجى الإبلاغ عن ذلك إلى",
+  "website-con-p-3-2": "hello@CorrectSOC.com",
+  "website-con-p-3-3": "بحيث يمكن إنزال هذا خلال 24 ساعة.",
+
+  "website-lia-h1": "مسئولية قانونية",
+  "website-lia-p-1": "نحن لا نستبعد أو نحد بأي شكل من الأشكال من مسؤوليتنا تجاهك عندما يكون القيام بذلك غير قانوني. يتضمن ذلك المسؤولية عن الوفاة أو الإصابة الشخصية الناجمة عن إهمالنا أو إهمال موظفينا أو وكلائنا أو المقاولين من الباطن وعن الاحتيال أو التحريف الاحتيالي.",
+  "website-lia-p-2": "نحن نستبعد جميع الشروط أو الضمانات أو الإقرارات الضمنية أو غيرها من الشروط الضمنية التي قد تنطبق على موقعنا أو أي محتوى عليه.",
+  "website-lia-p-3": "لن نكون مسؤولين تجاهك عن أي خسارة أو ضرر، سواء في العقد أو الضرر (بما في ذلك الإهمال) أو خرق الواجب القانوني أو غير ذلك، حتى لو كان متوقعًا، والذي ينشأ بموجب أو فيما يتعلق بما يلي:",
+  "website-lia-li-1": "استخدام موقعنا أو عدم القدرة على استخدامه؛ أو",
+  "website-lia-li-2": "use of or reliance on any content displayed on our site.",
+  "website-lia-li-3": "In particular, we will not be liable for:",
+  "website-lia-li-4": "loss of profits, sales, business, or revenue;",
+  "website-lia-li-5": "business interruption;",
+  "website-lia-li-6": "loss of anticipated savings;",
+  "website-lia-li-7": "loss of business opportunity, goodwill or reputation; or",
+  "website-lia-li-8": "any indirect or consequential loss or damage.",
+
+  "website-info-h1": "How We May Use Your Personal Information",
+  "website-info-p-1-1": "We will only use your personal information as set out in our .",
+  "website-info-p-1-2": "Privacy Policy",
+
+  "website-ob-h1": "Your Obligations When Using Our Site.",
+  "website-ob-p-1": "You must keep your account details safe",
+  "website-ob-p-2": "If you choose, or you are provided with, a user identification code, password or any other piece of information as part of our security procedures, you must treat such information as confidential. You must not disclose it to any third party.",
+  "website-ob-p-3": "We have the right to disable any user identification code or password, whether chosen by you or allocated by us, at any time, if in our reasonable opinion you have failed to comply with any of the provisions of these terms of use.",
+  "website-ob-p-4-1": "If you know or suspect that anyone other than you knows your user identification code or password, you must promptly notify us at .",
+  "website-ob-p-4-2": "hello@CorrectSOC.com",
+
+  "website-mat-h1": "How You May Use Material On Our Site",
+  "website-mat-p-1": "You may print off one copy, and may download extracts, of any page(s) from our site for your personal use and you may draw the attention of others within your organisation to content posted on our site.",
+  "website-mat-p-2": "You must not modify the paper or digital copies of any materials you have printed off or downloaded in any way, and you must not use any illustrations, photographs, video or audio sequences or any graphics separately from any accompanying text.",
+  "website-mat-p-3": "Our status (and that of any identified contributors) as the authors of content on our site must always be acknowledged.",
+  "website-mat-p-4": "You must not use any part of the content on our site for commercial purposes without obtaining a licence to do so from us or our licensors.",
+  "website-mat-p-5": "If you print off, copy or download any part of our site in breach of these terms of use, your right to use our site will cease immediately and you must, at our option, return or destroy any copies of the materials you have made.",
+
+  "website-not-h1": "Do Not Rely On Information On This Site",
+  "website-not-p-1": "The content on our site is provided for general information only. It is not intended to amount to advice on which you should rely. You must obtain professional or specialist advice before taking, or refraining from, any action on the basis of the content on our site. Although we make reasonable efforts to update the information on our site, we make no representations, warranties or guarantees, whether express or implied, that the content on our site is accurate, complete or up to date. Therefore, we cannot be held liable for any direct or indirect damages or losses resulting from the use of our site or its content. By using our platform, you acknowledge and agree that any decisions or actions taken based on the information on our site are at your own risk and that we will not be held liable for any consequences that may arise.",
+
+  "website-acc-h1": "Acceptable Use Of Site",
+  "website-acc-p-1": "When you upload or post content to our site, you agree that you will not:",
+  "website-acc-li-1": "Upload any image, text or data that is illegal or harmful in nature. This includes, but is not limited to, pornography, hate speech, and content that promotes violence or discrimination. Any user found violating this rule may be subject to immediate account termination and legal action if deemed necessary. We reserve the right to remove any such content without notice or explanation.",
+  "website-acc-li-2": "Misrepresent our company in any way when using our reports or services. This means that you may not use our platform to promote false or misleading information about our company or our products and services. Additionally, you may not use our reports or services to make false claims or promises about the outcome or results of using our platform. Any user found to be engaging in such misrepresentation will be subject to immediate account termination and legal action if necessary. We take our company's reputation very seriously, and we expect our users to do the same.",
+
+  "website-int-h1": "Intellectual Property And Rights",
+  "website-int-p-1": "When you upload or post content to our site, you grant us the following rights to use that content:",
+  "website-int-li-1": "a worldwide, non-exclusive, royalty-free, transferable licence to use, reproduce, distribute, prepare derivative works of, display, and perform that user-generated content in connection with the service provided by the website and across different media including to promote the site or the service, to expire when the user deletes the content from the site,.",
+  "website-int-li-2": "a worldwide, non-exclusive, royalty-free, transferable licence for other users, partners or advertisers to use the content in accordance with the functionality of the site, to expire when the user deletes the content from the site.",
+
+  "website-tra-h1": "Trademarks And Intellectual Property",
+  "website-tra-p-1": "We are the owner or the licensee of all intellectual property rights in our site, and in the material published on it. Those works are protected by copyright laws and treaties around the world. All such rights are reserved.",
+  "website-tra-p-2": "CorrectSOC and Robo are registered trademarks in the United Kingdom (Registration Number UK00003347019) and the United States of America (Registration Number 6,010,347). The use of these trademarks without our prior written consent is strictly prohibited. Any unauthorized use of these trademarks may result in legal action. We take the protection of our intellectual property rights very seriously and will pursue all legal remedies available to us to protect our trademarks.",
+
+  "website-vir-h1": "We Are Not Responsible For Viruses And You Must Not Introduce Them",
+  "website-vir-p-1": "We do not guarantee that our site will be secure or free from bugs or viruses or security threats, although we follow a strict security protocol to prevent this from happening.",
+  "website-vir-p-2": "You are responsible for configuring your information technology, computer programmes and platform to access our site. You should use your own virus protection software.",
+  "website-vir-p-3": "You must not misuse our site by knowingly introducing viruses, trojans, worms, logic bombs or other material that is malicious or technologically harmful. You must not attempt to gain unauthorised access to our site, the server on which our site is stored or any server, computer or database connected to our site. You must not attack our site via a denial-of-service attack or a distributed denial-of service attack. By breaching this provision, you would commit a criminal offence under the Computer Misuse Act 1990. We will report any such breach to the relevant law enforcement authorities and we will co-operate with those authorities by disclosing your identity to them. In the event of such a breach, your right to use our site will cease immediately.",
+
+  "website-wh-h1": "Which Country's Laws Apply To Any Disputes?",
+  "website-wh-p-1": "You and we both agree that the courts of England and Wales will have exclusive jurisdiction except that if you are a resident of Northern Ireland you may also bring proceedings in Northern Ireland, and if you are resident of Scotland, you may also bring proceedings in Scotland.",
+  "website-wh-p-2": "These terms of use, their subject matter and their formation (and any non-contractual disputes or claims) are governed by English law. We both agree to the exclusive jurisdiction of the courts of England and Wales.",
+
+  "vulnerability-scanner": "ماسح الثغرات الأمنية",
+  "scanner-back-p": "يتم تضمين أداة فحص الثغرات المجانية ذات المستوى العالمي ضمن منصة الإنترنت الخاصة بنا، وهي مصممة لاكتشاف وتحديد أي نقاط ضعف داخل نظامك أو شبكتك. من خلال الفحص المنتظم، يمكنك الحفاظ على عمليات تكنولوجيا المعلومات الخاصة بك آمنة تمامًا، مما يضمن أقصى قدر من الحماية ضد الهجمات الضارة.",
+  "comma-p": "جميع الأدوات اللازمة للمساعدة في اجتياز شهادات الامتثال واختبارات الاختراق - يتم تقديمها مجانًا يوميًا بطريقة إزالة الغموض من قبل فريق دعم إلكتروني عالمي المستوى",
+  "who-h1": "من هو الأفضل بالنسبة لـCorrectSOC؟",
+  "who-p-1": "أصحاب تكنولوجيا المعلومات الذين يحتاجون إلى أدوات لإدارة الإنترنت وإبلاغ الإدارة بالحوكمة",
   "who-p-2": "MSPs الذين يرغبون في كسب المزيد من المال من الأمن السيبراني بشكل عام  ",
-  "who-p-3":"خبراء أمن تكنولوجيا المعلومات الذين يحتاجون إلى أدوات مركزية لإدارة المحافظ السيبرانية للعملاء  ",
-  "who-p-4":"المنظمات التي تعرف أنها بحاجة إلى منظمات المجتمع المدني ولكن ليس لديها الميزانية  "
-
-
-
-
-
-
-  ,
-  "blog-link-1" :"الإصدار 153 من RoboShadow: أبرز النقاط في هذا الإصدار  ",
-  "blog-p-1" :"بقلم جاكوب جريموود تم نشره في 24/03/24 الساعة 2:03 مساءً  ",
-  "blog-p-2" :"مع وجود عدد هائل من التقارير والاستفسارات حول عمليات القرصنة المحتملة ...  ",
-  "blog-link-2" :"اقرأ أكثر",
-
-
-
-  
-  "blog-2-link-1" :"حصريًا لـ SafetyDetectives: مقابلة مع تيري لويس من RoboShadow  ",
-  "blog-2-p-1" :"بقلم جاكوب جريموود تم النشر في 28/02/24 الساعة 11:02 صباحًا  ",
-  "blog-2-p-2" :"قام تيري بالدردشة مع فريق SafetyDetectives، وهم مجموعة من خبراء الأمن السيبراني...  ",
-  "blog-2-link-2" :"اقرأ أكثر  ",
-
-
-
-  
-  "blog-3-link-1" :"الإصدار 153 من RoboShadow: أبرز النقاط في هذا الإصدار  ",
-  "blog-3-p-1" :"بقلم تيري لويس تم نشره في 24/02/24 الساعة 10:02 صباحًا  ",
-  "blog-3-p-2" :"TBelow هو تحديث إصدار نهاية شهر يناير لك. شكرا لبعض المهتمين ...  ",
-  "blog-3-link-2" :"اقرأ أكثر  ",
-  "our-blogs" :"مدوناتنا",
-
-
-  "cyber-p" :"تجمع منصتنا السيبرانية العناصر الأساسية الموجودة في اختبارات التدقيق والاختراق السيبرانية وتقدمها في منصة مدعومة سهلة الاستخدام. تتيح أفضل طبقة إلكترونية مجانية لدينا في العالم لأي مؤسسة الحصول على تقرير يومي عن حوكمة الإنترنت."
-
-,
-
-  "mobile-h1" : "ماسح شبكة الهاتف المحمول"
-  ,
-  "mobile-p"  :"يعد الماسح الضوئي لشبكة Android الخاص بنا هو أداة Cyber ​​Utility الأكثر تقدمًا في متجر Play ويتيح لك فحص شبكتك بسهولة بحثًا عن التهديدات الأمنية.  "
-
-
-  ,
-  "mobile-cyber-h1" :"حماية الأمن السيبراني من راحة يدك  ",
-  "mobile-cyber-p1" : "يعني تطبيقنا المجاني لفحص الثغرات الأمنية أنه يمكنك فحص شبكتك بحثًا عن تهديدات الأمن السيبراني من راحة يدك.  ",
-  "mobile-cyber-li-1" : "قم بإجراء اختبار اختراق سريع على أي شبكة Wi-Fi  ",
-  "mobile-cyber-li-2" : "قم بمسح شبكتك بحثًا عن الأجهزة المتصلة  ",
-  "mobile-cyber-li-3" : "ابحث عن المنافذ المفتوحة وغير الآمنة على شبكتك  ",
-  "mobile-cyber-li-4" : "احفظ عناوين IP الخاصة بأجهزتك المفضلة لإجراء فحوصات صحية سريعة  ",
-  "mobile-cyber-p2" : "هدفنا هو إزالة الغموض عن الأمن السيبراني، حتى تتاح الفرصة للجميع. ما من مكان أفضل للبدء منه من منح العالم تطبيقًا للهاتف يمكن لأي شخص استخدامه، في أي مكان لإجراء تقييم سريع لنقاط الضعف.  ",
-  "mobile-cyber-d" :"قم بتنزيل التطبيق  ",
-
-
-  
-
-  "lay-h1-1" :"اندرويد",
-  "lay-p" :"الماسح الضوئي  ",
-  "lay-pt" :"تم تصميم أداة فحص الثغرات الأمنية على الهاتف المحمول في الأصل لإظهار البساطة التي شعرنا أنها ضرورية في صناعة الأمن السيبراني. لقد انتشر تطبيقنا المجاني منذ ذلك الحين على نطاق واسع، مما يسمح للأشخاص والشركات في جميع أنحاء العالم بزيادة وضعهم في مجال الأمن السيبراني مجانًا، في بضع نقرات قصيرة.  ",
-
-
-
-  
-  "lay-h1-2" :"الاختراق الذاتي  ",
-  "lay-p-2" :"اختبارات  ",
-  "lay-pt-2" :"يستخدم التطبيق إنترنت GSM SIM الخاص بهاتفك لمسح عنوان IP الخاص بك على أي شبكة Wi-Fi. يمكنك إجراء تقييم للثغرات الخارجية (CVE) وسحب بيانات Shodan، كل ذلك من خلال واجهة Android سهلة الاستخدام وبسيطة. يمكنك أيضًا حفظ مفضلاتك حتى تتمكن من فحص سطح الهجوم بالكامل بسرعة في ثوانٍ.  ",
-
-
-
-
-  "lay-h1-3" :"شبكه محليه  ",
-  "lay-p-3" :"فحص الجهاز  ",
-  "lay-pt-3" :"اكتشف الأجهزة المتصلة بالشبكة من خلال فحص اكتشاف أنيق وسهل الاستخدام. يمكن لقدرة مسح IOT هذه العثور على أي شيء بدءًا من المقابس الذكية وحتى كاميرات المراقبة المخفية. مثالي للمهتمين بالأمان أو لمحترفي الشبكات للحصول على أداة مسح متنقلة.  ",
-
-
-
-  
-  "lay-h1-4" :"وهن  ",
-  "lay-p-4" :"تقدير  ",
-  "lay-pt-4" :"بالنسبة لكل من الأجهزة الداخلية والشبكات الخارجية، يمكن إجراء جميع عمليات فحص أجهزة Android الخاصة بنا مقابل قواعد بيانات الثغرات الأمنية الخاصة بالتهديدات العالمية CVE. يمكن بسهولة فحص جميع بيانات بصمات الأصابع التي يتم إرجاعها ومقارنتها بقواعد بيانات الثغرات العالمية، ويتم تكثيفها جميعها في تقرير أنيق للمشاركة/الحفظ.  "
-,
-"upgrade":"الترقية إلى موقعنا المجاني",
-
-
-"cyber-header-p" :"إن إزالة الغموض عن الأمن السيبراني جزء لا يتجزأ من كل ما نقوم به، ومنصتنا هي الوسيلة المثالية لمساعدتنا في توفير الصفاء السيبراني.",
-"cyber-header-p-2" :"إدارة نقاط الضعف الداخلية والخارجية، ومطابقتها جميعًا مع قواعد بيانات الأمن السيبراني العالمية.",
-
-"Mobile-Network-Scanner" :"الماسح الضوئي لشبكة الهاتف المحمول",
-"mobile-network-p" :"يعد الماسح الضوئي لشبكة الهاتف المحمول لدينا هو أداة Cyber ​​Utility الأكثر تقدمًا في متجر Play ومن أفضل 10 نتائج عضوية شائعة للعديد من أدوات الأمن السيبراني."
-
-,
-
-"Website" : "موقع إلكتروني",
-"sign-up-free" : "الاشتراك مجانا",
-"portal-login" : "تسجيل الدخول إلى البوابة"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-,
-"cookie-top" :"سياسة ملفات الارتباط",
-"cookie-h1-1" : "هذه هي سياسة ملفات تعريف الارتباط الخاصة بـ RoboShadow",
-"cookie-p-1" : "آخر تحديث: 20 يوليو 2023",
-"cookie-h2-1" :"ما هي ملفات تعريف الارتباط",
-"cookie-p-2" :"كما هو شائع في جميع مواقع الويب الاحترافية تقريبًا، يستخدم هذا الموقع ملفات تعريف الارتباط، وهي ملفات صغيرة يتم تنزيلها على جهاز الكمبيوتر الخاص بك لتحسين تجربتك. تصف هذه الصفحة المعلومات التي يجمعونها وكيف نستخدمها ولماذا نحتاج أحيانًا إلى تخزين ملفات تعريف الارتباط هذه. سنشارك أيضًا كيف يمكنك منع تخزين ملفات تعريف الارتباط هذه، ولكن هذا قد يؤدي إلى خفض مستوى بعض العناصر أو وظائف الموقع أو تعطيلها.",
-"cookie-h2-2" :"كيف نستخدم ملفات تعريف الارتباط",
-"cookie-p-3" :"نحن نستخدم ملفات تعريف الارتباط لمجموعة متنوعة من الأسباب المفصلة أدناه. لسوء الحظ، في معظم الحالات لا توجد خيارات قياسية في الصناعة لتعطيل ملفات تعريف الارتباط دون تعطيل الوظائف والميزات التي تضيفها إلى هذا الموقع بشكل كامل. يوصى بترك جميع ملفات تعريف الارتباط إذا لم تكن متأكدًا مما إذا كنت بحاجة إليها أم لا في حالة استخدامها لتقديم خدمة تستخدمها.",
-"cookie-h2-3" :"تعطيل ملفات تعريف الارتباط",
-"cookie-p-4" : "يمكنك منع إعداد ملفات تعريف الارتباط عن طريق ضبط الإعدادات في متصفحك (راجع تعليمات المتصفح الخاص بك لمعرفة كيفية القيام بذلك). انتبه إلى أن تعطيل ملفات تعريف الارتباط سيؤثر على وظائف هذا الموقع والعديد من مواقع الويب الأخرى التي تزورها. عادةً ما يؤدي تعطيل ملفات تعريف الارتباط إلى تعطيل وظائف وميزات معينة في هذا الموقع. ولذلك، يوصى بعدم تعطيل ملفات تعريف الارتباط.",
-"cookie-h2-4" :"ملفات تعريف الارتباط التي قمنا بتعيينها",
-"cookie-li-1" :"ملفات تعريف الارتباط المتعلقة بالحساب: إذا قمت بإنشاء حساب معنا، فسنستخدم ملفات تعريف الارتباط لإدارة عملية التسجيل والإدارة العامة. عادةً ما يتم حذف ملفات تعريف الارتباط هذه عند تسجيل الخروج، ولكن في بعض الحالات قد تبقى بعد ذلك لتذكر تفضيلات موقعك عند تسجيل الخروج.",
-"cookie-li-2" :"ملفات تعريف الارتباط المتعلقة بتسجيل الدخول: نستخدم ملفات تعريف الارتباط عندما تقوم بتسجيل الدخول حتى نتمكن من تذكر هذه الحقيقة. وهذا يمنعك من الاضطرار إلى تسجيل الدخول في كل مرة تزور فيها صفحة جديدة. عادةً ما تتم إزالة ملفات تعريف الارتباط هذه أو مسحها عند تسجيل الخروج للتأكد من أنه لا يمكنك الوصول إلى الميزات والمناطق المقيدة إلا عند تسجيل الدخول.",
-"cookie-li-3" : "ملفات تعريف الارتباط ذات الصلة بالرسائل الإخبارية عبر البريد الإلكتروني: يقدم هذا الموقع خدمات الاشتراك في الرسائل الإخبارية أو البريد الإلكتروني ويمكن استخدام ملفات تعريف الارتباط لتذكر ما إذا كنت مسجلاً بالفعل وما إذا كنت تريد إظهار إشعارات معينة قد تكون صالحة فقط للمستخدمين المشتركين / غير المشتركين.",
-"cookie-li-4" :"ملفات تعريف الارتباط ذات الصلة بالنماذج: عند إرسال البيانات من خلال نموذج مثل تلك الموجودة في صفحات الاتصال أو نماذج التعليقات، قد يتم تعيين ملفات تعريف الارتباط لتذكر تفاصيل المستخدم الخاصة بك للمراسلات المستقبلية.",
-"cookie-h2-5" :"ملفات تعريف الارتباط الخاصة بالطرف الثالث",
-"cookie-p-5" :"وفي بعض الحالات الخاصة، نستخدم أيضًا ملفات تعريف الارتباط المقدمة من جهات خارجية موثوقة. يوضح القسم التالي تفاصيل ملفات تعريف الارتباط الخاصة بالطرف الثالث التي قد تواجهها من خلال هذا الموقع. Cookie-li-5: يستخدم هذا الموقع Google Analytics الذي يعد أحد أكثر حلول التحليلات انتشارًا وموثوقية على الويب لمساعدتنا في فهم كيفية استخدامك للموقع والطرق التي يمكننا من خلالها تحسين تجربتك. قد تتتبع ملفات تعريف الارتباط هذه أشياء مثل المدة التي تقضيها على الموقع والصفحات التي تزورها حتى نتمكن من الاستمرار في إنتاج محتوى جذاب. لمزيد من المعلومات حول ملفات تعريف الارتباط الخاصة بـ Google Analytics، راجع صفحة Google Analytics الرسمية.",
-"cookie-li-6" :"تُستخدم تحليلات الطرف الثالث لتتبع وقياس استخدام هذا الموقع حتى نتمكن من الاستمرار في إنتاج محتوى جذاب. قد تتتبع ملفات تعريف الارتباط هذه أشياء مثل المدة التي تقضيها على الموقع أو الصفحات التي تزورها، مما يساعدنا على فهم كيف يمكننا تحسين الموقع لك.",
-"cookie-li-7" : "نستخدم أيضًا أزرار الوسائط الاجتماعية و/أو المكونات الإضافية الموجودة على هذا الموقع والتي تتيح لك الاتصال بشبكتك الاجتماعية بطرق مختلفة. لكي يعمل هؤلاء على مواقع التواصل الاجتماعي التالية بما في ذلك؛ سيقوم Facebook وTwitter وInstagram وYouTube وGoogle بتعيين ملفات تعريف الارتباط من خلال موقعنا والتي يمكن استخدامها لتحسين ملفك الشخصي على موقعهم أو المساهمة في البيانات التي يحتفظون بها لأغراض مختلفة موضحة في سياسات الخصوصية الخاصة بكل منهم.",
-"cookie-h2-6" :"معلومات اكثر",
-"cookie-p1" :"الرجاء التواصل",
-"cookie-link" :"hello@roboshadow.com",
-"cookie-p3" :"إذا كان لديك أي أسئلة أو مخاوف أخرى.",
-
-
-"privacy-p-1":"آخر تحديث: 20 يوليو 2023",
-"privacy-p-2" :"تحترم شركة RoboShadow Ltd (نحن، لنا) خصوصيتك وتلتزم بحماية بياناتك الشخصية. يشرح إشعار الخصوصية هذا كيف نستخدم ونحمي البيانات الشخصية التي تقدمها لنا. كما أنه يشرح حقوق الخصوصية والحماية الخاصة بك.",
-"privacy-p-3" : "لقد حاولنا الاحتفاظ بإشعار الخصوصية هذا ببساطة دون المساس بالمعلومات المقدمة لك. ولذلك قمنا بتقسيمها إلى الأقسام التالية."
-,
-"privacy-h1-1" :"الغرض من إشعار الخصوصية هذا",
-"privacy-p-1-1" :"يمنحك إشعار الخصوصية هذا معلومات حول كيفية جمع ومعالجة البيانات الشخصية التي تقدمها لنا، بما في ذلك أي بيانات تقدمها عبر موقعنا الإلكتروني"
-,"privacy-p-1-2":"عندما تقوم بالتسجيل معنا، أو تستخدم موقعنا، أو خدماتنا، أو برامجنا، أو عندما تقوم بالتسجيل في نشرتنا الإخبارية، أو تراسلنا أو تطلب منا الاتصال بك."
-,
-"privacy-p-2-2" :"يجب قراءة إشعار الخصوصية هذا مع أي إشعار خصوصية آخر أو إشعار معالجة عادلة قد نقدمه عندما نقوم بجمع أو معالجة بيانات شخصية عنك. يكمل إشعار الخصوصية هذا أي إشعارات أخرى وليس المقصود منه تجاوزها."
-,
-"privacy-p-3-3" :"إن عروض أعمالنا ليست مخصصة للأطفال، ونحن لا نجمع البيانات المتعلقة بالأطفال عن قصد.",
-"privacy-p-4" :"تفاصيل الاتصال لدينا والدور",
-"privacy-p-5" :"نحن مراقب البيانات المسؤول عن بياناتك الشخصية. التفاصيل الكاملة لدينا هي:",
-"privacy-p-6" :"روبو شادو المحدودة",
-"privacy-p-7" :"رقم تسجيل الشركة: 10726476",
-"privacy-p-8" :"مدير خصوصية البيانات:",
-"privacy-p-9" :"تيري لويس",
-"privacy-p-11" :"عنوان البريد الإلكتروني:",
-"privacy-p-12" :"العنوان البريدي:",
-"privacy-p-13" :"Privacy-p-13:WhiteGates Business Park، Shenfield، Essex، إنجلترا، CM15 8QF",
-"privacy-p-14" :"رقم هاتف:",
-"privacy-p-15" :"+44 20300 53729.",
-"privacy-p-16" :"إذا كانت لديك أي أسئلة حول إشعار الخصوصية هذا، بما في ذلك أي طلبات لممارسة حقوقك القانونية (انظر القسم 9 أدناه)، فيرجى الاتصال بمدير خصوصية البيانات باستخدام التفاصيل الموضحة أعلاه."
-,
-"privacy-p-17" :"لديك الحق في تقديم شكوى في أي وقت إلى مكتب مفوضي المعلومات (ICO) (www.ico.org.uk)، وهو السلطة الإشرافية لقضايا حماية البيانات في المملكة المتحدة. ومع ذلك، نطلب منك الاتصال بنا في المقام الأول ومنحنا الفرصة لمعالجة مخاوفك قبل أن تفكر في الاتصال بـ ICO."
-,
-"privacy-p-18" :"التغييرات على إشعار الخصوصية وواجبك في إبلاغنا بالتغييرات",
-"privacy-p-19" :"من المهم أن تكون البيانات الشخصية أو التجارية التي نحتفظ بها عنك دقيقة وحديثة، لذا يرجى إعلامنا إذا تغيرت بياناتك الشخصية أو التجارية في أي وقت."
-,
-"privacy-p-20" : "روابط الطرف الثالث",
-"privacy-p-21" :" قد يشتمل موقعنا على روابط لمواقع ويب تابعة لجهات خارجية أو عروض البائعين أو تطبيقات أخرى و/أو مكونات إضافية و/أو تطبيقات. قد يؤدي النقر فوق هذه الروابط أو تمكين هذه الاتصالات إلى السماح لجهات خارجية بجمع بيانات عنك أو مشاركتها. نحن لا نتحكم في مواقع الطرف الثالث هذه ولسنا مسؤولين عن بيانات الخصوصية الخاصة بها. عندما تغادر موقعنا، يجب عليك قراءة إشعار الخصوصية الخاص بأي موقع تزوره.",
-"privacy-p-22" :"البيانات التي نجمعها عنك",
-"privacy-p-23" :" البيانات الشخصية، أو المعلومات الشخصية، تعني أي معلومات حول فرد يمكن التعرف على هذا الشخص من خلاله. ولا تتضمن البيانات التي تمت إزالة الهوية منها (بيانات مجهولة المصدر)."
-,"privacy-p-24" : "  يجوز لنا جمع واستخدام وتخزين ونقل الأنواع التالية من البيانات الشخصية عنك، والتي قمنا بتلخيصها في فئات:"
-
-
-,"privacy-p-25": "بيانات الهوية:",
-"privacy-p-26" :"يتضمن الاسم الأول أو اسم العائلة أو اسم المستخدم أو معرفًا وعنوانًا مشابهًا.",
-"privacy-p-27" :"بيانات الاتصال:",
-"privacy-p-28" :"يتضمن عنوان إرسال الفواتير وعنوان التسليم وعنوان البريد الإلكتروني وأرقام الهواتف.",
-"privacy-p-29" :"بيانات المعاملات:",
-"privacy-p-30" :" يتضمن تفاصيل حول المدفوعات منك وتفاصيل أخرى عن الخدمات التي اشتريتها أو تلقيتها منا."
-
-
-
-
-
-,"privacy-p-31" :"معلومات تقنية:",
-"privacy-p-32" :"يتضمن عنوان بروتوكول الإنترنت (IP)، وبيانات تسجيل الدخول الخاصة بك، ونوع المتصفح، والإصدار، وإعدادات المنطقة الزمنية والموقع، وأنواع وإصدارات المكونات الإضافية للمتصفح، ونظام التشغيل والنظام الأساسي، والتكنولوجيا الأخرى على الأجهزة التي تستخدمها للوصول إلى هذا الموقع. اعتمادًا على الماسحات الضوئية والخدمات التي تستخدمها ضمن منصة Robo Shadow، فإننا نأخذ أيضًا بيانات خاصة بالجهاز وبيانات الحساب السحابي لتمكينك من استخدام النظام الأساسي لتحسين وضع الأمن السيبراني الخاص بك. نحن لا نتحمل أي مسؤولية أو التزام تجاه أي خرق للبيانات داخل Robo Shadow والذي ينتهي به الأمر في بياناتك الشخصية أو بيانات عملك (التي ربما يتم سحب بعضها إلى Robo Shadow من حسابات سحابية تابعة لجهات خارجية تختار الاتصال بها داخل منصة Robo Shadow) وتصبح متاحة للعامة اِختِصاص."
-,
-"privacy-p-33" :"بيانات الملف الشخصي:",
-"privacy-p-34" :" يتضمن اسم المستخدم وكلمة المرور الخاصة بك، والمشتريات أو الطلبات التي قمت بها، واهتماماتك، وتفضيلاتك، وتعليقاتك، وردود الاستبيان."
-,
-"privacy-p-35" :"بيانات الاستخدام:",
-"privacy-p-36" :" يتضمن معلومات حول كيفية استخدامك لموقعنا و/أو خدماتنا.",
-"privacy-p-37" :" بيانات التسويق والاتصالات",
-"privacy-p-38" :" يتضمن تفضيلاتك في تلقي التسويق منا ومن أطرافنا الثالثة وتفضيلات الاتصال الخاصة بك."
-,
-"privacy-p-39" :"  يتم استخدام الفئات المذكورة أعلاه كمصطلحات محددة في مكان آخر في إشعار الخصوصية هذا.",
-"privacy-p-40" :"نحن أيضًا نجمع ونستخدم ونشارك",
-"privacy-p-41" : "البيانات المجمعة",
-"privacy-p-42" :"مثل البيانات الإحصائية أو الديموغرافية لأي غرض. قد يتم استخلاص البيانات المجمعة من بياناتك الشخصية ولكنها لا تعتبر بيانات شخصية في القانون لأن هذه البيانات لا تكشف هويتك بشكل مباشر أو غير مباشر. على سبيل المثال، قد نقوم بتجميع بيانات الاستخدام الخاصة بك لحساب النسبة المئوية للمستخدمين الذين يصلون إلى ميزة معينة في موقع الويب. ومع ذلك، إذا قمنا بدمج البيانات المجمعة أو ربطها ببياناتك الشخصية حتى تتمكن من التعرف عليك بشكل مباشر أو غير مباشر، فإننا نتعامل مع البيانات المجمعة على أنها بيانات شخصية سيتم استخدامها وفقًا لإشعار الخصوصية هذا."
-,
-"privacy-p-43" :"نحن لا نجمع أي",
-"privacy-p-44" :" الفئات الخاصة للبيانات الشخصية",
-"privacy-p-45" :"عنك (يتضمن ذلك تفاصيل حول عرقك أو أصلك العرقي، ومعتقداتك الدينية أو الفلسفية، وحياتك الجنسية، وتوجهك الجنسي، وآرائك السياسية، وعضوية النقابات العمالية، ومعلومات عن صحتك، وبياناتك الجينية والبيومترية). كما أننا لا نجمع أي معلومات حول الإدانات والجرائم الجنائية."
-,
-"privacy-p-46" :"إذا فشلت في تقديم البيانات الشخصية",
-"privacy-p-47" :" عندما نحتاج إلى جمع البيانات الشخصية بموجب القانون، أو بموجب شروط العقد الذي أبرمناه معك، وفشلت في تقديم تلك البيانات عند الطلب، فقد لا نتمكن من أداء التزاماتنا بموجب عقدنا معك. في هذه الحالة، قد نضطر إلى إلغاء منتج أو خدمة، لكننا سنخطرك إذا كان الأمر كذلك."
-,
-"privacy-p-48" :"كيف يتم جمع بياناتك الشخصية",
-"privacy-p-49" :" نحن نستخدم طرقًا مختلفة لجمع بياناتك الشخصية بما في ذلك من خلال:",
-"privacy-p-50" :"منك مباشرة.",
-"privacy-p-51" :"يمكنك أن تقدم لنا هويتك وبيانات الاتصال الخاصة بك عن طريق ملء النماذج أو عن طريق مراسلتنا عبر البريد أو الهاتف أو البريد الإلكتروني أو غير ذلك. يتضمن ذلك البيانات الشخصية التي تقدمها عندما:" 
-,
-"privacy-p-52" : "استخدام موقعنا؛",
-"privacy-p-53" :"إنشاء حساب؛",
-"privacy-p-54" :"الاشتراك في خدمتنا أو منشوراتنا؛",
-"privacy-p-55" :"طلب إرسال التسويق إليك؛ أو",
-"privacy-p-56" : "تعطينا بعض ملاحظات.",
-
-
-"privacy-p-57" :"التقنيات الآلية أو التفاعلات",
-"privacy-p-58":" أثناء تفاعلك مع موقعنا، قد نقوم تلقائيًا بجمع البيانات الفنية حول أجهزتك وإجراءات التصفح والأنماط الخاصة بك. نقوم بجمع هذه البيانات الشخصية باستخدام ملفات تعريف الارتباط وسجلات الخادم والتقنيات المماثلة الأخرى. يرجى الاطلاع على سياسة ملفات تعريف الارتباط الخاصة بنا"
-,
-"privacy-p-59" :" roboshadow.com/cookie-policy",
-"privacy-p-60" :"لمزيد من التفاصيل.",
-"privacy-p-61" :"كيف نستخدم بياناتك الشخصية",
-"privacy-p-62" :"لن نستخدم بياناتك الشخصية إلا عندما يسمح لنا القانون بذلك. في أغلب الأحيان، سوف نستخدم بياناتك الشخصية في الظروف التالية:"
-,
-"privacy-p-63" :"حيث نحتاج إلى أداء التزاماتنا التعاقدية تجاهك.",
-"privacy-p-64" :" عندما يكون ذلك ضروريًا لمصالحنا المشروعة (أو مصالح طرف ثالث) ولا تتجاوز مصالحك وحقوقك الأساسية تلك المصالح."
-,
-"privacy-p-65" :"عندما نحتاج إلى الامتثال لالتزام قانوني أو تنظيمي.",
-"privacy-p-66" :"مصلحة مشروعة",
-"privacy-p-67" :"يعني الاهتمام بإدارة أعمالنا وإدارتها لتمكيننا من تقديم خدمات عالية الجودة وتجربة جيدة وآمنة. نحن نأخذ في الاعتبار ونوازن أي تأثير محتمل عليك (سواء كان إيجابيًا أو سلبيًا) وعلى حقوقك قبل أن نعالج بياناتك الشخصية لمصالحنا المشروعة. نحن لا نستخدم بياناتك الشخصية في الأنشطة التي تتجاوز فيها مصالحنا التأثير عليك (ما لم نحصل على موافقتك أو ما لم يكن ذلك مطلوبًا أو مسموحًا به بموجب القانون). يرجى الاتصال بنا إذا كنت ترغب في الحصول على مزيد من الإرشادات بشأن كيفية تقييم المصالح المشروعة مقابل أي تأثير محتمل عليك."
-,
-
-
-
-"privacy-p-68" :"بشكل عام، نحن لا نعتمد على الموافقة كأساس قانوني لمعالجة بياناتك الشخصية بخلاف ما يتعلق بإرسال اتصالات تسويقية مباشرة من طرف ثالث إليك عبر البريد الإلكتروني أو الرسائل النصية. لديك الحق في سحب الموافقة على التسويق في أي وقت"
-,
-"privacy-p-69" :"الاتصال بنا.",
-"privacy-p-70" :"الأغراض التي سنستخدم من أجلها بياناتك الشخصية",
-"privacy-p-71" :"لقد قدمنا ​​أدناه، في شكل جدول، وصفًا لجميع الطرق التي نخطط بها لاستخدام بياناتك الشخصية، والأسس القانونية التي نعتمد عليها في القيام بذلك. لقد حددنا أيضًا ما هي مصالحنا المشروعة حيثما كان ذلك مناسبًا."
-,
-"privacy-p-72" :"الغرض/النشاط",
-"privacy-p-73" :"نوع البيانات",
-"privacy-p-74" :"الأساس القانوني للمعالجة بما في ذلك أساس المصلحة المشروعة",
-"privacy-p-75" :"لتسجيلك كعميل",
-"privacy-p-76" :"(أ) الهوية",
-"privacy-p-77" :"تنفيذ العقد معك",
-"privacy-p-78" :"(ب) الاتصال",
-"privacy-p-79" :" لمعالجة وتقديم الخدمات لك بما في ذلك:",
-"privacy-p-80" :"(أ) الهوية",
-"privacy-p-81" :"(أ) تنفيذ العقد معك",
-"privacy-p-82" :"(أ) إدارة المدفوعات والرسوم والمصاريف",
-"privacy-p-83" :"(ب) الاتصال",
-"privacy-p-84" :"(ب) جمع واسترداد الأموال المستحقة لنا",
-"privacy-p-85" :"(ج) الصفقة",
-"privacy-p-86" :" (ب) ضرورية لمصالحنا المشروعة (لاسترداد الديون المستحقة لنا)",
-"privacy-p-87" :"(د) التسويق والاتصالات",
-"privacy-p-88" :" لإدارة علاقتنا معك والتي ستشمل:",
-"privacy-p-89" :"أ) الهوية",
-"privacy-p-90" :"(أ) تنفيذ العقد معك",
-"privacy-p-91" :"(أ) إخطارك بالتغييرات التي تطرأ على الشروط أو سياسة الخصوصية الخاصة بنا",
-"privacy-p-92" :" (ب) ضرورية للامتثال لالتزام قانوني",
-"privacy-p-93" :"(ج) الملف الشخصي",
-"privacy-p-94":"(ج) ضرورية لمصالحنا المشروعة (للحفاظ على سجلاتنا محدثة ودراسة كيفية استخدام العملاء لخدماتنا)"
-,
-"privacy-p-95" :"((د) التسويق والاتصالات",
-"privacy-p-96" :" لإدارة وحماية أعمالنا وموقعنا (بما في ذلك استكشاف الأخطاء وإصلاحها وتحليل البيانات والاختبار وصيانة النظام والدعم وإعداد التقارير واستضافة البيانات)"
-,
-"privacy-p-97" :"(أ) الهوية",
-"privacy-p-98" : "(أ) ضرورية لمصالحنا المشروعة (لإدارة أعمالنا، وتوفير خدمات الإدارة وتكنولوجيا المعلومات، وأمن الشبكات، لمنع الاحتيال وفي سياق إعادة تنظيم الأعمال أو ممارسة إعادة هيكلة المجموعة)"
-
-,
-"privacy-p-99" :"(ب) الاتصال",
-"privacy-p-100" :"(ج) التقنية",
-"privacy-p-101" :"(ج) الملف الشخصي",
-"privacy-p-102" :"(ج) ضرورية لمصالحنا المشروعة (للحفاظ على سجلاتنا محدثة ودراسة كيفية استخدام العملاء لخدماتنا)"
-,
-"privacy-p-103" :"لتقديم محتوى موقع الويب والإعلانات ذات الصلة لك وقياس أو فهم فعالية الإعلانات التي نقدمها لك"
-,
-"privacy-p-104" :"أ) الهوية",
-"privacy-p-105" :" ضرورية لمصالحنا المشروعة (لدراسة كيفية استخدام العملاء لخدماتنا، وتطويرها، وتنمية أعمالنا، ولإبلاغ استراتيجيتنا التسويقية)"
-,
-"privacy-p-106" :"ب) الاتصال",
-"privacy-p-107" :"(ج) الملف الشخصي",
-"privacy-p-108" :"(د) الاستخدام",
-"privacy-p-109" :"(هـ) التسويق والاتصالات",
-"privacy-p-110" :"(و) التقنية",
-"privacy-p-111" :"لاستخدام تحليلات البيانات لتحسين موقعنا وخدماتنا وتسويقنا وعلاقاتنا مع العملاء وتجاربنا"
-,
-"privacy-p-112" :"(أ) التقنية",
-"privacy-p-113" :"ضروري لمصالحنا المشروعة (لتحديد أنواع العملاء لخدماتنا، وللحفاظ على تحديث موقعنا الإلكتروني وملاءمته، لتطوير أعمالنا، ولإبلاغ استراتيجيتنا التسويقية)"
-,
-"privacy-p-114" :"ب) الاستخدام",
-"privacy-p-115" :"لتقديم الاقتراحات والتوصيات لك حول الخدمات التي قد تهمك"
-,
-"privacy-p-116" :"(أ) الهوية",
-"privacy-p-117" :"ضرورية لمصالحنا المشروعة (لتطوير خدماتنا وتنمية أعمالنا)"
-,
-"privacy-p-118" :"(ب) الاتصال",
-"privacy-p-119" :"(ج) التقنية",
-"privacy-p-120" :"(د) الاستخدام",
-"privacy-p-121" :"(هـ) الملف الشخصي",
-
-
-
-
-
-
-
-
-
-"privacy-p-122" :"تسويق",
-"privacy-p-123" :"نحن نسعى جاهدين لتزويدك بالخيارات المتعلقة ببعض استخدامات البيانات الشخصية، لا سيما فيما يتعلق بالتسويق والإعلان. لقد أنشأنا آليات التحكم في البيانات الشخصية التالية فيما يتعلق بأنشطتنا التسويقية:",
-"privacy-p-124" :"العروض الترويجية منا",
-"privacy-p-125" :"قد نستخدم بيانات الهوية، وبيانات الاتصال، والبيانات الفنية، وبيانات الاستخدام، وبيانات الملف الشخصي الخاصة بك لتحديد ما نعتقد أنك قد تريده أو تحتاج إليه، أو ما قد يثير اهتمامك.",
-"privacy-p-126" :"ستتلقى اتصالات تسويقية منا إذا طلبت معلومات منا أو اشتريت خدمات منا، وفي كل حالة، لم تقم بإلغاء الاشتراك في تلقي هذا التسويق.",
-"privacy-p-127" :"تسويق الطرف الثالث",
-"privacy-p-128" :"  سنحصل على موافقتك الصريحة على الاشتراك قبل أن نشارك بياناتك الشخصية مع أي شركة خارجية لأغراض التسويق.",
-"privacy-p-129" :"إلغاء الاشتراك",
-"privacy-p-130" :"يمكنك أن تطلب منا أو من أطراف ثالثة التوقف عن إرسال رسائل تسويقية إليك في أي وقت",
-"privacy-p-131" :"الاتصال بنا",
-"privacy-p-132" :"في أي وقت.",
-"privacy-p-133" :" عند إلغاء الاشتراك في تلقي هذه الرسائل التسويقية، لن ينطبق ذلك على البيانات الشخصية المقدمة إلينا بسبب شراء خدمة، أو تسجيل الضمان، أو تجربة المنتج/الخدمة، أو المعاملات الأخرى.",
-"privacy-p-134" :"Cookies",
-"privacy-p-135" :" يمكنك ضبط المتصفح الخاص بك لرفض كل أو بعض ملفات تعريف الارتباط للمتصفح أو لتنبيهك عندما تستخدم مواقع الويب ملفات تعريف الارتباط. إذا قمت بتعطيل أو رفض ملفات تعريف الارتباط، فقد لا تتمكن من استخدام بعض أجزاء موقعنا بشكل صحيح أو على الإطلاق. لمزيد من المعلومات حول ملفات تعريف الارتباط التي نستخدمها، يرجى الاطلاع على سياسة ملفات تعريف الارتباط الخاصة بنا",
-"privacy-p-136" :"www.roboshadow.com/cookie-policy.",
-"privacy-p-137" :"تغيير الغرض",
-"privacy-p-138" :" لن نستخدم بياناتك الشخصية إلا للأغراض التي جمعناها من أجلها ما لم نعتبر بشكل معقول أننا بحاجة إلى استخدامها لسبب آخر وأن هذا السبب يتوافق مع الغرض الأصلي.",
-"privacy-p-139" :"إذا كنا بحاجة إلى استخدام بياناتك الشخصية لغرض غير ذي صلة، فسنخطرك وسنشرح لك الأساس القانوني الذي يسمح لنا بذلك.",
-"privacy-p-140" :"لن نبيع بياناتك لأي سبب من الأسباب.",
-"privacy-p-141" :" يرجى ملاحظة أننا قد نقوم بمعالجة بياناتك الشخصية دون علمك أو موافقتك، عندما يكون ذلك مطلوبًا أو مسموحًا به بموجب القانون.",
-"privacy-p-142" :"الكشف عن بياناتك الشخصية",
-"privacy-p-143" :" قد نضطر إلى مشاركة بياناتك الشخصية مع الأطراف المبينة أدناه للأغراض المبينة في الجدول أعلاه.",
-"privacy-p-145" :"الأطراف الثالثة الخارجية التالية:",
-"privacy-p-146" :"3Gi Technology Ltd، وهي شركة مرتبطة تساعد في تقديم خدمات الدعم لمنصة RoboShadow.",
-"privacy-p-147" :"المستشارون المحترفون بما في ذلك المحامون والمصرفيون ومدققو الحسابات وشركات التأمين المقيمون في المملكة المتحدة والذين يقدمون الخدمات الاستشارية والخدمات المصرفية والقانونية والتأمينية والمحاسبية.",
-"privacy-p-148" :"تتطلب إدارة الإيرادات والجمارك في HM والجهات التنظيمية والسلطات الأخرى الموجودة في المملكة المتحدة الإبلاغ عن أنشطة المعالجة في ظروف معينة.",
-"privacy-p-149" :"  الأطراف الثالثة التي قد نختار بيع أو نقل أو دمج أجزاء من أعمالنا أو أصولنا لها. وبدلاً من ذلك، قد نسعى للاستحواذ على شركات أخرى أو الاندماج معها. إذا حدث تغيير في أعمالنا، فيجوز للمالكين الجدد استخدام بياناتك الشخصية بنفس الطريقة الموضحة في إشعار الخصوصية هذا.",
-"privacy-p-150" :"  نحن نطلب من جميع الأطراف الثالثة احترام أمان بياناتك الشخصية ومعاملتها وفقًا للقانون. نحن نسمح لهم فقط بمعالجة بياناتك الشخصية لأغراض محددة ووفقًا لتعليماتنا.",
-"privacy-p-151" :"أمن البيانات",
-"privacy-p-152" :" لقد وضعنا تدابير أمنية مناسبة لمنع فقدان بياناتك الشخصية أو استخدامها أو الوصول إليها عن طريق الخطأ بطريقة غير مصرح بها أو تغييرها أو الكشف عنها. بالإضافة إلى ذلك، فإننا نقتصر الوصول إلى بياناتك الشخصية على هؤلاء الموظفين والوكلاء والمقاولين والأطراف الثالثة الأخرى التي تحتاج إلى معرفتها. لن يقوموا بمعالجة بياناتك الشخصية إلا بناءً على تعليماتنا ويخضعون لواجب السرية.",
-"privacy-p-153" :" لقد وضعنا إجراءات للتعامل مع أي خرق مشتبه به للبيانات الشخصية وسنقوم بإخطارك وأي جهة تنظيمية معمول بها بشأن الانتهاك عندما يُطلب منا قانونًا القيام بذلك.",
-"privacy-p-154" :"إلى متى ستستخدم بياناتي الشخصية؟",
-"privacy-p-155" :"  بموجب القانون، يجب علينا الاحتفاظ بالمعلومات الأساسية عن عملائنا (بما في ذلك بيانات الاتصال والهوية والمعاملات) لمدة ست سنوات بعد توقفهم عن كونهم عملاء للأغراض الضريبية.",
-"privacy-p-156" :"   بخلاف ما يتعلق بالأغراض الضريبية المذكورة، سنحتفظ ببياناتك الشخصية فقط طالما كان ذلك ضروريًا لتحقيق الأغراض التي جمعناها من أجلها، بما في ذلك لأغراض تلبية أي متطلبات قانونية أو محاسبية أو متطلبات إعداد التقارير.",
-"privacy-p-157" :"لتحديد فترة الاحتفاظ المناسبة للبيانات الشخصية، فإننا نأخذ في الاعتبار مقدار البيانات الشخصية وطبيعتها وحساسيتها، والمخاطر المحتملة للضرر الناتج عن الاستخدام غير المصرح به أو الكشف عن بياناتك الشخصية، والأغراض التي نعالج بياناتك الشخصية من أجلها، و ما إذا كان بإمكاننا تحقيق هذه الأغراض من خلال وسائل أخرى، والمتطلبات القانونية المعمول بها.",
-"privacy-p-158" :"في بعض الحالات، يمكنك أن تطلب منا حذف بياناتك: راجع [  ",
-"privacy-p-159" :"في بعض الظروف، قد نقوم بإخفاء بياناتك الشخصية (بحيث لا يمكن ربطها بك بعد ذلك) لأغراض بحثية أو إحصائية، وفي هذه الحالة قد نستخدم هذه المعلومات إلى أجل غير مسمى دون إشعار آخر لك.",
-"privacy-p-160" :"حقوقك القانونية",
-"privacy-p-161" :" في ظل ظروف معينة، لديك حقوق بموجب قوانين حماية البيانات فيما يتعلق ببياناتك الشخصية. الرجاء الضغط على الروابط أدناه لمعرفة المزيد عن هذه الحقوق:",
-"privacy-p-162" :"لديك الحق في:",
-"privacy-p-163" :"طلب الدخول:",
-"privacy-p-164" :"إلى بياناتك الشخصية (المعروفة باسم طلب الوصول إلى موضوع البيانات). يمكّنك هذا من الحصول على نسخة من البيانات الشخصية التي نحتفظ بها عنك والتحقق من أننا نعالجها بشكل قانوني.",
-"privacy-p-165" :"تصحيح الطلب:",
-"privacy-p-166" :"من البيانات الشخصية التي نحتفظ بها عنك. يمكّنك هذا من تصحيح أي بيانات غير كاملة أو غير دقيقة نحتفظ بها عنك، على الرغم من أننا قد نحتاج إلى التحقق من دقة البيانات الجديدة التي تقدمها لنا.",
-"privacy-p-167" :"طلب المحو:",
-"privacy-p-168" :"من بياناتك الشخصية. يمكّنك هذا من أن تطلب منا حذف البيانات الشخصية أو إزالتها حيث لا يوجد سبب وجيه لمواصلة معالجتها. لديك أيضًا الحق في أن تطلب منا حذف بياناتك الشخصية أو إزالتها عندما تمارس حقك في الاعتراض على المعالجة بنجاح (انظر أدناه)، أو عندما نكون قد قمنا بمعالجة معلوماتك بشكل غير قانوني أو عندما يُطلب منا مسح بياناتك الشخصية من أجل الامتثال للقانون المحلي. ومع ذلك، لاحظ أننا قد لا نتمكن دائمًا من الامتثال لطلبك بالمحو لأسباب قانونية محددة سيتم إخطارك بها، إن أمكن، في وقت طلبك.",
-"privacy-p-169" :"كائن للمعالجة:",
-"privacy-p-170" :"بياناتك الشخصية عندما نعتمد على مصلحة مشروعة (أو مصلحة طرف ثالث) ويوجد شيء ما في وضعك يجعلك ترغب في الاعتراض على المعالجة على هذا الأساس لأنك تشعر أن ذلك يؤثر على حقوقك وحرياتك الأساسية. لديك أيضًا الحق في الاعتراض على معالجة بياناتك الشخصية لأغراض التسويق المباشر. في بعض الحالات، قد نثبت أن لدينا أسباب مشروعة مقنعة لمعالجة معلوماتك والتي تتجاوز حقوقك وحرياتك.",
-"privacy-p-171" :" طلب تقييد المعالجة:",
-"privacy-p-172" :"من بياناتك الشخصية. يمكّنك هذا من أن تطلب منا تعليق معالجة بياناتك الشخصية في السيناريوهات التالية: (أ) إذا كنت تريد منا التأكد من دقة البيانات؛ (ب) عندما يكون استخدامنا للبيانات غير قانوني ولكنك لا تريد منا مسحها؛ (ج) عندما تحتاج إلينا للاحتفاظ بالبيانات حتى لو لم نعد بحاجة إليها لأنك تحتاج إليها لإقامة الدعاوى القانونية أو ممارستها أو الدفاع عنها؛ أو (د) لقد اعترضت على استخدامنا لبياناتك ولكننا بحاجة إلى التحقق مما إذا كانت لدينا أسباب مشروعة هامة لاستخدامها.",
-"privacy-p-173" :"طلب النقل:",
-"privacy-p-174" :"بياناتك الشخصية لك أو لطرف ثالث. سنقدم لك، أو لطرف ثالث اخترته، بياناتك الشخصية بتنسيق منظم وشائع الاستخدام ويمكن قراءته آليًا. لاحظ أن هذا الحق ينطبق فقط على المعلومات الآلية التي قدمت موافقتك لنا في البداية على استخدامها أو حيث استخدمنا المعلومات لتنفيذ عقد معك.nsfer:",
-"privacy-p-175" :" سحب الموافقة في أي وقت:",
-"privacy-p-176" :"حيث نعتمد على الموافقة لمعالجة بياناتك الشخصية. ومع ذلك، لن يؤثر هذا على قانونية أي معالجة يتم إجراؤها قبل سحب موافقتك. إذا قمت بسحب موافقتك، فقد لا نتمكن من تقديم خدمات معينة لك. وسنخبرك إذا كان هذا هو الحال عند سحب موافقتك.",
-"privacy-p-177" :"  إذا كنت ترغب في ممارسة أي من الحقوق المذكورة أعلاه، من فضلك",
-"privacy-p-178" :"اتصل بنا.",
-"privacy-p-179" :"لا توجد رسوم مطلوبة عادة",
-"privacy-p-180" :" لن تضطر إلى دفع رسوم للوصول إلى بياناتك الشخصية (أو لممارسة أي من الحقوق الأخرى). ومع ذلك، قد نفرض رسومًا معقولة إذا كان طلبك لا أساس له من الصحة أو متكررًا أو مفرطًا. وبدلاً من ذلك، قد نرفض الامتثال لطلبك في هذه الظروف",
-"privacy-p-181" :"ما قد نحتاجه منك",
-"privacy-p-182" :"   قد نحتاج إلى طلب معلومات محددة منك لمساعدتنا في تأكيد هويتك وضمان حقك في الوصول إلى بياناتك الشخصية (أو ممارسة أي من حقوقك الأخرى). يعد هذا إجراءً أمنيًا لضمان عدم الكشف عن البيانات الشخصية لأي شخص ليس له الحق في الحصول عليها. قد نتصل بك أيضًا لنطلب منك المزيد من المعلومات فيما يتعلق بطلبك لتسريع استجابتنا.",
-"privacy-p-183" :"الحد الزمني للرد",
-"privacy-p-184" :"  نحاول الرد على جميع الطلبات المشروعة خلال شهر واحد. في بعض الأحيان، قد يستغرق الأمر أكثر من شهر إذا كان طلبك معقدًا بشكل خاص أو كنت قد قدمت عدة طلبات. وفي هذه الحالة سوف نقوم بإعلامك وإعلامك بكل جديد.",
-"privacy-p-185" :"  إذا كان لديك أي أسئلة أو مخاوف أخرى حول كيفية تعاملنا مع خصوصيتك، يرجى الاتصال بنا",
-"privacy-p-186" :"hello@roboshadow.com"
-
-
-
-
-
-
-
-
-
-
-
-
-
-,
-"terms-key" :"شروط استخدام بوابة RoboShadow",
-
-"terms-p-1" :"يرجى قراءة هذه الشروط والأحكام بعناية قبل تسجيل حساب مع ROBOSHADOW",
-"terms-p-2" :"تم آخر تحديث لشروط الاستخدام هذه: 20 يوليو 2023",
-"terms-p-3" : "من نحن وكيفية الاتصال بنا",
-"terms-p-4" : " منصة RoboShadow، المستضافة على www.roboshadow.com هي خدمة تديرها شركة Robo Shadow Ltd (نحن، ولنا، وخاصتنا). نحن مسجلون في إنجلترا وويلز تحت رقم الشركة 10726476. مكتبنا التجاري الرئيسي هو 64 Great Eastern St, London, EC2A 3QR.",
-"terms-p-5" : "للاتصال بنا، يرجى البريد الإلكتروني",
-"terms-p-6" : "hello@roboshadow.com",
-"terms-p-7" : " اتصل بخط خدمة العملاء لدينا على الرقم +44 20 300 53729",
-"terms-p-8" : "تعريفات",
-"terms-p-9" : "الموقع، الموقع –",
-"terms-p-10" : "www.roboshadow.com",
-"terms-p-11" : "وportal.roboshadow.com وأي صفحات أو نطاقات فرعية مرتبطة بها.",
-"terms-p-12" : "منصة RoboShadow، النظام الأساسي، البوابة، الخدمة، - يمكن الوصول إلى بوابة RoboShadow عبر Portal.roboshadow.com، بما في ذلك أدوات المسح والتقارير والعناصر الأخرى للواجهة المقدمة لك. أي خدمة أخرى نقدمها لك من خلال المنصة أو عبر وسائل الاتصال الأخرى.",
-"terms-p-13" : " أنت - نفسك كفرد، وموظفيك، والمقاولين من الباطن والشركات التابعة لك.",
-"terms-p-14" : "نحن، نحن، ملكنا – Robo Shadow Limited",
-"terms-p-15" : "قبول هذه الشروط",
-"terms-p-16" : " من خلال تسجيل حساب لدينا، أو التسجيل لاستخدام المنصة، قم بتنزيل البرامج المعمول بها، ثم تؤكد أنت وموظفيك والمقاولين من الباطن والشركات التابعة لك أنك تفهم وتقبل شروط الاستخدام هذه وأنك توافق على الالتزام بها. تشكل شروط الاستخدام هذه عقدًا ملزمًا بينك وبيننا عندما تقبلها أنت.",
-"terms-p-17" : "إذا كنت لا توافق على هذه الشروط، فيجب عليك عدم استخدام منصتنا.",
-"terms-p-18" : "نوصي بطباعة نسخة من هذه الشروط للرجوع إليها مستقبلاً.",
-"terms-p-19" : "باستخدام منصتنا، فإنك تؤكد أنك عميل تجاري ولست مستهلكًا. نحن نحتفظ بالحق في طلب إثبات حالة العمل في أي وقت، ويجوز لنا رفض الخدمة لأي مستخدم لا يستطيع تقديم دليل مرضٍ على حالة نشاطه التجاري.",
-"terms-p-20" : " إذا لم تكن لديك شركة مشروعة، فإنك تستخدم المنصة على مسؤوليتك الخاصة، وقد يتم إلغاء الوصول إليها في أي وقت.",
-"terms-p-21" : "هناك شروط أخرى قد تنطبق عليك",
-"terms-p-22" : "تشير شروط الاستخدام هذه إلى الشروط الإضافية التالية، والتي تنطبق أيضًا على استخدامك لخدماتنا:",
-"terms-p-23" : " ملكنا",
-"terms-p-24" : "سياسة الخصوصية",
-"terms-p-25" : "الذي يحدد كيفية استخدامنا لمعلوماتك.",
-"terms-p-26" : "  ملكنا",
-"terms-p-27" : "سياسة ملفات الارتباط",
-"terms-p-28" : "الذي يحدد معلومات حول ملفات تعريف الارتباط الموجودة على موقعنا ومنصتنا.",
-"terms-p-29" : "ملكنا",
-"terms-p-30" : "شروط وأحكام الموقع",
-"terms-p-31" : "اتفاقية ترخيص المستخدم النهائي الخاصة بنا والتي تنطبق إذا قمت بتنزيل وكيلنا.",
-
-
-
-"terms-p-32" : "قد نقوم بإجراء تغييرات على هذه الشروط",
-
-
-
-
-
-"terms-p-33" : "يرجى العلم بأن شروط الاستخدام هذه قد يتم تغييرها وتعديلها واستكمالها وتحديثها بواسطة Robo Shadow Limited في أي وقت. تقع على عاتقك مسؤولية مراجعة شروط الاستخدام هذه بشكل دوري لمعرفة أي تحديثات أو تغييرات.",
-"terms-p-34" : "ستكون أي تحديثات للشروط أو استبدالها سارية المفعول بالنسبة لأي اشتراكات جديدة ومتجددة ومجانية. عند استخدام البوابة مجانًا، مثل النسخة التجريبية المجانية أو فئة الاشتراك المجاني، ستلتزم بأي شروط تم تغييرها أو تعديلها أو تكميلها أو تحديثها إذا اخترت الاستمرار في استخدام البوابة مجانًا بعد هذه التغييرات على الشروط كما تم نشرها .",
-"terms-p-35" : "سنقدم تحديثًا لجميع مستخدمينا عبر البريد الإلكتروني عندما يتم تحديث الشروط والأحكام الخاصة بنا، ويتم تفسير استمرار مستخدمي النظام الأساسي على أنه موافقة على الشروط المحدثة. يحق للمستخدمين رفض هذه التغييرات في غضون 30 يومًا من التحديث ليكونوا مؤهلين لاسترداد أموالهم لمدة 30 يومًا مقابل اشتراكهم وإنهاء حساباتهم.",
-
-"terms-p-36" : "قد نقوم بإجراء تغييرات على منصتنا",
-"terms-p-37" : "     يجوز لنا تحديث نظامنا الأساسي وتغييره من وقت لآخر ليعكس التغييرات التي تطرأ على منتجاتنا واحتياجات مستخدمينا وأولويات أعمالنا. سنحاول أن نقدم لك إشعارًا معقولًا بأي تغييرات كبيرة ولكن هذا ليس ممكنًا دائمًا.",
-"terms-p-38" : "إذا كنت عميلاً محترفًا أو مؤسسيًا وكانت هذه التغييرات تؤثر على استمتاعك بالمنصة أو استخدامها، فلديك 30 يومًا بعد تنفيذ التغيير لطلب إلغاء اشتراكك واسترداد الأموال لمدة 30 يومًا من الاستخدام. يمكنك طلب ذلك عن طريق البريد الإلكتروني",
-"terms-p-39" : "hello@roboshadow.com",
-"terms-p-40" : "يجوز لنا تعليق أو سحب منصتنا",
-"terms-p-41" : "  إن منصتنا متاحة بشكل عام مجانًا، مع توفر ميزات معينة عند الاشتراك المميز.",
-"terms-p-42" : " نحن لا نضمن أن منصتنا، أو أي محتوى عليها، سيكون متاحًا دائمًا أو دون انقطاع. يجوز لنا تعليق أو سحب أو تقييد توفر كل أو أي جزء من منصتنا لأسباب تجارية وتشغيلية. سنحاول أن نقدم لك إشعارًا معقولاً بأي تعليق أو انسحاب.",
-"terms-p-43" : " في حالة عدم توفر الخدمة التي نقدمها ودفعت مقابل الإصدار المميز من الخدمة، فسنقوم بإعادة أموالك مقابل أي وقت كانت فيه المنصة غير متاحة حتى تاريخ استعادة الخدمة. يمكنك طلب استرداد هذا المبلغ عن طريق البريد الإلكتروني",
-"terms-p-44" : "hello@roboshadow.com",
-"terms-p-45" : "نحن لسنا مسؤولين عن المواقع التي نرتبط بها",
-"terms-p-46" : " عندما تحتوي منصتنا على روابط لمواقع وبيانات وموارد أخرى مقدمة من أطراف ثالثة، يتم توفير هذه الروابط والبيانات لمعلوماتك فقط. لا ينبغي تفسير هذه الروابط والبيانات على أنها موافقة منا على تلك المواقع المرتبطة أو المعلومات التي قد تحصل عليها منها.",
-"terms-p-47" : "   وليس لدينا أي سيطرة على محتويات تلك المواقع أو الموارد، ولا نقدم أي ضمان أو كفالة بأن هذه المعلومات دقيقة أو متوفرة.",
-"terms-p-48" : "يجوز لنا إنهاء حسابك أو تعليقه.",
-"terms-p-49" : "نحن نحتفظ بالحق في تعليق الوصول إلى المنصة واستخدامها حسب ما نراه مناسبًا ردًا على الانتهاكات الفعلية أو المشتبه بها لهذه الشروط. يجوز لنا أيضًا تعليق الوصول أو إنهائه إذا اشتبهنا في أنك تستخدم النظام الأساسي للمشاركة في نشاط ضار أو غير قانوني. أنت توافق على أننا لن نكون مسؤولين تجاهك أو تجاه أي طرف ثالث عن أي تعليق للمنصة في مثل هذه الظروف.",
-"terms-p-50" : "المحتوى الذي ينشئه المستخدم غير معتمد من قبلنا",
-"terms-p-51" : "قد يتضمن موقعنا الإلكتروني ومنصتنا معلومات ومواد تم تحميلها من قبل مستخدمين آخرين للمنصة، بما في ذلك لوحات الإعلانات وغرف الدردشة. لم يتم التحقق من هذه المعلومات وهذه المواد أو الموافقة عليها من قبلنا. الآراء التي عبر عنها المستخدمون الآخرون على منصتنا لا تمثل وجهات نظرنا أو قيمنا، ولا نقدم أي ضمان أو ضمان للمعلومات المقدمة من قبل مستخدمينا.",
-"terms-p-52" : " إذا قام المستخدم بتحميل شيء ما على موقعنا وهو غير قانوني أو ضار، فيرجى الإبلاغ عن ذلك إلى",
-"terms-p-53" : "hello@roboshadow.com",
-"terms-p-54" : "بحيث يمكن إنزال هذا خلال 24 ساعة.",
-"terms-p-55" : "استثناءات المسؤولية",
-"terms-p-56" : " نحن لا نستبعد أو نحد بأي شكل من الأشكال من مسؤوليتنا تجاهك عندما يكون القيام بذلك غير قانوني. وهذا يشمل المسؤولية عن الوفاة أو الإصابة الشخصية الناجمة عن إهمالنا أو إهمال موظفينا أو وكلائنا أو المقاولين من الباطن وعن الاحتيال أو التحريف الاحتيالي.",
-"terms-p-57" : " نحن نستبعد جميع الشروط أو الضمانات أو الإقرارات الضمنية أو غيرها من الشروط الضمنية التي قد تنطبق على موقعنا أو منصتنا أو أي محتوى عليها.",
-"terms-p-58" : "لن نكون مسؤولين تجاهك عن أي خسارة أو ضرر، سواء في العقد أو الضرر (بما في ذلك الإهمال) أو خرق الواجب القانوني أو غير ذلك، حتى لو كان متوقعًا، والذي ينشأ بموجب أو فيما يتعلق بما يلي:",
-"terms-p-59" : "استخدام أو عدم القدرة على استخدام منصتنا؛ أو",
-"terms-p-60" : "استخدام أو الاعتماد على أي محتوى معروض على منصتنا.",
-"terms-p-61" : "وعلى وجه الخصوص، لن نكون مسؤولين عن:",
-"terms-p-62" : "خسارة الأرباح أو المبيعات أو الأعمال أو الإيرادات؛",
-"terms-p-63" : "انقطاع العمل؛",
-"terms-p-64" : "خسارة المدخرات المتوقعة؛",
-
-"terms-p-65" : "خسارة فرص العمل أو حسن النية أو السمعة؛ أو",
-
-"terms-p-66" : "أي خسارة أو ضرر غير مباشر أو تبعي.",
-"terms-p-67" : "المسؤولية فيما يتعلق بالمؤخرات الأمنية",
-"terms-p-68" : " يتم تخزين بياناتنا في RoboShadow حصريًا في AWS Ireland، باستثناء المصادقة التي يتم الاحتفاظ بها في Google Firebase، وWindows Agent .net Core مع مكتبات محدودة تابعة لجهات خارجية. وعلى هذا النحو، نحن قادرون على الحفاظ على مستوى الأمان على مستوى المؤسسة. ومع ذلك، في حالة مواجهة أي مشكلات تتعلق بخدمات الطرف الثالث التي نستخدمها للوصول أو في حالة حدوث خرق، فإنك توافق على أنك لن تحملنا المسؤولية عن أي أضرار أو خسائر أو مطالبات تنشأ عن ذلك، وتقع على عاتقك مسؤولية التأكد من امتثالك لجميع القوانين واللوائح المعمول بها فيما يتعلق باستخدام خدماتنا، وأنت توافق على تعويض RoboShadow وحمايته من أي مطالبات أو أضرار أو التزامات ناشئة. من استخدامك لخدماتنا.",
-"terms-p-69" : "قوة القاهرة",
-"terms-p-70" : " لن نكون مسؤولين عن أي فشل أو تأخير في الأداء إذا كان هذا الفشل أو التأخير ينشأ عن أي سبب أو أسباب خارجة عن سيطرتنا بما في ذلك على سبيل المثال لا الحصر، فشل المرافق أو فشل النقل، أو انقطاع التيار الكهربائي، أو الإضرابات أو الاضطرابات العمالية الأخرى، أو القضاء والقدر، أعمال الحرب أو الإرهاب أو الأوبئة أو الفيضانات أو التخريب أو الحرائق أو الكوارث الطبيعية أو غيرها.",
-"terms-p-71" : "المسؤولية فيما يتعلق بالبرمجيات",
-"terms-p-72" : "لا يمكننا ضمان أي نتائج أو تأثيرات أو أداء محدد كما هو مقترح أو محدد من قبل أي طرف قبل تنفيذ أي إجراءات. ومن خلال استخدام البوابة والخدمات المرتبطة بها، فإنك تقر وتوافق على أننا لن نتحمل المسؤولية عن أي تأخير أو أخطاء أو مشكلات أو آثار سلبية، بما في ذلك عدم الاستقرار، التي قد تنشأ عن إجراءات أو سهو يتعلق بأنظمة الكمبيوتر الخاصة بك.",
-"terms-p-73" : "كيف يمكننا استخدام معلوماتك الشخصية",
-"terms-p-74" : "سوف نستخدم معلوماتك الشخصية فقط على النحو المبين في موقعنا",
-"terms-p-75" : "سياسة الخصوصية.",
-"terms-p-76" : "يرجى ملاحظة أننا نستخدم البيانات الفنية لإنشاء ميزات التقارير ولوحات المعلومات في Robo Shadow Portal. فيما يلي ملخص عالي المستوى:",
-"terms-p-77"  :" البيانات الفنية: تتضمن عنوان بروتوكول الإنترنت (IP)، وبيانات تسجيل الدخول الخاصة بك، ونوع المتصفح وإصداره، وإعدادات المنطقة الزمنية والموقع، وأنواع المكونات الإضافية للمتصفح وإصداراتها، ونظام التشغيل والنظام الأساسي، وغيرها من التقنيات الموجودة على الأجهزة الذي تستخدمه للوصول إلى هذا الموقع." ,
-"terms-p-78" : " يرجى ملاحظة أننا نستخدم البيانات الفنية لإنشاء ميزات التقارير ولوحات المعلومات في Robo Shadow Portal. فيما يلي ملخص عالي المستوى:،اعتمادًا على الماسحات الضوئية والخدمات التي تستخدمها ضمن منصة Robo Shadow، فإننا نأخذ أيضًا بيانات خاصة بالجهاز وبيانات الحساب السحابي لتمكينك من استخدام النظام الأساسي لتحسين وضع الأمن السيبراني الخاص بك. ",
-"terms-p-79" : "نحن لا نتحمل أي مسؤولية أو التزام تجاه أي خرق للبيانات داخل RoboShadow والذي ينتهي به الأمر في بياناتك الشخصية أو بيانات عملك (التي ربما يتم سحب بعضها إلى Robo Shadow من حسابات سحابية تابعة لجهات خارجية تختار الاتصال بها داخل منصة Robo Shadow) لتصبح متاحة للعامة اِختِصاص.",
-"terms-p-80" : "حالة التقارير والشهادات",
-"terms-p-81" : " يرجى ملاحظة أن بعض المستندات المقدمة على موقعنا والتي يمكن تنزيلها عبر البوابة قد يتم تصنيفها على أنها تقارير أو شهادات، ومع ذلك، فإن هذه التصنيفات هي لأغراض وصفية فقط ولا ينبغي تفسيرها على أنها إقرار أو ضمان أو ضمان من أي نوع، سواء بشكل صريح أو صريح. أو ضمنا.",
-"terms-p-82" : "في حين أننا نبذل قصارى جهدنا لضمان دقة واكتمال هذه الوثائق، إلا أنها يتم توفيرها لأغراض إعلامية فقط وليس المقصود منها تقديم أي ضمانات أو ضمانات فيما يتعلق بالموضوع الوارد فيها.",
-"terms-p-83" : "نحن بموجب هذا نخلي مسؤوليتنا من جميع الضمانات، سواء كانت صريحة أو ضمنية، بما في ذلك على سبيل المثال لا الحصر أي ضمانات خاصة بالتسويق أو الملاءمة لغرض معين، ولن نكون مسؤولين عن أي أضرار تنشأ عن استخدام هذه المستندات أو الاعتماد عليها، بما في ذلك على سبيل المثال لا الحصر. يقتصر على أي أضرار مباشرة أو غير مباشرة أو عرضية أو خاصة أو تبعية.",
-"terms-p-84" : "تفسير التنبيهات",
-"terms-p-85" : "يرجى ملاحظة أن النظام الأساسي مصمم لتوفير تنبيهات للمستخدمين بناءً على معايير ومعلمات معينة محددة مسبقًا. وبينما نبذل قصارى جهدنا لضمان دقة هذه التنبيهات وتوقيتها، لا يمكننا ضمان اكتمالها أو موثوقيتها.",
-"terms-p-86" :" نحن بموجب هذا نخلي مسؤوليتنا الكاملة عن أي أضرار أو خسائر أو نفقات قد تنشأ عن استخدام هذه التنبيهات أو الاعتماد عليها، بما في ذلك على سبيل المثال لا الحصر، أي أضرار مباشرة أو غير مباشرة أو عرضية أو خاصة أو تبعية. باستخدام المنصة، فإنك تقر بأن التنبيهات يتم تقديمها فقط لأغراض إعلامية وأنك المسؤول الوحيد عن أي إجراءات يتم اتخاذها بناءً على هذه التنبيهات. أنت تقر أيضًا بأننا لسنا مسؤولين عن أي أخطاء أو سهو أو تأخير في إرسال هذه التنبيهات.",
-"terms-p-87" : "تقديم الدعم",
-"terms-p-88" : "لضمان خدمة من الدرجة الأولى، نقدم دعم العملاء عبر البريد الإلكتروني على",
-"terms-p-89" : "hello@roboshadow.com",
-"terms-p-90" : "أو عبر زر الحصول على الدعم على منصتنا. من خلال التواصل للحصول على المساعدة من خلال أي من القناتين، فإنك توافق على السماح لنا بالوصول إلى بياناتك من أجل تقديم الدعم لك. يمكن تقديم الدعم بواسطة موظف أو مقاول أو مقدم خدمة خارجي مشارك. يجوز لنا مشاركة المعلومات ذات الصلة معهم لتسهيل قضيتك، وهو ما توافق عليه.",
-"terms-p-91" : " يرجى ملاحظة أن خدمة الدعم لدينا تهدف إلى المساعدة في استخدام النظام الأساسي ومعالجة الأخطاء والمشكلات وليس المقصود منها تقديم استشارات الأمن السيبراني.",
-"terms-p-92" : "تجربة مجانية",
-"terms-p-93" : "نحن نقدم خيارات تجريبية محدودة الوقت لاشتراكاتنا الاحترافية والمؤسسية، والتي ستتيح لك الوصول إلى الميزات التي تتطلب الدفع لفترة محدودة من الوقت، يتم تحديدها عند بدء النسخة التجريبية المجانية. ليس لدينا أي التزام بتقديم أي فترات إضافية من الاستخدام المجاني، وأي تمديد للتجارب يتم تقديمه وفقًا لتقديرنا الخاص. ليس للتجارب المجانية أي قيمة مالية، وليست مؤهلة لاسترداد أي أموال أو تعويض لأي سبب من الأسباب.",
-"terms-p-94" : "التزاماتك عند استخدام منصتنا",
-"terms-p-95" : "يجب عليك الحفاظ على تفاصيل حسابك آمنة",
-"terms-p-96" : "لاستخدام منصتنا أو الوصول إليها، يجب أن يكون لديك حساب RoboShadow صالح. سيُطلب منك على موقعنا الإلكتروني أو سيتم الاتصال بك عبر البريد الإلكتروني لإنشاء حساب أو تسجيل الدخول إلى المنصة.",
-"terms-p-97" : "إذا اخترت، أو تم تزويدك، برمز تعريف المستخدم أو كلمة المرور أو أي معلومة أخرى كجزء من إجراءاتنا الأمنية، فيجب عليك التعامل مع هذه المعلومات على أنها سرية. يجب عليك عدم الكشف عنها لأي طرف ثالث أو مشاركة حسابك مع أي موظف آخر داخل مؤسستك.",
-"terms-p-98" : "لدينا الحق في تعطيل أي رمز تعريف مستخدم أو كلمة مرور، سواء اخترتها أنت أو خصصناها لنا، في أي وقت، إذا فشلت، في رأينا المعقول، في الالتزام بأي من أحكام شروط الاستخدام هذه.",
-"terms-p-99" : " إذا كنت تعرف أو تشك في أن أي شخص آخر غيرك يعرف رمز تعريف المستخدم أو كلمة المرور الخاصة بك، فيجب عليك إخطارنا على الفور على",
-"terms-p-100" : " hello@roboshadow.com",
-"terms-p-101" : "كيف يمكنك استخدام المواد الموجودة على منصتنا",
-"terms-p-102" : "يمكنك طباعة نسخة واحدة، ويمكنك تنزيل مقتطفات من أي صفحة (صفحات) من موقعنا ومنصتنا لاستخدامك الشخصي، ويمكنك لفت انتباه الآخرين داخل مؤسستك إلى المحتوى المنشور على منصتنا",
-"terms-p-103" : " لا يجوز لك تعديل النسخ الورقية أو الرقمية لأي مواد قمت بطباعتها أو تنزيلها بأي شكل من الأشكال، ويجب ألا تستخدم أي رسوم توضيحية أو صور فوتوغرافية أو مقاطع فيديو أو تسلسلات صوتية أو أي رسومات بشكل منفصل عن أي نص مصاحب.",
-"terms-p-104" : "يجب دائمًا الاعتراف بحالتنا (ووضع أي مساهمين محددين) كمؤلفي المحتوى على منصتنا.",
-"terms-p-105" : "لا يجوز لك استخدام أي جزء من المحتوى الموجود على منصتنا لأغراض تجارية دون الحصول على ترخيص للقيام بذلك منا أو من المرخصين لدينا.",
-
-"terms-p-106" : "م آخر تحديث لشروط الاستخدام هذه: 20 يوليتو 2023",
-"terms-p-107" : " إذا قمت بطباعة أو نسخ أو تنزيل أي جزء من منصتنا بشكل ينتهك شروط الاستخدام هذه، فسيتوقف حقك في استخدام منصتنا على الفور ويجب عليك، حسب اختيارنا، إعادة أو تدمير أي نسخ من المواد التي قمت بإنشائها.",
-"terms-p-108" : "استخدام شعار الشريك السيبراني المتقدم",
-"terms-p-109" : " إذا تم منحك إذنًا صريحًا من جانبنا عبر البريد الإلكتروني أو خطاب لاستخدام شعار الشريك ووضع علامة تجارية عليه، فيُسمح لك بالقيام بذلك وفقًا للشروط التالية.",
-"terms-p-110" : "يجب أن يكون أي استخدام لشعار Cyber ​​Advanced Partner بطريقة تحافظ على السمعة الإيجابية لعلامتنا التجارية وتعززها ويجب ألا تسعى إلى الإضرار بها أو الانتقاص منها بأي شكل من الأشكال.",
-"terms-p-111" : "أنت توافق على الالتزام بجميع القوانين واللوائح المعمول بها فيما يتعلق باستخدام شعار شريك RoboShadow والامتناع عن استخدام الشعار بأي طريقة قد تضلل المستهلكين أو تخدعهم.",
-"terms-p-112" : "نحن نحتفظ بالحق في إلغاء إذنك باستخدام شعار RoboShadow Partner في أي وقت إذا قررنا، وفقًا لتقديرنا الخاص، أن استخدامك للشعار لا يتوافق مع هذه الشروط والأحكام أو يضر بعلامتنا التجارية. لا نسمح لأي من عملائك بمقاضاتنا بناءً على المعلومات التي نقدمها، أو انتمائك إلى RoboShadow، أو أي مشكلات قانونية تنشأ بينك وبين عملائك فيما يتعلق بأي مشكلة تتعلق بالأمن السيبراني. تقع على عاتقك مسؤولية التأكد من امتثالك لجميع القوانين واللوائح المعمول بها فيما يتعلق بتوفير خدمات الأمن السيبراني، وأنت توافق على تعويض RoboShadow وحمايته من أي مطالبات أو أضرار أو التزامات تنشأ عن تقديمك لهذه الخدمات.",
-"terms-p-113" : "لا تعتمد على المعلومات الموجودة على منصتنا",
-"terms-p-114" : " يتم توفير المحتوى الموجود على منصتنا للحصول على معلومات عامة فقط. وليس المقصود منه أن يكون بمثابة نصيحة يجب أن تعتمد عليها. يجب عليك الحصول على مشورة مهنية أو متخصصة قبل اتخاذ أي إجراء أو الامتناع عنه على أساس المحتوى الموجود على منصتنا.",
-"terms-p-115" : "نحن ندرك أنه يمكن استخدام منصتنا من قبل متخصصين في مختلف الصناعات الذين قد يقدمون الخدمات لعملائهم. إذا اخترت استخدام المعلومات التي تم الحصول عليها من منصتنا لتقديم خدمة لعملائك، يرجى ملاحظة أننا لا يمكن أن نتحمل المسؤولية عن أي نتيجة لهذه الخدمات. تقع على عاتقك مسؤولية التأكد من حصولك على المشورة المهنية أو المتخصصة اللازمة قبل اتخاذ أي إجراء بناءً على المعلومات الموجودة على منصتنا.",
-"terms-p-116" : "على الرغم من أننا نبذل جهودًا معقولة لتحديث المعلومات الموجودة على منصتنا، إلا أننا لا نقدم أي تعهدات أو ضمانات، سواء كانت صريحة أو ضمنية، بأن المحتوى الموجود على موقعنا دقيق أو كامل أو محدث. ولذلك، لا يمكننا أن نتحمل المسؤولية عن أي أضرار أو خسائر مباشرة أو غير مباشرة ناتجة عن استخدام منصتنا أو محتواها. باستخدام منصتنا، فإنك تقر وتوافق على أن أي قرارات أو إجراءات يتم اتخاذها بناءً على المعلومات الموجودة على منصتنا هي على مسؤوليتك الخاصة وأننا لن نتحمل المسؤولية عن أي عواقب قد تنشأ.",
-"terms-p-117" : "تجدر الإشارة إلى أن بعض بيانات الجهات الخارجية، بما في ذلك على سبيل المثال لا الحصر، البيانات المستمدة من Shodan وMicrosoft، يتم استخدامها عبر نظامنا الأساسي. نحن لا نقبل أي مسؤولية أو التزام تجاه أي مشكلات تنشأ عن جودة أو دقة بيانات الطرف الثالث هذه. إن أي اعتماد على بيانات الطرف الثالث أو استخدامها يتم على مسؤوليتك الخاصة، ولا نقدم أي تعهدات أو ضمانات فيما يتعلق باكتمال أو دقة أو توقيت أو موثوقية أي من هذه البيانات.",
-"terms-p-118" : "الاستخدام المقبول",
-"terms-p-119" : "عندما تقوم بتحميل أو نشر محتوى على منصتنا، فإنك توافق على أنك لن تقوم بما يلي:",
-"terms-p-120" : "تحميل أي صورة أو نص أو بيانات غير قانونية أو ضارة بطبيعتها. ويشمل ذلك، على سبيل المثال لا الحصر، المواد الإباحية وخطاب الكراهية والمحتوى الذي يشجع على العنف أو التمييز. قد يتعرض أي مستخدم ينتهك هذه القاعدة إلى الإنهاء الفوري للحساب واتخاذ إجراءات قانونية إذا لزم الأمر. نحن نحتفظ بالحق في إزالة أي محتوى من هذا القبيل دون إشعار أو تفسير.",
-"terms-p-121" : "تحريف شركتنا بأي شكل من الأشكال عند استخدام تقاريرنا أو خدماتنا. وهذا يعني أنه لا يجوز لك استخدام منصتنا للترويج لمعلومات كاذبة أو مضللة حول شركتنا أو منتجاتنا وخدماتنا. بالإضافة إلى ذلك، لا يجوز لك استخدام تقاريرنا أو خدماتنا لتقديم ادعاءات أو وعود كاذبة حول نتيجة أو نتائج استخدام منصتنا. أي مستخدم يتبين أنه متورط في مثل هذا التحريف سيخضع للإنهاء الفوري للحساب واتخاذ الإجراءات القانونية إذا لزم الأمر. نحن نأخذ سمعة شركتنا على محمل الجد، ونتوقع من مستخدمينا أن يفعلوا الشيء نفسه.",
-"terms-p-122" : "الملكية الفكرية والحقوق",
-"terms-p-123" : "عندما تقوم بتحميل أو نشر محتوى على منصتنا، فإنك تمنحنا الحقوق التالية لاستخدام هذا المحتوى:",
-"terms-p-124": "ترخيص عالمي وغير حصري وخالي من حقوق الملكية وقابل للتحويل لاستخدام وإعادة إنتاج وتوزيع وإعداد أعمال مشتقة وعرض وتنفيذ ذلك المحتوى الذي أنشأه المستخدم فيما يتعلق بالخدمة التي يقدمها موقع الويب و عبر الوسائط المختلفة بما في ذلك الترويج للموقع أو الخدمة، وتنتهي صلاحيتها عندما يحذف المستخدم المحتوى من النظام الأساسي.",
-"terms-p-125" : "ترخيص عالمي وغير حصري وخالي من حقوق الملكية وقابل للتحويل للمستخدمين أو الشركاء أو المعلنين الآخرين لاستخدام المحتوى وفقًا لوظيفة الموقع، وتنتهي صلاحيته عندما يحذف المستخدم المحتوى من النظام الأساسي.",
-"terms-p-126" : "العلامات التجارية والملكية الفكرية",
-"terms-p-127" : "نحن المالك أو المرخص له لجميع حقوق الملكية الفكرية في منصتنا وفي المواد المنشورة عليها. هذه الأعمال محمية بموجب قوانين ومعاهدات حقوق النشر حول العالم. محجوزة عن هذه الحقوق.",
-"terms-p-128" : "Roboshadow وRobo هما علامتان تجاريتان مسجلتان في المملكة المتحدة (رقم التسجيل UK00003347019) والولايات المتحدة الأمريكية (رقم التسجيل 6,010,347). ويمنع منعا باتا استخدام هذه العلامات التجارية دون الحصول على موافقة كتابية مسبقة منا. قد يؤدي أي استخدام غير مصرح به لهذه العلامات التجارية إلى اتخاذ إجراء قانوني. نحن نأخذ حماية حقوق الملكية الفكرية الخاصة بنا على محمل الجد وسنتبع جميع سبل الانتصاف القانونية المتاحة لنا لحماية علاماتنا التجارية.",
-"terms-p-129" : "نحن لسنا مسؤولين عن الفيروسات ويجب عليك عدم التعريف بها",
-"terms-p-130" : "  نحن لا نضمن أن تكون منصتنا وخدماتنا آمنة أو خالية من الأخطاء أو الفيروسات أو التهديدات الأمنية، على الرغم من أننا نتبع بروتوكول أمان صارم لمنع حدوث ذلك.",
-"terms-p-131" : "أنت مسؤول عن تكوين تكنولوجيا المعلومات وبرامج الكمبيوتر والنظام الأساسي للوصول إلى خدماتنا. يجب عليك استخدام برنامج الحماية من الفيروسات الخاص بك.",
-"terms-p-132" : "يجب عليك عدم إساءة استخدام خدماتنا عن طريق إدخال الفيروسات أو أحصنة طروادة أو الفيروسات المتنقلة أو القنابل المنطقية أو غيرها من المواد الضارة أو الضارة من الناحية التكنولوجية عن عمد. يجب ألا تحاول الوصول غير المصرح به إلى منصتنا، أو الخادم الذي يتم تخزين منصتنا وبياناتنا عليه أو أي خادم أو كمبيوتر أو قاعدة بيانات متصلة بخدماتنا. يجب ألا تهاجم موقعنا من خلال هجوم رفض الخدمة أو هجوم رفض الخدمة الموزع. من خلال انتهاك هذا الشرط، فإنك ترتكب جريمة جنائية بموجب قانون إساءة استخدام الكمبيوتر لعام 1990. وسنقوم بالإبلاغ عن أي خرق من هذا القبيل إلى سلطات إنفاذ القانون ذات الصلة وسنتعاون مع تلك السلطات من خلال الكشف عن هويتك لهم. في حالة حدوث مثل هذا الانتهاك، سيتوقف حقك في استخدام منصتنا على الفور.",
-"terms-p-133" : "شروط الدفع",
-"terms-p-134" : "ستتم معالجة جميع المدفوعات التي تتم على منصتنا عبر Stripe، وهي بوابة دفع آمنة وموثوقة. باستخدام منصتنا، فإنك توافق على شروط وأحكام Stripe، والتي يمكن العثور عليها على موقعهم على الإنترنت. نحن لا نقوم بتخزين أو الوصول إلى أي تفاصيل دفع أو معلومات مقدمة من مستخدمينا أثناء عملية الدفع.",
-"terms-p-135" : "ليس لدينا سيطرة على الإجراءات الأمنية التي تنفذها Stripe ولا يمكن أن نتحمل المسؤولية عن أي انتهاكات أو مشكلات أو خسائر أمنية تنشأ عن استخدام Stripe لمعالجة الدفع. من خلال إجراء الدفعات من خلال Stripe، فإنك تقر وتقبل أن أي مخاطر مرتبطة بأمان معلومات الدفع الخاصة بك هي مسؤوليتك وحدك وأننا لسنا مسؤولين عن أي من هذه الحوادث.",
-"terms-p-136" : "الضرائب",
-"terms-p-137" : "يرجى العلم أنه تقع على عاتقك وحدك مسؤولية التأكد من استيفاءك لأي وجميع الالتزامات الضريبية المرتبطة بالمشتريات التي تتم على منصتنا. باعتبارنا منتجًا للأعمال التجارية (B2B) وكيانًا مسجلاً في ضريبة القيمة المضافة في المملكة المتحدة، فإننا ملزمون بفرض ضريبة القيمة المضافة (VAT) على أي عملاء لديهم شركات مقرها المملكة المتحدة. يتعين على أي مستخدمين تجاريين متواجدين خارج المملكة المتحدة التأكد من أنهم قد استوفوا على النحو الواجب أي التزامات ضريبية مطلوبة بموجب القوانين واللوائح المحلية الخاصة بهم. نحن لا نتحمل أي مسؤولية عن أي إخفاق من جانبك في الوفاء بأي من هذه الالتزامات الضريبية، ولا عن أي عقوبات أو غرامات أو عواقب أخرى ناتجة عن ذلك.",
-"terms-p-138" : "المبالغ المستردة",
-"terms-p-139" : "نحن نسعى جاهدين لتوفير منتجات وخدمات عالية الجودة لمستخدمينا، ولكننا ندرك أنه قد تكون هناك حالات لا تكون فيها راضيًا تمامًا عن عملية الشراء. ولذلك، فإننا نقدم سياسة استرداد الأموال لمنتجاتنا: إذا لم تكن راضيًا عن منتج تم شراؤه على منصتنا، فيمكنك طلب استرداد الأموال خلال 90 يومًا من تاريخ الشراء. لطلب استرداد الأموال، يرجى الاتصال",
-"terms-p-140" : "hello@roboshadow.com",
-"terms-p-141" : "يرجى ملاحظة أنه بعد 90 يومًا من تاريخ الشراء، لا يمكننا إصدار المبالغ المستردة لأي سبب من الأسباب. بالإضافة إلى ذلك، نحتفظ بالحق في رفض استرداد الأموال إذا قررنا، وفقًا لتقديرنا الخاص، أن الطلب لا يلبي معايير استرداد الأموال لدينا.",
-"terms-p-142" : "تغيرات الأسعار",
-"terms-p-143" : " نحن نحتفظ بالحق في زيادة أسعار أي من خدماتنا في أي وقت. على الرغم من أننا نعتزم عدم زيادة الأسعار للعملاء الحاليين، إلا أن هذا ليس ممكنًا دائمًا بسبب عوامل خارجية.",
-"terms-p-144" : "باعتبارك عميلاً حاليًا، سيكون لديك فترة سماح مدتها 30 يومًا على السعر السابق. إذا كنت لا توافق على زيادة الأسعار، فيمكنك إنهاء اتفاقيتك معنا خلال 30 يومًا من تلقي إشعار زيادة الأسعار. ويعتبر عدم إنهاء الاتفاقية خلال هذا الإطار الزمني بمثابة قبول للسعر الجديد.",
-"terms-p-145" : "توفر المنتج",
-"terms-p-146" : "نحن نحتفظ بالحق في إيقاف أي منتج أو خدمة قمت بدفع ثمنها في أي وقت ولأي سبب. وفي مثل هذه الحالة، سنعيد لك أي مبالغ مدفوعة مقابل المنتج أو الخدمة المتوقفة خلال المدة المتبقية من اشتراكك. لن نكون مسؤولين عن أي أضرار أو خسائر أو مطالبات تنشأ عن إيقاف المنتج أو الخدمة.",
-"terms-p-147" : "ما هي قوانين الدولة التي تنطبق على أي نزاعات؟",
-"terms-p-148" : "نتفق أنت ونحن على أن محاكم إنجلترا وويلز ستكون لها السلطة القضائية الحصرية باستثناء أنه إذا كنت مقيمًا في أيرلندا الشمالية، فيمكنك أيضًا رفع دعوى في أيرلندا الشمالية، وإذا كنت مقيمًا في اسكتلندا، فيمكنك أيضًا رفع دعوى في اسكتلندا .",
-"terms-p-149" : " تخضع شروط الاستخدام هذه وموضوعها وصياغتها (وأي نزاعات أو مطالبات غير تعاقدية) للقانون الإنجليزي. يوافق كلانا على الاختصاص القضائي الحصري لمحاكم إنجلترا وويلز."
-
-
-,
-"section-CyberCoverage-1":"التغطية السيبرانية",
-"section-CyberCoverage-2":"تسوية AD & 365 – إظهار التغطية السيبرانية للجهاز",
-"section-CyberCoverage-3":"وكيل الدليل النشط داخل الشركة",
-"section-CyberCoverage-4":"365/ أزور AD المصالحة",
-"section-CyberCoverage-5":"365 / تقرير امتثال Azure AD ReconciliaUser MFA",
-"section-CyberCoverage-6":"مطاردة الأجهزة الوحشية",
-"section-CyberCoverage-7":"لاجتياز اختبار اختراق داخلي، يجب أن تكون قادرًا على إثبات التحديث مع المتجر المستخدم الأساسي، حيث تتيح التغطية والمصالحة السيبرانية من Robo Shadow للمؤسسة إثبات أنها تتبع المقاييس السيبرانية عبر جميع أجهزتها. تتيح لك هذه الإمكانية المحبوبة جدًا أيضًا تعقب الآلات الوحشية عبر ممتلكاتك."
-
-
-
-
-
-
-
-,
-
-"section-en-1":"تغطية التشفير",
-"section-en-2":"إدارة Bitlocker – لا تنشغل بالكمبيوتر المحمول الموجود في القطار.",
-"section-en-3":"الامتثال لـ Bitlocker",
-"section-en-4":"أجهزة الكمبيوتر المكتبية والخوادم",
-"section-en-5":"تشفير الجهاز القابل للإزالة",
-"section-en-6":"تقارير مشاركة Windows",
-"section-en-7":"إحدى الحوادث الإلكترونية الأكثر شيوعًا التي ستتعامل معها هي فقدان جهاز يحتوي على بيانات الشركة، حيث يوفر التشفير السمعة والضغط عند التعامل مع الأجهزة المفقودة.",
-"section-en-8":"إذا لم تتمكن من إثبات أن الجهاز كان مشفرًا وإذا كان يحتوي على أي بيانات للعميل (بما في ذلك رسائل البريد الإلكتروني في قواعد بيانات OST غير المتصلة بالإنترنت)، فيجب عليك من الناحية الفنية الإبلاغ عن هذا الأمر الذي قد يتسبب أحيانًا في حدوث مشكلات تتعلق بالسمعة مع العملاء."
-
-
-
-,
-
-
-
-"blog-top-1":"روبوشادو",
-"blog-top-2":"مدونة روبو شادو",
-"blog-top-3":"نحن ملتزمون باستمرار بزيادة قاعدة المعرفة الموجودة في هذه المدونات، يرجى الاتصال بنا إذا كان هناك أي شيء ترغب في كتابته على وجه التحديد."
-,
-"blog-read":"اقرأ أكثر"
-
-
-,
-"blog-linky-1":"هل تم اختراقي حقًا؟ 10 خطوات للتعامل مع الخروقات الأمنية",
-"blog-linky-2":"حصريًا لـ SafetyDetectives: مقابلة مع تيري لويس من RoboShadow",
-"blog-linky-3":"ROBOSHADOW RoboShadow Release 153: أبرز الأحداث في مقابلة الإصدار هذه مع تيري لويس من RoboShadow",
-"blog-linky-4":"ما هو شودان محرك بحث الهاكرز؟",
-"blog-linky-5":"الأمن السيبراني ما الذي تحصل عليه مع أساسيات الإنترنت؟",
-"blog-linky-6":"ROBOSHADOW ينضم إلى فريق RoboShadow",
-"blog-span-1" :  "الأمن الإلكتروني"
-
-
-,
-"sign-in" :"تسجيل الدخول",
-"cancel" :"الغاء",
-"tro-link" : "حدثت مشكلة أثناء تسجيل الدخول?"
-,
-
-"agree" : "أنا أوافق على"
-,
-
-"recover-pass" :"إستعادة كلمة المرور",
-"recover-p-1" :"أدخل عنوان بريدك الإلكتروني المسجل ثم اضغط على الإرسال.",
-"recover-p-2" :" سنرسل لك تعليمات توضح كيفية إعادة تعيين كلمة المرور الخاصة بك إلى عنوان بريدك الإلكتروني.",
-"Produtcs" : "منتجات"
-
+  "who-p-3": "خبراء أمن تكنولوجيا المعلومات الذين يحتاجون إلى أدوات مركزية لإدارة المحافظ السيبرانية للعملاء  ",
+  "who-p-4": "المنظمات التي تعرف أنها بحاجة إلى منظمات المجتمع المدني ولكن ليس لديها الميزانية  ",
+
+  "blog-link-1": "الإصدار 153 من CorrectSOC: أبرز النقاط في هذا الإصدار  ",
+  "blog-p-1": "بقلم جاكوب جريموود تم نشره في 24/03/24 الساعة 2:03 مساءً  ",
+  "blog-p-2": "مع وجود عدد هائل من التقارير والاستفسارات حول عمليات القرصنة المحتملة ...  ",
+  "blog-link-2": "اقرأ أكثر",
+
+  "blog-2-link-1": "حصريًا لـ SafetyDetectives: مقابلة مع تيري لويس من CorrectSOC  ",
+  "blog-2-p-1": "بقلم جاكوب جريموود تم النشر في 28/02/24 الساعة 11:02 صباحًا  ",
+  "blog-2-p-2": "قام تيري بالدردشة مع فريق SafetyDetectives، وهم مجموعة من خبراء الأمن السيبراني...  ",
+  "blog-2-link-2": "اقرأ أكثر  ",
+
+  "blog-3-link-1": "الإصدار 153 من CorrectSOC: أبرز النقاط في هذا الإصدار  ",
+  "blog-3-p-1": "بقلم تيري لويس تم نشره في 24/02/24 الساعة 10:02 صباحًا  ",
+  "blog-3-p-2": "TBelow هو تحديث إصدار نهاية شهر يناير لك. شكرا لبعض المهتمين ...  ",
+  "blog-3-link-2": "اقرأ أكثر  ",
+  "our-blogs": "مدوناتنا",
+
+  "cyber-p": "تجمع منصتنا السيبرانية العناصر الأساسية الموجودة في اختبارات التدقيق والاختراق السيبرانية وتقدمها في منصة مدعومة سهلة الاستخدام. تتيح أفضل طبقة إلكترونية مجانية لدينا في العالم لأي مؤسسة الحصول على تقرير يومي عن حوكمة الإنترنت.",
+
+  "mobile-h1": "ماسح شبكة الهاتف المحمول",
+  "mobile-p": "يعد الماسح الضوئي لشبكة Android الخاص بنا هو أداة Cyber ​​Utility الأكثر تقدمًا في متجر Play ويتيح لك فحص شبكتك بسهولة بحثًا عن التهديدات الأمنية.  ",
+
+  "mobile-cyber-h1": "حماية الأمن السيبراني من راحة يدك  ",
+  "mobile-cyber-p1": "يعني تطبيقنا المجاني لفحص الثغرات الأمنية أنه يمكنك فحص شبكتك بحثًا عن تهديدات الأمن السيبراني من راحة يدك.  ",
+  "mobile-cyber-li-1": "قم بإجراء اختبار اختراق سريع على أي شبكة Wi-Fi  ",
+  "mobile-cyber-li-2": "قم بمسح شبكتك بحثًا عن الأجهزة المتصلة  ",
+  "mobile-cyber-li-3": "ابحث عن المنافذ المفتوحة وغير الآمنة على شبكتك  ",
+  "mobile-cyber-li-4": "احفظ عناوين IP الخاصة بأجهزتك المفضلة لإجراء فحوصات صحية سريعة  ",
+  "mobile-cyber-p2": "هدفنا هو إزالة الغموض عن الأمن السيبراني، حتى تتاح الفرصة للجميع. ما من مكان أفضل للبدء منه من منح العالم تطبيقًا للهاتف يمكن لأي شخص استخدامه، في أي مكان لإجراء تقييم سريع لنقاط الضعف.  ",
+  "mobile-cyber-d": "قم بتنزيل التطبيق  ",
+
+  "lay-h1-1": "اندرويد",
+  "lay-p": "الماسح الضوئي  ",
+  "lay-pt": "تم تصميم أداة فحص الثغرات الأمنية على الهاتف المحمول في الأصل لإظهار البساطة التي شعرنا أنها ضرورية في صناعة الأمن السيبراني. لقد انتشر تطبيقنا المجاني منذ ذلك الحين على نطاق واسع، مما يسمح للأشخاص والشركات في جميع أنحاء العالم بزيادة وضعهم في مجال الأمن السيبراني مجانًا، في بضع نقرات قصيرة.  ",
+
+  "lay-h1-2": "الاختراق الذاتي  ",
+  "lay-p-2": "اختبارات  ",
+  "lay-pt-2": "يستخدم التطبيق إنترنت GSM SIM الخاص بهاتفك لمسح عنوان IP الخاص بك على أي شبكة Wi-Fi. يمكنك إجراء تقييم للثغرات الخارجية (CVE) وسحب بيانات Shodan، كل ذلك من خلال واجهة Android سهلة الاستخدام وبسيطة. يمكنك أيضًا حفظ مفضلاتك حتى تتمكن من فحص سطح الهجوم بالكامل بسرعة في ثوانٍ.  ",
+
+  "lay-h1-3": "شبكه محليه  ",
+  "lay-p-3": "فحص الجهاز  ",
+  "lay-pt-3": "اكتشف الأجهزة المتصلة بالشبكة من خلال فحص اكتشاف أنيق وسهل الاستخدام. يمكن لقدرة مسح IOT هذه العثور على أي شيء بدءًا من المقابس الذكية وحتى كاميرات المراقبة المخفية. مثالي للمهتمين بالأمان أو لمحترفي الشبكات للحصول على أداة مسح متنقلة.  ",
+
+  "lay-h1-4": "وهن  ",
+  "lay-p-4": "تقدير  ",
+  "lay-pt-4": "بالنسبة لكل من الأجهزة الداخلية والشبكات الخارجية، يمكن إجراء جميع عمليات فحص أجهزة Android الخاصة بنا مقابل قواعد بيانات الثغرات الأمنية الخاصة بالتهديدات العالمية CVE. يمكن بسهولة فحص جميع بيانات بصمات الأصابع التي يتم إرجاعها ومقارنتها بقواعد بيانات الثغرات العالمية، ويتم تكثيفها جميعها في تقرير أنيق للمشاركة/الحفظ.  ",
+  "upgrade": "الترقية إلى موقعنا المجاني",
+
+  "cyber-header-p": "إن إزالة الغموض عن الأمن السيبراني جزء لا يتجزأ من كل ما نقوم به، ومنصتنا هي الوسيلة المثالية لمساعدتنا في توفير الصفاء السيبراني.",
+  "cyber-header-p-2": "إدارة نقاط الضعف الداخلية والخارجية، ومطابقتها جميعًا مع قواعد بيانات الأمن السيبراني العالمية.",
+
+  "Mobile-Network-Scanner": "الماسح الضوئي لشبكة الهاتف المحمول",
+  "mobile-network-p": "يعد الماسح الضوئي لشبكة الهاتف المحمول لدينا هو أداة Cyber ​​Utility الأكثر تقدمًا في متجر Play ومن أفضل 10 نتائج عضوية شائعة للعديد من أدوات الأمن السيبراني.",
+
+  "Website": "موقع إلكتروني",
+  "sign-up-free": "الاشتراك مجانا",
+  "portal-login": "تسجيل الدخول إلى البوابة",
+
+  "cookie-top": "سياسة ملفات الارتباط",
+  "cookie-h1-1": "هذه هي سياسة ملفات تعريف الارتباط الخاصة بـ CorrectSOC",
+  "cookie-p-1": "آخر تحديث: 20 يوليو 2023",
+  "cookie-h2-1": "ما هي ملفات تعريف الارتباط",
+  "cookie-p-2": "كما هو شائع في جميع مواقع الويب الاحترافية تقريبًا، يستخدم هذا الموقع ملفات تعريف الارتباط، وهي ملفات صغيرة يتم تنزيلها على جهاز الكمبيوتر الخاص بك لتحسين تجربتك. تصف هذه الصفحة المعلومات التي يجمعونها وكيف نستخدمها ولماذا نحتاج أحيانًا إلى تخزين ملفات تعريف الارتباط هذه. سنشارك أيضًا كيف يمكنك منع تخزين ملفات تعريف الارتباط هذه، ولكن هذا قد يؤدي إلى خفض مستوى بعض العناصر أو وظائف الموقع أو تعطيلها.",
+  "cookie-h2-2": "كيف نستخدم ملفات تعريف الارتباط",
+  "cookie-p-3": "نحن نستخدم ملفات تعريف الارتباط لمجموعة متنوعة من الأسباب المفصلة أدناه. لسوء الحظ، في معظم الحالات لا توجد خيارات قياسية في الصناعة لتعطيل ملفات تعريف الارتباط دون تعطيل الوظائف والميزات التي تضيفها إلى هذا الموقع بشكل كامل. يوصى بترك جميع ملفات تعريف الارتباط إذا لم تكن متأكدًا مما إذا كنت بحاجة إليها أم لا في حالة استخدامها لتقديم خدمة تستخدمها.",
+  "cookie-h2-3": "تعطيل ملفات تعريف الارتباط",
+  "cookie-p-4": "يمكنك منع إعداد ملفات تعريف الارتباط عن طريق ضبط الإعدادات في متصفحك (راجع تعليمات المتصفح الخاص بك لمعرفة كيفية القيام بذلك). انتبه إلى أن تعطيل ملفات تعريف الارتباط سيؤثر على وظائف هذا الموقع والعديد من مواقع الويب الأخرى التي تزورها. عادةً ما يؤدي تعطيل ملفات تعريف الارتباط إلى تعطيل وظائف وميزات معينة في هذا الموقع. ولذلك، يوصى بعدم تعطيل ملفات تعريف الارتباط.",
+  "cookie-h2-4": "ملفات تعريف الارتباط التي قمنا بتعيينها",
+  "cookie-li-1": "ملفات تعريف الارتباط المتعلقة بالحساب: إذا قمت بإنشاء حساب معنا، فسنستخدم ملفات تعريف الارتباط لإدارة عملية التسجيل والإدارة العامة. عادةً ما يتم حذف ملفات تعريف الارتباط هذه عند تسجيل الخروج، ولكن في بعض الحالات قد تبقى بعد ذلك لتذكر تفضيلات موقعك عند تسجيل الخروج.",
+  "cookie-li-2": "ملفات تعريف الارتباط المتعلقة بتسجيل الدخول: نستخدم ملفات تعريف الارتباط عندما تقوم بتسجيل الدخول حتى نتمكن من تذكر هذه الحقيقة. وهذا يمنعك من الاضطرار إلى تسجيل الدخول في كل مرة تزور فيها صفحة جديدة. عادةً ما تتم إزالة ملفات تعريف الارتباط هذه أو مسحها عند تسجيل الخروج للتأكد من أنه لا يمكنك الوصول إلى الميزات والمناطق المقيدة إلا عند تسجيل الدخول.",
+  "cookie-li-3": "ملفات تعريف الارتباط ذات الصلة بالرسائل الإخبارية عبر البريد الإلكتروني: يقدم هذا الموقع خدمات الاشتراك في الرسائل الإخبارية أو البريد الإلكتروني ويمكن استخدام ملفات تعريف الارتباط لتذكر ما إذا كنت مسجلاً بالفعل وما إذا كنت تريد إظهار إشعارات معينة قد تكون صالحة فقط للمستخدمين المشتركين / غير المشتركين.",
+  "cookie-li-4": "ملفات تعريف الارتباط ذات الصلة بالنماذج: عند إرسال البيانات من خلال نموذج مثل تلك الموجودة في صفحات الاتصال أو نماذج التعليقات، قد يتم تعيين ملفات تعريف الارتباط لتذكر تفاصيل المستخدم الخاصة بك للمراسلات المستقبلية.",
+  "cookie-h2-5": "ملفات تعريف الارتباط الخاصة بالطرف الثالث",
+  "cookie-p-5": "وفي بعض الحالات الخاصة، نستخدم أيضًا ملفات تعريف الارتباط المقدمة من جهات خارجية موثوقة. يوضح القسم التالي تفاصيل ملفات تعريف الارتباط الخاصة بالطرف الثالث التي قد تواجهها من خلال هذا الموقع. Cookie-li-5: يستخدم هذا الموقع Google Analytics الذي يعد أحد أكثر حلول التحليلات انتشارًا وموثوقية على الويب لمساعدتنا في فهم كيفية استخدامك للموقع والطرق التي يمكننا من خلالها تحسين تجربتك. قد تتتبع ملفات تعريف الارتباط هذه أشياء مثل المدة التي تقضيها على الموقع والصفحات التي تزورها حتى نتمكن من الاستمرار في إنتاج محتوى جذاب. لمزيد من المعلومات حول ملفات تعريف الارتباط الخاصة بـ Google Analytics، راجع صفحة Google Analytics الرسمية.",
+  "cookie-li-6": "تُستخدم تحليلات الطرف الثالث لتتبع وقياس استخدام هذا الموقع حتى نتمكن من الاستمرار في إنتاج محتوى جذاب. قد تتتبع ملفات تعريف الارتباط هذه أشياء مثل المدة التي تقضيها على الموقع أو الصفحات التي تزورها، مما يساعدنا على فهم كيف يمكننا تحسين الموقع لك.",
+  "cookie-li-7": "نستخدم أيضًا أزرار الوسائط الاجتماعية و/أو المكونات الإضافية الموجودة على هذا الموقع والتي تتيح لك الاتصال بشبكتك الاجتماعية بطرق مختلفة. لكي يعمل هؤلاء على مواقع التواصل الاجتماعي التالية بما في ذلك؛ سيقوم Facebook وTwitter وInstagram وYouTube وGoogle بتعيين ملفات تعريف الارتباط من خلال موقعنا والتي يمكن استخدامها لتحسين ملفك الشخصي على موقعهم أو المساهمة في البيانات التي يحتفظون بها لأغراض مختلفة موضحة في سياسات الخصوصية الخاصة بكل منهم.",
+  "cookie-h2-6": "معلومات اكثر",
+  "cookie-p1": "الرجاء التواصل",
+  "cookie-link": "hello@CorrectSOC.com",
+  "cookie-p3": "إذا كان لديك أي أسئلة أو مخاوف أخرى.",
+
+  "privacy-p-1": "آخر تحديث: 20 يوليو 2023",
+  "privacy-p-2": "تحترم شركة CorrectSOC Ltd (نحن، لنا) خصوصيتك وتلتزم بحماية بياناتك الشخصية. يشرح إشعار الخصوصية هذا كيف نستخدم ونحمي البيانات الشخصية التي تقدمها لنا. كما أنه يشرح حقوق الخصوصية والحماية الخاصة بك.",
+  "privacy-p-3": "لقد حاولنا الاحتفاظ بإشعار الخصوصية هذا ببساطة دون المساس بالمعلومات المقدمة لك. ولذلك قمنا بتقسيمها إلى الأقسام التالية.",
+  "privacy-h1-1": "الغرض من إشعار الخصوصية هذا",
+  "privacy-p-1-1": "يمنحك إشعار الخصوصية هذا معلومات حول كيفية جمع ومعالجة البيانات الشخصية التي تقدمها لنا، بما في ذلك أي بيانات تقدمها عبر موقعنا الإلكتروني",
+  "privacy-p-1-2": "عندما تقوم بالتسجيل معنا، أو تستخدم موقعنا، أو خدماتنا، أو برامجنا، أو عندما تقوم بالتسجيل في نشرتنا الإخبارية، أو تراسلنا أو تطلب منا الاتصال بك.",
+  "privacy-p-2-2": "يجب قراءة إشعار الخصوصية هذا مع أي إشعار خصوصية آخر أو إشعار معالجة عادلة قد نقدمه عندما نقوم بجمع أو معالجة بيانات شخصية عنك. يكمل إشعار الخصوصية هذا أي إشعارات أخرى وليس المقصود منه تجاوزها.",
+  "privacy-p-3-3": "إن عروض أعمالنا ليست مخصصة للأطفال، ونحن لا نجمع البيانات المتعلقة بالأطفال عن قصد.",
+  "privacy-p-4": "تفاصيل الاتصال لدينا والدور",
+  "privacy-p-5": "نحن مراقب البيانات المسؤول عن بياناتك الشخصية. التفاصيل الكاملة لدينا هي:",
+  "privacy-p-6": "كوركت سوك المحدودة",
+  "privacy-p-7": "رقم تسجيل الشركة: 10726476",
+  "privacy-p-8": "مدير خصوصية البيانات:",
+  "privacy-p-9": "تيري لويس",
+  "privacy-p-11": "عنوان البريد الإلكتروني:",
+  "privacy-p-12": "العنوان البريدي:",
+  "privacy-p-13": "Privacy-p-13:WhiteGates Business Park، Shenfield، Essex، إنجلترا، CM15 8QF",
+  "privacy-p-14": "رقم هاتف:",
+  "privacy-p-15": "+44 20300 53729.",
+  "privacy-p-16": "إذا كانت لديك أي أسئلة حول إشعار الخصوصية هذا، بما في ذلك أي طلبات لممارسة حقوقك القانونية (انظر القسم 9 أدناه)، فيرجى الاتصال بمدير خصوصية البيانات باستخدام التفاصيل الموضحة أعلاه.",
+  "privacy-p-17": "لديك الحق في تقديم شكوى في أي وقت إلى مكتب مفوضي المعلومات (ICO) (www.ico.org.uk)، وهو السلطة الإشرافية لقضايا حماية البيانات في المملكة المتحدة. ومع ذلك، نطلب منك الاتصال بنا في المقام الأول ومنحنا الفرصة لمعالجة مخاوفك قبل أن تفكر في الاتصال بـ ICO.",
+  "privacy-p-18": "التغييرات على إشعار الخصوصية وواجبك في إبلاغنا بالتغييرات",
+  "privacy-p-19": "من المهم أن تكون البيانات الشخصية أو التجارية التي نحتفظ بها عنك دقيقة وحديثة، لذا يرجى إعلامنا إذا تغيرت بياناتك الشخصية أو التجارية في أي وقت.",
+  "privacy-p-20": "روابط الطرف الثالث",
+  "privacy-p-21": " قد يشتمل موقعنا على روابط لمواقع ويب تابعة لجهات خارجية أو عروض البائعين أو تطبيقات أخرى و/أو مكونات إضافية و/أو تطبيقات. قد يؤدي النقر فوق هذه الروابط أو تمكين هذه الاتصالات إلى السماح لجهات خارجية بجمع بيانات عنك أو مشاركتها. نحن لا نتحكم في مواقع الطرف الثالث هذه ولسنا مسؤولين عن بيانات الخصوصية الخاصة بها. عندما تغادر موقعنا، يجب عليك قراءة إشعار الخصوصية الخاص بأي موقع تزوره.",
+  "privacy-p-22": "البيانات التي نجمعها عنك",
+  "privacy-p-23": " البيانات الشخصية، أو المعلومات الشخصية، تعني أي معلومات حول فرد يمكن التعرف على هذا الشخص من خلاله. ولا تتضمن البيانات التي تمت إزالة الهوية منها (بيانات مجهولة المصدر).",
+  "privacy-p-24": "  يجوز لنا جمع واستخدام وتخزين ونقل الأنواع التالية من البيانات الشخصية عنك، والتي قمنا بتلخيصها في فئات:",
+
+  "privacy-p-25": "بيانات الهوية:",
+  "privacy-p-26": "يتضمن الاسم الأول أو اسم العائلة أو اسم المستخدم أو معرفًا وعنوانًا مشابهًا.",
+  "privacy-p-27": "بيانات الاتصال:",
+  "privacy-p-28": "يتضمن عنوان إرسال الفواتير وعنوان التسليم وعنوان البريد الإلكتروني وأرقام الهواتف.",
+  "privacy-p-29": "بيانات المعاملات:",
+  "privacy-p-30": " يتضمن تفاصيل حول المدفوعات منك وتفاصيل أخرى عن الخدمات التي اشتريتها أو تلقيتها منا.",
+
+  "privacy-p-31": "معلومات تقنية:",
+  "privacy-p-32": "يتضمن عنوان بروتوكول الإنترنت (IP)، وبيانات تسجيل الدخول الخاصة بك، ونوع المتصفح، والإصدار، وإعدادات المنطقة الزمنية والموقع، وأنواع وإصدارات المكونات الإضافية للمتصفح، ونظام التشغيل والنظام الأساسي، والتكنولوجيا الأخرى على الأجهزة التي تستخدمها للوصول إلى هذا الموقع. اعتمادًا على الماسحات الضوئية والخدمات التي تستخدمها ضمن منصة CorrectSOC، فإننا نأخذ أيضًا بيانات خاصة بالجهاز وبيانات الحساب السحابي لتمكينك من استخدام النظام الأساسي لتحسين وضع الأمن السيبراني الخاص بك. نحن لا نتحمل أي مسؤولية أو التزام تجاه أي خرق للبيانات داخل CorrectSOC والذي ينتهي به الأمر في بياناتك الشخصية أو بيانات عملك (التي ربما يتم سحب بعضها إلى CorrectSOC من حسابات سحابية تابعة لجهات خارجية تختار الاتصال بها داخل منصة CorrectSOC) وتصبح متاحة للعامة اِختِصاص.",
+  "privacy-p-33": "بيانات الملف الشخصي:",
+  "privacy-p-34": " يتضمن اسم المستخدم وكلمة المرور الخاصة بك، والمشتريات أو الطلبات التي قمت بها، واهتماماتك، وتفضيلاتك، وتعليقاتك، وردود الاستبيان.",
+  "privacy-p-35": "بيانات الاستخدام:",
+  "privacy-p-36": " يتضمن معلومات حول كيفية استخدامك لموقعنا و/أو خدماتنا.",
+  "privacy-p-37": " بيانات التسويق والاتصالات",
+  "privacy-p-38": " يتضمن تفضيلاتك في تلقي التسويق منا ومن أطرافنا الثالثة وتفضيلات الاتصال الخاصة بك.",
+  "privacy-p-39": "  يتم استخدام الفئات المذكورة أعلاه كمصطلحات محددة في مكان آخر في إشعار الخصوصية هذا.",
+  "privacy-p-40": "نحن أيضًا نجمع ونستخدم ونشارك",
+  "privacy-p-41": "البيانات المجمعة",
+  "privacy-p-42": "مثل البيانات الإحصائية أو الديموغرافية لأي غرض. قد يتم استخلاص البيانات المجمعة من بياناتك الشخصية ولكنها لا تعتبر بيانات شخصية في القانون لأن هذه البيانات لا تكشف هويتك بشكل مباشر أو غير مباشر. على سبيل المثال، قد نقوم بتجميع بيانات الاستخدام الخاصة بك لحساب النسبة المئوية للمستخدمين الذين يصلون إلى ميزة معينة في موقع الويب. ومع ذلك، إذا قمنا بدمج البيانات المجمعة أو ربطها ببياناتك الشخصية حتى تتمكن من التعرف عليك بشكل مباشر أو غير مباشر، فإننا نتعامل مع البيانات المجمعة على أنها بيانات شخصية سيتم استخدامها وفقًا لإشعار الخصوصية هذا.",
+  "privacy-p-43": "نحن لا نجمع أي",
+  "privacy-p-44": " الفئات الخاصة للبيانات الشخصية",
+  "privacy-p-45": "عنك (يتضمن ذلك تفاصيل حول عرقك أو أصلك العرقي، ومعتقداتك الدينية أو الفلسفية، وحياتك الجنسية، وتوجهك الجنسي، وآرائك السياسية، وعضوية النقابات العمالية، ومعلومات عن صحتك، وبياناتك الجينية والبيومترية). كما أننا لا نجمع أي معلومات حول الإدانات والجرائم الجنائية.",
+  "privacy-p-46": "إذا فشلت في تقديم البيانات الشخصية",
+  "privacy-p-47": " عندما نحتاج إلى جمع البيانات الشخصية بموجب القانون، أو بموجب شروط العقد الذي أبرمناه معك، وفشلت في تقديم تلك البيانات عند الطلب، فقد لا نتمكن من أداء التزاماتنا بموجب عقدنا معك. في هذه الحالة، قد نضطر إلى إلغاء منتج أو خدمة، لكننا سنخطرك إذا كان الأمر كذلك.",
+  "privacy-p-48": "كيف يتم جمع بياناتك الشخصية",
+  "privacy-p-49": " نحن نستخدم طرقًا مختلفة لجمع بياناتك الشخصية بما في ذلك من خلال:",
+  "privacy-p-50": "منك مباشرة.",
+  "privacy-p-51": "يمكنك أن تقدم لنا هويتك وبيانات الاتصال الخاصة بك عن طريق ملء النماذج أو عن طريق مراسلتنا عبر البريد أو الهاتف أو البريد الإلكتروني أو غير ذلك. يتضمن ذلك البيانات الشخصية التي تقدمها عندما:",
+  "privacy-p-52": "استخدام موقعنا؛",
+  "privacy-p-53": "إنشاء حساب؛",
+  "privacy-p-54": "الاشتراك في خدمتنا أو منشوراتنا؛",
+  "privacy-p-55": "طلب إرسال التسويق إليك؛ أو",
+  "privacy-p-56": "تعطينا بعض ملاحظات.",
+
+  "privacy-p-57": "التقنيات الآلية أو التفاعلات",
+  "privacy-p-58": " أثناء تفاعلك مع موقعنا، قد نقوم تلقائيًا بجمع البيانات الفنية حول أجهزتك وإجراءات التصفح والأنماط الخاصة بك. نقوم بجمع هذه البيانات الشخصية باستخدام ملفات تعريف الارتباط وسجلات الخادم والتقنيات المماثلة الأخرى. يرجى الاطلاع على سياسة ملفات تعريف الارتباط الخاصة بنا",
+  "privacy-p-59": " CorrectSOC.com/cookie-policy",
+  "privacy-p-60": "لمزيد من التفاصيل.",
+  "privacy-p-61": "كيف نستخدم بياناتك الشخصية",
+  "privacy-p-62": "لن نستخدم بياناتك الشخصية إلا عندما يسمح لنا القانون بذلك. في أغلب الأحيان، سوف نستخدم بياناتك الشخصية في الظروف التالية:",
+  "privacy-p-63": "حيث نحتاج إلى أداء التزاماتنا التعاقدية تجاهك.",
+  "privacy-p-64": " عندما يكون ذلك ضروريًا لمصالحنا المشروعة (أو مصالح طرف ثالث) ولا تتجاوز مصالحك وحقوقك الأساسية تلك المصالح.",
+  "privacy-p-65": "عندما نحتاج إلى الامتثال لالتزام قانوني أو تنظيمي.",
+  "privacy-p-66": "مصلحة مشروعة",
+  "privacy-p-67": "يعني الاهتمام بإدارة أعمالنا وإدارتها لتمكيننا من تقديم خدمات عالية الجودة وتجربة جيدة وآمنة. نحن نأخذ في الاعتبار ونوازن أي تأثير محتمل عليك (سواء كان إيجابيًا أو سلبيًا) وعلى حقوقك قبل أن نعالج بياناتك الشخصية لمصالحنا المشروعة. نحن لا نستخدم بياناتك الشخصية في الأنشطة التي تتجاوز فيها مصالحنا التأثير عليك (ما لم نحصل على موافقتك أو ما لم يكن ذلك مطلوبًا أو مسموحًا به بموجب القانون). يرجى الاتصال بنا إذا كنت ترغب في الحصول على مزيد من الإرشادات بشأن كيفية تقييم المصالح المشروعة مقابل أي تأثير محتمل عليك.",
+  "privacy-p-68": "بشكل عام، نحن لا نعتمد على الموافقة كأساس قانوني لمعالجة بياناتك الشخصية بخلاف ما يتعلق بإرسال اتصالات تسويقية مباشرة من طرف ثالث إليك عبر البريد الإلكتروني أو الرسائل النصية. لديك الحق في سحب الموافقة على التسويق في أي وقت",
+  "privacy-p-69": "الاتصال بنا.",
+  "privacy-p-70": "الأغراض التي سنستخدم من أجلها بياناتك الشخصية",
+  "privacy-p-71": "لقد قدمنا ​​أدناه، في شكل جدول، وصفًا لجميع الطرق التي نخطط بها لاستخدام بياناتك الشخصية، والأسس القانونية التي نعتمد عليها في القيام بذلك. لقد حددنا أيضًا ما هي مصالحنا المشروعة حيثما كان ذلك مناسبًا.",
+  "privacy-p-72": "الغرض/النشاط",
+  "privacy-p-73": "نوع البيانات",
+  "privacy-p-74": "الأساس القانوني للمعالجة بما في ذلك أساس المصلحة المشروعة",
+  "privacy-p-75": "لتسجيلك كعميل",
+  "privacy-p-76": "(أ) الهوية",
+  "privacy-p-77": "تنفيذ العقد معك",
+  "privacy-p-78": "(ب) الاتصال",
+  "privacy-p-79": " لمعالجة وتقديم الخدمات لك بما في ذلك:",
+  "privacy-p-80": "(أ) الهوية",
+  "privacy-p-81": "(أ) تنفيذ العقد معك",
+  "privacy-p-82": "(أ) إدارة المدفوعات والرسوم والمصاريف",
+  "privacy-p-83": "(ب) الاتصال",
+  "privacy-p-84": "(ب) جمع واسترداد الأموال المستحقة لنا",
+  "privacy-p-85": "(ج) الصفقة",
+  "privacy-p-86": " (ب) ضرورية لمصالحنا المشروعة (لاسترداد الديون المستحقة لنا)",
+  "privacy-p-87": "(د) التسويق والاتصالات",
+  "privacy-p-88": " لإدارة علاقتنا معك والتي ستشمل:",
+  "privacy-p-89": "أ) الهوية",
+  "privacy-p-90": "(أ) تنفيذ العقد معك",
+  "privacy-p-91": "(أ) إخطارك بالتغييرات التي تطرأ على الشروط أو سياسة الخصوصية الخاصة بنا",
+  "privacy-p-92": " (ب) ضرورية للامتثال لالتزام قانوني",
+  "privacy-p-93": "(ج) الملف الشخصي",
+  "privacy-p-94": "(ج) ضرورية لمصالحنا المشروعة (للحفاظ على سجلاتنا محدثة ودراسة كيفية استخدام العملاء لخدماتنا)",
+  "privacy-p-95": "((د) التسويق والاتصالات",
+  "privacy-p-96": " لإدارة وحماية أعمالنا وموقعنا (بما في ذلك استكشاف الأخطاء وإصلاحها وتحليل البيانات والاختبار وصيانة النظام والدعم وإعداد التقارير واستضافة البيانات)",
+  "privacy-p-97": "(أ) الهوية",
+  "privacy-p-98": "(أ) ضرورية لمصالحنا المشروعة (لإدارة أعمالنا، وتوفير خدمات الإدارة وتكنولوجيا المعلومات، وأمن الشبكات، لمنع الاحتيال وفي سياق إعادة تنظيم الأعمال أو ممارسة إعادة هيكلة المجموعة)",
+
+  "privacy-p-99": "(ب) الاتصال",
+  "privacy-p-100": "(ج) التقنية",
+  "privacy-p-101": "(ج) الملف الشخصي",
+  "privacy-p-102": "(ج) ضرورية لمصالحنا المشروعة (للحفاظ على سجلاتنا محدثة ودراسة كيفية استخدام العملاء لخدماتنا)",
+  "privacy-p-103": "لتقديم محتوى موقع الويب والإعلانات ذات الصلة لك وقياس أو فهم فعالية الإعلانات التي نقدمها لك",
+  "privacy-p-104": "أ) الهوية",
+  "privacy-p-105": " ضرورية لمصالحنا المشروعة (لدراسة كيفية استخدام العملاء لخدماتنا، وتطويرها، وتنمية أعمالنا، ولإبلاغ استراتيجيتنا التسويقية)",
+  "privacy-p-106": "ب) الاتصال",
+  "privacy-p-107": "(ج) الملف الشخصي",
+  "privacy-p-108": "(د) الاستخدام",
+  "privacy-p-109": "(هـ) التسويق والاتصالات",
+  "privacy-p-110": "(و) التقنية",
+  "privacy-p-111": "لاستخدام تحليلات البيانات لتحسين موقعنا وخدماتنا وتسويقنا وعلاقاتنا مع العملاء وتجاربنا",
+  "privacy-p-112": "(أ) التقنية",
+  "privacy-p-113": "ضروري لمصالحنا المشروعة (لتحديد أنواع العملاء لخدماتنا، وللحفاظ على تحديث موقعنا الإلكتروني وملاءمته، لتطوير أعمالنا، ولإبلاغ استراتيجيتنا التسويقية)",
+  "privacy-p-114": "ب) الاستخدام",
+  "privacy-p-115": "لتقديم الاقتراحات والتوصيات لك حول الخدمات التي قد تهمك",
+  "privacy-p-116": "(أ) الهوية",
+  "privacy-p-117": "ضرورية لمصالحنا المشروعة (لتطوير خدماتنا وتنمية أعمالنا)",
+  "privacy-p-118": "(ب) الاتصال",
+  "privacy-p-119": "(ج) التقنية",
+  "privacy-p-120": "(د) الاستخدام",
+  "privacy-p-121": "(هـ) الملف الشخصي",
+
+  "privacy-p-122": "تسويق",
+  "privacy-p-123": "نحن نسعى جاهدين لتزويدك بالخيارات المتعلقة ببعض استخدامات البيانات الشخصية، لا سيما فيما يتعلق بالتسويق والإعلان. لقد أنشأنا آليات التحكم في البيانات الشخصية التالية فيما يتعلق بأنشطتنا التسويقية:",
+  "privacy-p-124": "العروض الترويجية منا",
+  "privacy-p-125": "قد نستخدم بيانات الهوية، وبيانات الاتصال، والبيانات الفنية، وبيانات الاستخدام، وبيانات الملف الشخصي الخاصة بك لتحديد ما نعتقد أنك قد تريده أو تحتاج إليه، أو ما قد يثير اهتمامك.",
+  "privacy-p-126": "ستتلقى اتصالات تسويقية منا إذا طلبت معلومات منا أو اشتريت خدمات منا، وفي كل حالة، لم تقم بإلغاء الاشتراك في تلقي هذا التسويق.",
+  "privacy-p-127": "تسويق الطرف الثالث",
+  "privacy-p-128": "  سنحصل على موافقتك الصريحة على الاشتراك قبل أن نشارك بياناتك الشخصية مع أي شركة خارجية لأغراض التسويق.",
+  "privacy-p-129": "إلغاء الاشتراك",
+  "privacy-p-130": "يمكنك أن تطلب منا أو من أطراف ثالثة التوقف عن إرسال رسائل تسويقية إليك في أي وقت",
+  "privacy-p-131": "الاتصال بنا",
+  "privacy-p-132": "في أي وقت.",
+  "privacy-p-133": " عند إلغاء الاشتراك في تلقي هذه الرسائل التسويقية، لن ينطبق ذلك على البيانات الشخصية المقدمة إلينا بسبب شراء خدمة، أو تسجيل الضمان، أو تجربة المنتج/الخدمة، أو المعاملات الأخرى.",
+  "privacy-p-134": "Cookies",
+  "privacy-p-135": " يمكنك ضبط المتصفح الخاص بك لرفض كل أو بعض ملفات تعريف الارتباط للمتصفح أو لتنبيهك عندما تستخدم مواقع الويب ملفات تعريف الارتباط. إذا قمت بتعطيل أو رفض ملفات تعريف الارتباط، فقد لا تتمكن من استخدام بعض أجزاء موقعنا بشكل صحيح أو على الإطلاق. لمزيد من المعلومات حول ملفات تعريف الارتباط التي نستخدمها، يرجى الاطلاع على سياسة ملفات تعريف الارتباط الخاصة بنا",
+  "privacy-p-136": "www.CorrectSOC.com/cookie-policy.",
+  "privacy-p-137": "تغيير الغرض",
+  "privacy-p-138": " لن نستخدم بياناتك الشخصية إلا للأغراض التي جمعناها من أجلها ما لم نعتبر بشكل معقول أننا بحاجة إلى استخدامها لسبب آخر وأن هذا السبب يتوافق مع الغرض الأصلي.",
+  "privacy-p-139": "إذا كنا بحاجة إلى استخدام بياناتك الشخصية لغرض غير ذي صلة، فسنخطرك وسنشرح لك الأساس القانوني الذي يسمح لنا بذلك.",
+  "privacy-p-140": "لن نبيع بياناتك لأي سبب من الأسباب.",
+  "privacy-p-141": " يرجى ملاحظة أننا قد نقوم بمعالجة بياناتك الشخصية دون علمك أو موافقتك، عندما يكون ذلك مطلوبًا أو مسموحًا به بموجب القانون.",
+  "privacy-p-142": "الكشف عن بياناتك الشخصية",
+  "privacy-p-143": " قد نضطر إلى مشاركة بياناتك الشخصية مع الأطراف المبينة أدناه للأغراض المبينة في الجدول أعلاه.",
+  "privacy-p-145": "الأطراف الثالثة الخارجية التالية:",
+  "privacy-p-146": "3Gi Technology Ltd، وهي شركة مرتبطة تساعد في تقديم خدمات الدعم لمنصة CorrectSOC.",
+  "privacy-p-147": "المستشارون المحترفون بما في ذلك المحامون والمصرفيون ومدققو الحسابات وشركات التأمين المقيمون في المملكة المتحدة والذين يقدمون الخدمات الاستشارية والخدمات المصرفية والقانونية والتأمينية والمحاسبية.",
+  "privacy-p-148": "تتطلب إدارة الإيرادات والجمارك في HM والجهات التنظيمية والسلطات الأخرى الموجودة في المملكة المتحدة الإبلاغ عن أنشطة المعالجة في ظروف معينة.",
+  "privacy-p-149": "  الأطراف الثالثة التي قد نختار بيع أو نقل أو دمج أجزاء من أعمالنا أو أصولنا لها. وبدلاً من ذلك، قد نسعى للاستحواذ على شركات أخرى أو الاندماج معها. إذا حدث تغيير في أعمالنا، فيجوز للمالكين الجدد استخدام بياناتك الشخصية بنفس الطريقة الموضحة في إشعار الخصوصية هذا.",
+  "privacy-p-150": "  نحن نطلب من جميع الأطراف الثالثة احترام أمان بياناتك الشخصية ومعاملتها وفقًا للقانون. نحن نسمح لهم فقط بمعالجة بياناتك الشخصية لأغراض محددة ووفقًا لتعليماتنا.",
+  "privacy-p-151": "أمن البيانات",
+  "privacy-p-152": " لقد وضعنا تدابير أمنية مناسبة لمنع فقدان بياناتك الشخصية أو استخدامها أو الوصول إليها عن طريق الخطأ بطريقة غير مصرح بها أو تغييرها أو الكشف عنها. بالإضافة إلى ذلك، فإننا نقتصر الوصول إلى بياناتك الشخصية على هؤلاء الموظفين والوكلاء والمقاولين والأطراف الثالثة الأخرى التي تحتاج إلى معرفتها. لن يقوموا بمعالجة بياناتك الشخصية إلا بناءً على تعليماتنا ويخضعون لواجب السرية.",
+  "privacy-p-153": " لقد وضعنا إجراءات للتعامل مع أي خرق مشتبه به للبيانات الشخصية وسنقوم بإخطارك وأي جهة تنظيمية معمول بها بشأن الانتهاك عندما يُطلب منا قانونًا القيام بذلك.",
+  "privacy-p-154": "إلى متى ستستخدم بياناتي الشخصية؟",
+  "privacy-p-155": "  بموجب القانون، يجب علينا الاحتفاظ بالمعلومات الأساسية عن عملائنا (بما في ذلك بيانات الاتصال والهوية والمعاملات) لمدة ست سنوات بعد توقفهم عن كونهم عملاء للأغراض الضريبية.",
+  "privacy-p-156": "   بخلاف ما يتعلق بالأغراض الضريبية المذكورة، سنحتفظ ببياناتك الشخصية فقط طالما كان ذلك ضروريًا لتحقيق الأغراض التي جمعناها من أجلها، بما في ذلك لأغراض تلبية أي متطلبات قانونية أو محاسبية أو متطلبات إعداد التقارير.",
+  "privacy-p-157": "لتحديد فترة الاحتفاظ المناسبة للبيانات الشخصية، فإننا نأخذ في الاعتبار مقدار البيانات الشخصية وطبيعتها وحساسيتها، والمخاطر المحتملة للضرر الناتج عن الاستخدام غير المصرح به أو الكشف عن بياناتك الشخصية، والأغراض التي نعالج بياناتك الشخصية من أجلها، و ما إذا كان بإمكاننا تحقيق هذه الأغراض من خلال وسائل أخرى، والمتطلبات القانونية المعمول بها.",
+  "privacy-p-158": "في بعض الحالات، يمكنك أن تطلب منا حذف بياناتك: راجع [  ",
+  "privacy-p-159": "في بعض الظروف، قد نقوم بإخفاء بياناتك الشخصية (بحيث لا يمكن ربطها بك بعد ذلك) لأغراض بحثية أو إحصائية، وفي هذه الحالة قد نستخدم هذه المعلومات إلى أجل غير مسمى دون إشعار آخر لك.",
+  "privacy-p-160": "حقوقك القانونية",
+  "privacy-p-161": " في ظل ظروف معينة، لديك حقوق بموجب قوانين حماية البيانات فيما يتعلق ببياناتك الشخصية. الرجاء الضغط على الروابط أدناه لمعرفة المزيد عن هذه الحقوق:",
+  "privacy-p-162": "لديك الحق في:",
+  "privacy-p-163": "طلب الدخول:",
+  "privacy-p-164": "إلى بياناتك الشخصية (المعروفة باسم طلب الوصول إلى موضوع البيانات). يمكّنك هذا من الحصول على نسخة من البيانات الشخصية التي نحتفظ بها عنك والتحقق من أننا نعالجها بشكل قانوني.",
+  "privacy-p-165": "تصحيح الطلب:",
+  "privacy-p-166": "من البيانات الشخصية التي نحتفظ بها عنك. يمكّنك هذا من تصحيح أي بيانات غير كاملة أو غير دقيقة نحتفظ بها عنك، على الرغم من أننا قد نحتاج إلى التحقق من دقة البيانات الجديدة التي تقدمها لنا.",
+  "privacy-p-167": "طلب المحو:",
+  "privacy-p-168": "من بياناتك الشخصية. يمكّنك هذا من أن تطلب منا حذف البيانات الشخصية أو إزالتها حيث لا يوجد سبب وجيه لمواصلة معالجتها. لديك أيضًا الحق في أن تطلب منا حذف بياناتك الشخصية أو إزالتها عندما تمارس حقك في الاعتراض على المعالجة بنجاح (انظر أدناه)، أو عندما نكون قد قمنا بمعالجة معلوماتك بشكل غير قانوني أو عندما يُطلب منا مسح بياناتك الشخصية من أجل الامتثال للقانون المحلي. ومع ذلك، لاحظ أننا قد لا نتمكن دائمًا من الامتثال لطلبك بالمحو لأسباب قانونية محددة سيتم إخطارك بها، إن أمكن، في وقت طلبك.",
+  "privacy-p-169": "كائن للمعالجة:",
+  "privacy-p-170": "بياناتك الشخصية عندما نعتمد على مصلحة مشروعة (أو مصلحة طرف ثالث) ويوجد شيء ما في وضعك يجعلك ترغب في الاعتراض على المعالجة على هذا الأساس لأنك تشعر أن ذلك يؤثر على حقوقك وحرياتك الأساسية. لديك أيضًا الحق في الاعتراض على معالجة بياناتك الشخصية لأغراض التسويق المباشر. في بعض الحالات، قد نثبت أن لدينا أسباب مشروعة مقنعة لمعالجة معلوماتك والتي تتجاوز حقوقك وحرياتك.",
+  "privacy-p-171": " طلب تقييد المعالجة:",
+  "privacy-p-172": "من بياناتك الشخصية. يمكّنك هذا من أن تطلب منا تعليق معالجة بياناتك الشخصية في السيناريوهات التالية: (أ) إذا كنت تريد منا التأكد من دقة البيانات؛ (ب) عندما يكون استخدامنا للبيانات غير قانوني ولكنك لا تريد منا مسحها؛ (ج) عندما تحتاج إلينا للاحتفاظ بالبيانات حتى لو لم نعد بحاجة إليها لأنك تحتاج إليها لإقامة الدعاوى القانونية أو ممارستها أو الدفاع عنها؛ أو (د) لقد اعترضت على استخدامنا لبياناتك ولكننا بحاجة إلى التحقق مما إذا كانت لدينا أسباب مشروعة هامة لاستخدامها.",
+  "privacy-p-173": "طلب النقل:",
+  "privacy-p-174": "بياناتك الشخصية لك أو لطرف ثالث. سنقدم لك، أو لطرف ثالث اخترته، بياناتك الشخصية بتنسيق منظم وشائع الاستخدام ويمكن قراءته آليًا. لاحظ أن هذا الحق ينطبق فقط على المعلومات الآلية التي قدمت موافقتك لنا في البداية على استخدامها أو حيث استخدمنا المعلومات لتنفيذ عقد معك.nsfer:",
+  "privacy-p-175": " سحب الموافقة في أي وقت:",
+  "privacy-p-176": "حيث نعتمد على الموافقة لمعالجة بياناتك الشخصية. ومع ذلك، لن يؤثر هذا على قانونية أي معالجة يتم إجراؤها قبل سحب موافقتك. إذا قمت بسحب موافقتك، فقد لا نتمكن من تقديم خدمات معينة لك. وسنخبرك إذا كان هذا هو الحال عند سحب موافقتك.",
+  "privacy-p-177": "  إذا كنت ترغب في ممارسة أي من الحقوق المذكورة أعلاه، من فضلك",
+  "privacy-p-178": "اتصل بنا.",
+  "privacy-p-179": "لا توجد رسوم مطلوبة عادة",
+  "privacy-p-180": " لن تضطر إلى دفع رسوم للوصول إلى بياناتك الشخصية (أو لممارسة أي من الحقوق الأخرى). ومع ذلك، قد نفرض رسومًا معقولة إذا كان طلبك لا أساس له من الصحة أو متكررًا أو مفرطًا. وبدلاً من ذلك، قد نرفض الامتثال لطلبك في هذه الظروف",
+  "privacy-p-181": "ما قد نحتاجه منك",
+  "privacy-p-182": "   قد نحتاج إلى طلب معلومات محددة منك لمساعدتنا في تأكيد هويتك وضمان حقك في الوصول إلى بياناتك الشخصية (أو ممارسة أي من حقوقك الأخرى). يعد هذا إجراءً أمنيًا لضمان عدم الكشف عن البيانات الشخصية لأي شخص ليس له الحق في الحصول عليها. قد نتصل بك أيضًا لنطلب منك المزيد من المعلومات فيما يتعلق بطلبك لتسريع استجابتنا.",
+  "privacy-p-183": "الحد الزمني للرد",
+  "privacy-p-184": "  نحاول الرد على جميع الطلبات المشروعة خلال شهر واحد. في بعض الأحيان، قد يستغرق الأمر أكثر من شهر إذا كان طلبك معقدًا بشكل خاص أو كنت قد قدمت عدة طلبات. وفي هذه الحالة سوف نقوم بإعلامك وإعلامك بكل جديد.",
+  "privacy-p-185": "  إذا كان لديك أي أسئلة أو مخاوف أخرى حول كيفية تعاملنا مع خصوصيتك، يرجى الاتصال بنا",
+  "privacy-p-186": "hello@CorrectSOC.com",
+
+  "terms-key": "شروط استخدام بوابة CorrectSOC",
+
+  "terms-p-1": "يرجى قراءة هذه الشروط والأحكام بعناية قبل تسجيل حساب مع CorrectSOC",
+  "terms-p-2": "تم آخر تحديث لشروط الاستخدام هذه: 20 يوليو 2023",
+  "terms-p-3": "من نحن وكيفية الاتصال بنا",
+  "terms-p-4": " منصة CorrectSOC، المستضافة على www.CorrectSOC.com هي خدمة تديرها شركة CorrectSOC Ltd (نحن، ولنا، وخاصتنا). نحن مسجلون في إنجلترا وويلز تحت رقم الشركة 10726476. مكتبنا التجاري الرئيسي هو 64 Great Eastern St, London, EC2A 3QR.",
+  "terms-p-5": "للاتصال بنا، يرجى البريد الإلكتروني",
+  "terms-p-6": "hello@CorrectSOC.com",
+  "terms-p-7": " اتصل بخط خدمة العملاء لدينا على الرقم +44 20 300 53729",
+  "terms-p-8": "تعريفات",
+  "terms-p-9": "الموقع، الموقع –",
+  "terms-p-10": "www.CorrectSOC.com",
+  "terms-p-11": "وportal.CorrectSOC.com وأي صفحات أو نطاقات فرعية مرتبطة بها.",
+  "terms-p-12": "منصة CorrectSOC، النظام الأساسي، البوابة، الخدمة، - يمكن الوصول إلى بوابة CorrectSOC عبر Portal.CorrectSOC.com، بما في ذلك أدوات المسح والتقارير والعناصر الأخرى للواجهة المقدمة لك. أي خدمة أخرى نقدمها لك من خلال المنصة أو عبر وسائل الاتصال الأخرى.",
+  "terms-p-13": " أنت - نفسك كفرد، وموظفيك، والمقاولين من الباطن والشركات التابعة لك.",
+  "terms-p-14": "نحن، نحن، ملكنا – CorrectSOC Limited",
+  "terms-p-15": "قبول هذه الشروط",
+  "terms-p-16": " من خلال تسجيل حساب لدينا، أو التسجيل لاستخدام المنصة، قم بتنزيل البرامج المعمول بها، ثم تؤكد أنت وموظفيك والمقاولين من الباطن والشركات التابعة لك أنك تفهم وتقبل شروط الاستخدام هذه وأنك توافق على الالتزام بها. تشكل شروط الاستخدام هذه عقدًا ملزمًا بينك وبيننا عندما تقبلها أنت.",
+  "terms-p-17": "إذا كنت لا توافق على هذه الشروط، فيجب عليك عدم استخدام منصتنا.",
+  "terms-p-18": "نوصي بطباعة نسخة من هذه الشروط للرجوع إليها مستقبلاً.",
+  "terms-p-19": "باستخدام منصتنا، فإنك تؤكد أنك عميل تجاري ولست مستهلكًا. نحن نحتفظ بالحق في طلب إثبات حالة العمل في أي وقت، ويجوز لنا رفض الخدمة لأي مستخدم لا يستطيع تقديم دليل مرضٍ على حالة نشاطه التجاري.",
+  "terms-p-20": " إذا لم تكن لديك شركة مشروعة، فإنك تستخدم المنصة على مسؤوليتك الخاصة، وقد يتم إلغاء الوصول إليها في أي وقت.",
+  "terms-p-21": "هناك شروط أخرى قد تنطبق عليك",
+  "terms-p-22": "تشير شروط الاستخدام هذه إلى الشروط الإضافية التالية، والتي تنطبق أيضًا على استخدامك لخدماتنا:",
+  "terms-p-23": " ملكنا",
+  "terms-p-24": "سياسة الخصوصية",
+  "terms-p-25": "الذي يحدد كيفية استخدامنا لمعلوماتك.",
+  "terms-p-26": "  ملكنا",
+  "terms-p-27": "سياسة ملفات الارتباط",
+  "terms-p-28": "الذي يحدد معلومات حول ملفات تعريف الارتباط الموجودة على موقعنا ومنصتنا.",
+  "terms-p-29": "ملكنا",
+  "terms-p-30": "شروط وأحكام الموقع",
+  "terms-p-31": "اتفاقية ترخيص المستخدم النهائي الخاصة بنا والتي تنطبق إذا قمت بتنزيل وكيلنا.",
+
+  "terms-p-32": "قد نقوم بإجراء تغييرات على هذه الشروط",
+
+  "terms-p-33": "يرجى العلم بأن شروط الاستخدام هذه قد يتم تغييرها وتعديلها واستكمالها وتحديثها بواسطة CorrectSOC Limited في أي وقت. تقع على عاتقك مسؤولية مراجعة شروط الاستخدام هذه بشكل دوري لمعرفة أي تحديثات أو تغييرات.",
+  "terms-p-34": "ستكون أي تحديثات للشروط أو استبدالها سارية المفعول بالنسبة لأي اشتراكات جديدة ومتجددة ومجانية. عند استخدام البوابة مجانًا، مثل النسخة التجريبية المجانية أو فئة الاشتراك المجاني، ستلتزم بأي شروط تم تغييرها أو تعديلها أو تكميلها أو تحديثها إذا اخترت الاستمرار في استخدام البوابة مجانًا بعد هذه التغييرات على الشروط كما تم نشرها .",
+  "terms-p-35": "سنقدم تحديثًا لجميع مستخدمينا عبر البريد الإلكتروني عندما يتم تحديث الشروط والأحكام الخاصة بنا، ويتم تفسير استمرار مستخدمي النظام الأساسي على أنه موافقة على الشروط المحدثة. يحق للمستخدمين رفض هذه التغييرات في غضون 30 يومًا من التحديث ليكونوا مؤهلين لاسترداد أموالهم لمدة 30 يومًا مقابل اشتراكهم وإنهاء حساباتهم.",
+
+  "terms-p-36": "قد نقوم بإجراء تغييرات على منصتنا",
+  "terms-p-37": "     يجوز لنا تحديث نظامنا الأساسي وتغييره من وقت لآخر ليعكس التغييرات التي تطرأ على منتجاتنا واحتياجات مستخدمينا وأولويات أعمالنا. سنحاول أن نقدم لك إشعارًا معقولًا بأي تغييرات كبيرة ولكن هذا ليس ممكنًا دائمًا.",
+  "terms-p-38": "إذا كنت عميلاً محترفًا أو مؤسسيًا وكانت هذه التغييرات تؤثر على استمتاعك بالمنصة أو استخدامها، فلديك 30 يومًا بعد تنفيذ التغيير لطلب إلغاء اشتراكك واسترداد الأموال لمدة 30 يومًا من الاستخدام. يمكنك طلب ذلك عن طريق البريد الإلكتروني",
+  "terms-p-39": "hello@CorrectSOC.com",
+  "terms-p-40": "يجوز لنا تعليق أو سحب منصتنا",
+  "terms-p-41": "  إن منصتنا متاحة بشكل عام مجانًا، مع توفر ميزات معينة عند الاشتراك المميز.",
+  "terms-p-42": " نحن لا نضمن أن منصتنا، أو أي محتوى عليها، سيكون متاحًا دائمًا أو دون انقطاع. يجوز لنا تعليق أو سحب أو تقييد توفر كل أو أي جزء من منصتنا لأسباب تجارية وتشغيلية. سنحاول أن نقدم لك إشعارًا معقولاً بأي تعليق أو انسحاب.",
+  "terms-p-43": " في حالة عدم توفر الخدمة التي نقدمها ودفعت مقابل الإصدار المميز من الخدمة، فسنقوم بإعادة أموالك مقابل أي وقت كانت فيه المنصة غير متاحة حتى تاريخ استعادة الخدمة. يمكنك طلب استرداد هذا المبلغ عن طريق البريد الإلكتروني",
+  "terms-p-44": "hello@CorrectSOC.com",
+  "terms-p-45": "نحن لسنا مسؤولين عن المواقع التي نرتبط بها",
+  "terms-p-46": " عندما تحتوي منصتنا على روابط لمواقع وبيانات وموارد أخرى مقدمة من أطراف ثالثة، يتم توفير هذه الروابط والبيانات لمعلوماتك فقط. لا ينبغي تفسير هذه الروابط والبيانات على أنها موافقة منا على تلك المواقع المرتبطة أو المعلومات التي قد تحصل عليها منها.",
+  "terms-p-47": "   وليس لدينا أي سيطرة على محتويات تلك المواقع أو الموارد، ولا نقدم أي ضمان أو كفالة بأن هذه المعلومات دقيقة أو متوفرة.",
+  "terms-p-48": "يجوز لنا إنهاء حسابك أو تعليقه.",
+  "terms-p-49": "نحن نحتفظ بالحق في تعليق الوصول إلى المنصة واستخدامها حسب ما نراه مناسبًا ردًا على الانتهاكات الفعلية أو المشتبه بها لهذه الشروط. يجوز لنا أيضًا تعليق الوصول أو إنهائه إذا اشتبهنا في أنك تستخدم النظام الأساسي للمشاركة في نشاط ضار أو غير قانوني. أنت توافق على أننا لن نكون مسؤولين تجاهك أو تجاه أي طرف ثالث عن أي تعليق للمنصة في مثل هذه الظروف.",
+  "terms-p-50": "المحتوى الذي ينشئه المستخدم غير معتمد من قبلنا",
+  "terms-p-51": "قد يتضمن موقعنا الإلكتروني ومنصتنا معلومات ومواد تم تحميلها من قبل مستخدمين آخرين للمنصة، بما في ذلك لوحات الإعلانات وغرف الدردشة. لم يتم التحقق من هذه المعلومات وهذه المواد أو الموافقة عليها من قبلنا. الآراء التي عبر عنها المستخدمون الآخرون على منصتنا لا تمثل وجهات نظرنا أو قيمنا، ولا نقدم أي ضمان أو ضمان للمعلومات المقدمة من قبل مستخدمينا.",
+  "terms-p-52": " إذا قام المستخدم بتحميل شيء ما على موقعنا وهو غير قانوني أو ضار، فيرجى الإبلاغ عن ذلك إلى",
+  "terms-p-53": "hello@CorrectSOC.com",
+  "terms-p-54": "بحيث يمكن إنزال هذا خلال 24 ساعة.",
+  "terms-p-55": "استثناءات المسؤولية",
+  "terms-p-56": " نحن لا نستبعد أو نحد بأي شكل من الأشكال من مسؤوليتنا تجاهك عندما يكون القيام بذلك غير قانوني. وهذا يشمل المسؤولية عن الوفاة أو الإصابة الشخصية الناجمة عن إهمالنا أو إهمال موظفينا أو وكلائنا أو المقاولين من الباطن وعن الاحتيال أو التحريف الاحتيالي.",
+  "terms-p-57": " نحن نستبعد جميع الشروط أو الضمانات أو الإقرارات الضمنية أو غيرها من الشروط الضمنية التي قد تنطبق على موقعنا أو منصتنا أو أي محتوى عليها.",
+  "terms-p-58": "لن نكون مسؤولين تجاهك عن أي خسارة أو ضرر، سواء في العقد أو الضرر (بما في ذلك الإهمال) أو خرق الواجب القانوني أو غير ذلك، حتى لو كان متوقعًا، والذي ينشأ بموجب أو فيما يتعلق بما يلي:",
+  "terms-p-59": "استخدام أو عدم القدرة على استخدام منصتنا؛ أو",
+  "terms-p-60": "استخدام أو الاعتماد على أي محتوى معروض على منصتنا.",
+  "terms-p-61": "وعلى وجه الخصوص، لن نكون مسؤولين عن:",
+  "terms-p-62": "خسارة الأرباح أو المبيعات أو الأعمال أو الإيرادات؛",
+  "terms-p-63": "انقطاع العمل؛",
+  "terms-p-64": "خسارة المدخرات المتوقعة؛",
+
+  "terms-p-65": "خسارة فرص العمل أو حسن النية أو السمعة؛ أو",
+
+  "terms-p-66": "أي خسارة أو ضرر غير مباشر أو تبعي.",
+  "terms-p-67": "المسؤولية فيما يتعلق بالمؤخرات الأمنية",
+  "terms-p-68": " يتم تخزين بياناتنا في CorrectSOC حصريًا في AWS Ireland، باستثناء المصادقة التي يتم الاحتفاظ بها في Google Firebase، وWindows Agent .net Core مع مكتبات محدودة تابعة لجهات خارجية. وعلى هذا النحو، نحن قادرون على الحفاظ على مستوى الأمان على مستوى المؤسسة. ومع ذلك، في حالة مواجهة أي مشكلات تتعلق بخدمات الطرف الثالث التي نستخدمها للوصول أو في حالة حدوث خرق، فإنك توافق على أنك لن تحملنا المسؤولية عن أي أضرار أو خسائر أو مطالبات تنشأ عن ذلك، وتقع على عاتقك مسؤولية التأكد من امتثالك لجميع القوانين واللوائح المعمول بها فيما يتعلق باستخدام خدماتنا، وأنت توافق على تعويض CorrectSOC وحمايته من أي مطالبات أو أضرار أو التزامات ناشئة. من استخدامك لخدماتنا.",
+  "terms-p-69": "قوة القاهرة",
+  "terms-p-70": " لن نكون مسؤولين عن أي فشل أو تأخير في الأداء إذا كان هذا الفشل أو التأخير ينشأ عن أي سبب أو أسباب خارجة عن سيطرتنا بما في ذلك على سبيل المثال لا الحصر، فشل المرافق أو فشل النقل، أو انقطاع التيار الكهربائي، أو الإضرابات أو الاضطرابات العمالية الأخرى، أو القضاء والقدر، أعمال الحرب أو الإرهاب أو الأوبئة أو الفيضانات أو التخريب أو الحرائق أو الكوارث الطبيعية أو غيرها.",
+  "terms-p-71": "المسؤولية فيما يتعلق بالبرمجيات",
+  "terms-p-72": "لا يمكننا ضمان أي نتائج أو تأثيرات أو أداء محدد كما هو مقترح أو محدد من قبل أي طرف قبل تنفيذ أي إجراءات. ومن خلال استخدام البوابة والخدمات المرتبطة بها، فإنك تقر وتوافق على أننا لن نتحمل المسؤولية عن أي تأخير أو أخطاء أو مشكلات أو آثار سلبية، بما في ذلك عدم الاستقرار، التي قد تنشأ عن إجراءات أو سهو يتعلق بأنظمة الكمبيوتر الخاصة بك.",
+  "terms-p-73": "كيف يمكننا استخدام معلوماتك الشخصية",
+  "terms-p-74": "سوف نستخدم معلوماتك الشخصية فقط على النحو المبين في موقعنا",
+  "terms-p-75": "سياسة الخصوصية.",
+  "terms-p-76": "يرجى ملاحظة أننا نستخدم البيانات الفنية لإنشاء ميزات التقارير ولوحات المعلومات في CorrectSOC Portal. فيما يلي ملخص عالي المستوى:",
+  "terms-p-77": " البيانات الفنية: تتضمن عنوان بروتوكول الإنترنت (IP)، وبيانات تسجيل الدخول الخاصة بك، ونوع المتصفح وإصداره، وإعدادات المنطقة الزمنية والموقع، وأنواع المكونات الإضافية للمتصفح وإصداراتها، ونظام التشغيل والنظام الأساسي، وغيرها من التقنيات الموجودة على الأجهزة الذي تستخدمه للوصول إلى هذا الموقع.",
+  "terms-p-78": " يرجى ملاحظة أننا نستخدم البيانات الفنية لإنشاء ميزات التقارير ولوحات المعلومات في CorrectSOC Portal. فيما يلي ملخص عالي المستوى:،اعتمادًا على الماسحات الضوئية والخدمات التي تستخدمها ضمن منصة CorrectSOC، فإننا نأخذ أيضًا بيانات خاصة بالجهاز وبيانات الحساب السحابي لتمكينك من استخدام النظام الأساسي لتحسين وضع الأمن السيبراني الخاص بك. ",
+  "terms-p-79": "نحن لا نتحمل أي مسؤولية أو التزام تجاه أي خرق للبيانات داخل CorrectSOC والذي ينتهي به الأمر في بياناتك الشخصية أو بيانات عملك (التي ربما يتم سحب بعضها إلى CorrectSOC من حسابات سحابية تابعة لجهات خارجية تختار الاتصال بها داخل منصة CorrectSOC) لتصبح متاحة للعامة اِختِصاص.",
+  "terms-p-80": "حالة التقارير والشهادات",
+  "terms-p-81": " يرجى ملاحظة أن بعض المستندات المقدمة على موقعنا والتي يمكن تنزيلها عبر البوابة قد يتم تصنيفها على أنها تقارير أو شهادات، ومع ذلك، فإن هذه التصنيفات هي لأغراض وصفية فقط ولا ينبغي تفسيرها على أنها إقرار أو ضمان أو ضمان من أي نوع، سواء بشكل صريح أو صريح. أو ضمنا.",
+  "terms-p-82": "في حين أننا نبذل قصارى جهدنا لضمان دقة واكتمال هذه الوثائق، إلا أنها يتم توفيرها لأغراض إعلامية فقط وليس المقصود منها تقديم أي ضمانات أو ضمانات فيما يتعلق بالموضوع الوارد فيها.",
+  "terms-p-83": "نحن بموجب هذا نخلي مسؤوليتنا من جميع الضمانات، سواء كانت صريحة أو ضمنية، بما في ذلك على سبيل المثال لا الحصر أي ضمانات خاصة بالتسويق أو الملاءمة لغرض معين، ولن نكون مسؤولين عن أي أضرار تنشأ عن استخدام هذه المستندات أو الاعتماد عليها، بما في ذلك على سبيل المثال لا الحصر. يقتصر على أي أضرار مباشرة أو غير مباشرة أو عرضية أو خاصة أو تبعية.",
+  "terms-p-84": "تفسير التنبيهات",
+  "terms-p-85": "يرجى ملاحظة أن النظام الأساسي مصمم لتوفير تنبيهات للمستخدمين بناءً على معايير ومعلمات معينة محددة مسبقًا. وبينما نبذل قصارى جهدنا لضمان دقة هذه التنبيهات وتوقيتها، لا يمكننا ضمان اكتمالها أو موثوقيتها.",
+  "terms-p-86": " نحن بموجب هذا نخلي مسؤوليتنا الكاملة عن أي أضرار أو خسائر أو نفقات قد تنشأ عن استخدام هذه التنبيهات أو الاعتماد عليها، بما في ذلك على سبيل المثال لا الحصر، أي أضرار مباشرة أو غير مباشرة أو عرضية أو خاصة أو تبعية. باستخدام المنصة، فإنك تقر بأن التنبيهات يتم تقديمها فقط لأغراض إعلامية وأنك المسؤول الوحيد عن أي إجراءات يتم اتخاذها بناءً على هذه التنبيهات. أنت تقر أيضًا بأننا لسنا مسؤولين عن أي أخطاء أو سهو أو تأخير في إرسال هذه التنبيهات.",
+  "terms-p-87": "تقديم الدعم",
+  "terms-p-88": "لضمان خدمة من الدرجة الأولى، نقدم دعم العملاء عبر البريد الإلكتروني على",
+  "terms-p-89": "hello@CorrectSOC.com",
+  "terms-p-90": "أو عبر زر الحصول على الدعم على منصتنا. من خلال التواصل للحصول على المساعدة من خلال أي من القناتين، فإنك توافق على السماح لنا بالوصول إلى بياناتك من أجل تقديم الدعم لك. يمكن تقديم الدعم بواسطة موظف أو مقاول أو مقدم خدمة خارجي مشارك. يجوز لنا مشاركة المعلومات ذات الصلة معهم لتسهيل قضيتك، وهو ما توافق عليه.",
+  "terms-p-91": " يرجى ملاحظة أن خدمة الدعم لدينا تهدف إلى المساعدة في استخدام النظام الأساسي ومعالجة الأخطاء والمشكلات وليس المقصود منها تقديم استشارات الأمن السيبراني.",
+  "terms-p-92": "تجربة مجانية",
+  "terms-p-93": "نحن نقدم خيارات تجريبية محدودة الوقت لاشتراكاتنا الاحترافية والمؤسسية، والتي ستتيح لك الوصول إلى الميزات التي تتطلب الدفع لفترة محدودة من الوقت، يتم تحديدها عند بدء النسخة التجريبية المجانية. ليس لدينا أي التزام بتقديم أي فترات إضافية من الاستخدام المجاني، وأي تمديد للتجارب يتم تقديمه وفقًا لتقديرنا الخاص. ليس للتجارب المجانية أي قيمة مالية، وليست مؤهلة لاسترداد أي أموال أو تعويض لأي سبب من الأسباب.",
+  "terms-p-94": "التزاماتك عند استخدام منصتنا",
+  "terms-p-95": "يجب عليك الحفاظ على تفاصيل حسابك آمنة",
+  "terms-p-96": "لاستخدام منصتنا أو الوصول إليها، يجب أن يكون لديك حساب CorrectSOC صالح. سيُطلب منك على موقعنا الإلكتروني أو سيتم الاتصال بك عبر البريد الإلكتروني لإنشاء حساب أو تسجيل الدخول إلى المنصة.",
+  "terms-p-97": "إذا اخترت، أو تم تزويدك، برمز تعريف المستخدم أو كلمة المرور أو أي معلومة أخرى كجزء من إجراءاتنا الأمنية، فيجب عليك التعامل مع هذه المعلومات على أنها سرية. يجب عليك عدم الكشف عنها لأي طرف ثالث أو مشاركة حسابك مع أي موظف آخر داخل مؤسستك.",
+  "terms-p-98": "لدينا الحق في تعطيل أي رمز تعريف مستخدم أو كلمة مرور، سواء اخترتها أنت أو خصصناها لنا، في أي وقت، إذا فشلت، في رأينا المعقول، في الالتزام بأي من أحكام شروط الاستخدام هذه.",
+  "terms-p-99": " إذا كنت تعرف أو تشك في أن أي شخص آخر غيرك يعرف رمز تعريف المستخدم أو كلمة المرور الخاصة بك، فيجب عليك إخطارنا على الفور على",
+  "terms-p-100": " hello@CorrectSOC.com",
+  "terms-p-101": "كيف يمكنك استخدام المواد الموجودة على منصتنا",
+  "terms-p-102": "يمكنك طباعة نسخة واحدة، ويمكنك تنزيل مقتطفات من أي صفحة (صفحات) من موقعنا ومنصتنا لاستخدامك الشخصي، ويمكنك لفت انتباه الآخرين داخل مؤسستك إلى المحتوى المنشور على منصتنا",
+  "terms-p-103": " لا يجوز لك تعديل النسخ الورقية أو الرقمية لأي مواد قمت بطباعتها أو تنزيلها بأي شكل من الأشكال، ويجب ألا تستخدم أي رسوم توضيحية أو صور فوتوغرافية أو مقاطع فيديو أو تسلسلات صوتية أو أي رسومات بشكل منفصل عن أي نص مصاحب.",
+  "terms-p-104": "يجب دائمًا الاعتراف بحالتنا (ووضع أي مساهمين محددين) كمؤلفي المحتوى على منصتنا.",
+  "terms-p-105": "لا يجوز لك استخدام أي جزء من المحتوى الموجود على منصتنا لأغراض تجارية دون الحصول على ترخيص للقيام بذلك منا أو من المرخصين لدينا.",
+
+  "terms-p-106": "م آخر تحديث لشروط الاستخدام هذه: 20 يوليتو 2023",
+  "terms-p-107": " إذا قمت بطباعة أو نسخ أو تنزيل أي جزء من منصتنا بشكل ينتهك شروط الاستخدام هذه، فسيتوقف حقك في استخدام منصتنا على الفور ويجب عليك، حسب اختيارنا، إعادة أو تدمير أي نسخ من المواد التي قمت بإنشائها.",
+  "terms-p-108": "استخدام شعار الشريك السيبراني المتقدم",
+  "terms-p-109": " إذا تم منحك إذنًا صريحًا من جانبنا عبر البريد الإلكتروني أو خطاب لاستخدام شعار الشريك ووضع علامة تجارية عليه، فيُسمح لك بالقيام بذلك وفقًا للشروط التالية.",
+  "terms-p-110": "يجب أن يكون أي استخدام لشعار Cyber ​​Advanced Partner بطريقة تحافظ على السمعة الإيجابية لعلامتنا التجارية وتعززها ويجب ألا تسعى إلى الإضرار بها أو الانتقاص منها بأي شكل من الأشكال.",
+  "terms-p-111": "أنت توافق على الالتزام بجميع القوانين واللوائح المعمول بها فيما يتعلق باستخدام شعار شريك CorrectSOC والامتناع عن استخدام الشعار بأي طريقة قد تضلل المستهلكين أو تخدعهم.",
+  "terms-p-112": "نحن نحتفظ بالحق في إلغاء إذنك باستخدام شعار CorrectSOC Partner في أي وقت إذا قررنا، وفقًا لتقديرنا الخاص، أن استخدامك للشعار لا يتوافق مع هذه الشروط والأحكام أو يضر بعلامتنا التجارية. لا نسمح لأي من عملائك بمقاضاتنا بناءً على المعلومات التي نقدمها، أو انتمائك إلى CorrectSOC، أو أي مشكلات قانونية تنشأ بينك وبين عملائك فيما يتعلق بأي مشكلة تتعلق بالأمن السيبراني. تقع على عاتقك مسؤولية التأكد من امتثالك لجميع القوانين واللوائح المعمول بها فيما يتعلق بتوفير خدمات الأمن السيبراني، وأنت توافق على تعويض CorrectSOC وحمايته من أي مطالبات أو أضرار أو التزامات تنشأ عن تقديمك لهذه الخدمات.",
+  "terms-p-113": "لا تعتمد على المعلومات الموجودة على منصتنا",
+  "terms-p-114": " يتم توفير المحتوى الموجود على منصتنا للحصول على معلومات عامة فقط. وليس المقصود منه أن يكون بمثابة نصيحة يجب أن تعتمد عليها. يجب عليك الحصول على مشورة مهنية أو متخصصة قبل اتخاذ أي إجراء أو الامتناع عنه على أساس المحتوى الموجود على منصتنا.",
+  "terms-p-115": "نحن ندرك أنه يمكن استخدام منصتنا من قبل متخصصين في مختلف الصناعات الذين قد يقدمون الخدمات لعملائهم. إذا اخترت استخدام المعلومات التي تم الحصول عليها من منصتنا لتقديم خدمة لعملائك، يرجى ملاحظة أننا لا يمكن أن نتحمل المسؤولية عن أي نتيجة لهذه الخدمات. تقع على عاتقك مسؤولية التأكد من حصولك على المشورة المهنية أو المتخصصة اللازمة قبل اتخاذ أي إجراء بناءً على المعلومات الموجودة على منصتنا.",
+  "terms-p-116": "على الرغم من أننا نبذل جهودًا معقولة لتحديث المعلومات الموجودة على منصتنا، إلا أننا لا نقدم أي تعهدات أو ضمانات، سواء كانت صريحة أو ضمنية، بأن المحتوى الموجود على موقعنا دقيق أو كامل أو محدث. ولذلك، لا يمكننا أن نتحمل المسؤولية عن أي أضرار أو خسائر مباشرة أو غير مباشرة ناتجة عن استخدام منصتنا أو محتواها. باستخدام منصتنا، فإنك تقر وتوافق على أن أي قرارات أو إجراءات يتم اتخاذها بناءً على المعلومات الموجودة على منصتنا هي على مسؤوليتك الخاصة وأننا لن نتحمل المسؤولية عن أي عواقب قد تنشأ.",
+  "terms-p-117": "تجدر الإشارة إلى أن بعض بيانات الجهات الخارجية، بما في ذلك على سبيل المثال لا الحصر، البيانات المستمدة من Shodan وMicrosoft، يتم استخدامها عبر نظامنا الأساسي. نحن لا نقبل أي مسؤولية أو التزام تجاه أي مشكلات تنشأ عن جودة أو دقة بيانات الطرف الثالث هذه. إن أي اعتماد على بيانات الطرف الثالث أو استخدامها يتم على مسؤوليتك الخاصة، ولا نقدم أي تعهدات أو ضمانات فيما يتعلق باكتمال أو دقة أو توقيت أو موثوقية أي من هذه البيانات.",
+  "terms-p-118": "الاستخدام المقبول",
+  "terms-p-119": "عندما تقوم بتحميل أو نشر محتوى على منصتنا، فإنك توافق على أنك لن تقوم بما يلي:",
+  "terms-p-120": "تحميل أي صورة أو نص أو بيانات غير قانونية أو ضارة بطبيعتها. ويشمل ذلك، على سبيل المثال لا الحصر، المواد الإباحية وخطاب الكراهية والمحتوى الذي يشجع على العنف أو التمييز. قد يتعرض أي مستخدم ينتهك هذه القاعدة إلى الإنهاء الفوري للحساب واتخاذ إجراءات قانونية إذا لزم الأمر. نحن نحتفظ بالحق في إزالة أي محتوى من هذا القبيل دون إشعار أو تفسير.",
+  "terms-p-121": "تحريف شركتنا بأي شكل من الأشكال عند استخدام تقاريرنا أو خدماتنا. وهذا يعني أنه لا يجوز لك استخدام منصتنا للترويج لمعلومات كاذبة أو مضللة حول شركتنا أو منتجاتنا وخدماتنا. بالإضافة إلى ذلك، لا يجوز لك استخدام تقاريرنا أو خدماتنا لتقديم ادعاءات أو وعود كاذبة حول نتيجة أو نتائج استخدام منصتنا. أي مستخدم يتبين أنه متورط في مثل هذا التحريف سيخضع للإنهاء الفوري للحساب واتخاذ الإجراءات القانونية إذا لزم الأمر. نحن نأخذ سمعة شركتنا على محمل الجد، ونتوقع من مستخدمينا أن يفعلوا الشيء نفسه.",
+  "terms-p-122": "الملكية الفكرية والحقوق",
+  "terms-p-123": "عندما تقوم بتحميل أو نشر محتوى على منصتنا، فإنك تمنحنا الحقوق التالية لاستخدام هذا المحتوى:",
+  "terms-p-124": "ترخيص عالمي وغير حصري وخالي من حقوق الملكية وقابل للتحويل لاستخدام وإعادة إنتاج وتوزيع وإعداد أعمال مشتقة وعرض وتنفيذ ذلك المحتوى الذي أنشأه المستخدم فيما يتعلق بالخدمة التي يقدمها موقع الويب و عبر الوسائط المختلفة بما في ذلك الترويج للموقع أو الخدمة، وتنتهي صلاحيتها عندما يحذف المستخدم المحتوى من النظام الأساسي.",
+  "terms-p-125": "ترخيص عالمي وغير حصري وخالي من حقوق الملكية وقابل للتحويل للمستخدمين أو الشركاء أو المعلنين الآخرين لاستخدام المحتوى وفقًا لوظيفة الموقع، وتنتهي صلاحيته عندما يحذف المستخدم المحتوى من النظام الأساسي.",
+  "terms-p-126": "العلامات التجارية والملكية الفكرية",
+  "terms-p-127": "نحن المالك أو المرخص له لجميع حقوق الملكية الفكرية في منصتنا وفي المواد المنشورة عليها. هذه الأعمال محمية بموجب قوانين ومعاهدات حقوق النشر حول العالم. محجوزة عن هذه الحقوق.",
+  "terms-p-128": "CorrectSOC وRobo هما علامتان تجاريتان مسجلتان في المملكة المتحدة (رقم التسجيل UK00003347019) والولايات المتحدة الأمريكية (رقم التسجيل 6,010,347). ويمنع منعا باتا استخدام هذه العلامات التجارية دون الحصول على موافقة كتابية مسبقة منا. قد يؤدي أي استخدام غير مصرح به لهذه العلامات التجارية إلى اتخاذ إجراء قانوني. نحن نأخذ حماية حقوق الملكية الفكرية الخاصة بنا على محمل الجد وسنتبع جميع سبل الانتصاف القانونية المتاحة لنا لحماية علاماتنا التجارية.",
+  "terms-p-129": "نحن لسنا مسؤولين عن الفيروسات ويجب عليك عدم التعريف بها",
+  "terms-p-130": "  نحن لا نضمن أن تكون منصتنا وخدماتنا آمنة أو خالية من الأخطاء أو الفيروسات أو التهديدات الأمنية، على الرغم من أننا نتبع بروتوكول أمان صارم لمنع حدوث ذلك.",
+  "terms-p-131": "أنت مسؤول عن تكوين تكنولوجيا المعلومات وبرامج الكمبيوتر والنظام الأساسي للوصول إلى خدماتنا. يجب عليك استخدام برنامج الحماية من الفيروسات الخاص بك.",
+  "terms-p-132": "يجب عليك عدم إساءة استخدام خدماتنا عن طريق إدخال الفيروسات أو أحصنة طروادة أو الفيروسات المتنقلة أو القنابل المنطقية أو غيرها من المواد الضارة أو الضارة من الناحية التكنولوجية عن عمد. يجب ألا تحاول الوصول غير المصرح به إلى منصتنا، أو الخادم الذي يتم تخزين منصتنا وبياناتنا عليه أو أي خادم أو كمبيوتر أو قاعدة بيانات متصلة بخدماتنا. يجب ألا تهاجم موقعنا من خلال هجوم رفض الخدمة أو هجوم رفض الخدمة الموزع. من خلال انتهاك هذا الشرط، فإنك ترتكب جريمة جنائية بموجب قانون إساءة استخدام الكمبيوتر لعام 1990. وسنقوم بالإبلاغ عن أي خرق من هذا القبيل إلى سلطات إنفاذ القانون ذات الصلة وسنتعاون مع تلك السلطات من خلال الكشف عن هويتك لهم. في حالة حدوث مثل هذا الانتهاك، سيتوقف حقك في استخدام منصتنا على الفور.",
+  "terms-p-133": "شروط الدفع",
+  "terms-p-134": "ستتم معالجة جميع المدفوعات التي تتم على منصتنا عبر Stripe، وهي بوابة دفع آمنة وموثوقة. باستخدام منصتنا، فإنك توافق على شروط وأحكام Stripe، والتي يمكن العثور عليها على موقعهم على الإنترنت. نحن لا نقوم بتخزين أو الوصول إلى أي تفاصيل دفع أو معلومات مقدمة من مستخدمينا أثناء عملية الدفع.",
+  "terms-p-135": "ليس لدينا سيطرة على الإجراءات الأمنية التي تنفذها Stripe ولا يمكن أن نتحمل المسؤولية عن أي انتهاكات أو مشكلات أو خسائر أمنية تنشأ عن استخدام Stripe لمعالجة الدفع. من خلال إجراء الدفعات من خلال Stripe، فإنك تقر وتقبل أن أي مخاطر مرتبطة بأمان معلومات الدفع الخاصة بك هي مسؤوليتك وحدك وأننا لسنا مسؤولين عن أي من هذه الحوادث.",
+  "terms-p-136": "الضرائب",
+  "terms-p-137": "يرجى العلم أنه تقع على عاتقك وحدك مسؤولية التأكد من استيفاءك لأي وجميع الالتزامات الضريبية المرتبطة بالمشتريات التي تتم على منصتنا. باعتبارنا منتجًا للأعمال التجارية (B2B) وكيانًا مسجلاً في ضريبة القيمة المضافة في المملكة المتحدة، فإننا ملزمون بفرض ضريبة القيمة المضافة (VAT) على أي عملاء لديهم شركات مقرها المملكة المتحدة. يتعين على أي مستخدمين تجاريين متواجدين خارج المملكة المتحدة التأكد من أنهم قد استوفوا على النحو الواجب أي التزامات ضريبية مطلوبة بموجب القوانين واللوائح المحلية الخاصة بهم. نحن لا نتحمل أي مسؤولية عن أي إخفاق من جانبك في الوفاء بأي من هذه الالتزامات الضريبية، ولا عن أي عقوبات أو غرامات أو عواقب أخرى ناتجة عن ذلك.",
+  "terms-p-138": "المبالغ المستردة",
+  "terms-p-139": "نحن نسعى جاهدين لتوفير منتجات وخدمات عالية الجودة لمستخدمينا، ولكننا ندرك أنه قد تكون هناك حالات لا تكون فيها راضيًا تمامًا عن عملية الشراء. ولذلك، فإننا نقدم سياسة استرداد الأموال لمنتجاتنا: إذا لم تكن راضيًا عن منتج تم شراؤه على منصتنا، فيمكنك طلب استرداد الأموال خلال 90 يومًا من تاريخ الشراء. لطلب استرداد الأموال، يرجى الاتصال",
+  "terms-p-140": "hello@CorrectSOC.com",
+  "terms-p-141": "يرجى ملاحظة أنه بعد 90 يومًا من تاريخ الشراء، لا يمكننا إصدار المبالغ المستردة لأي سبب من الأسباب. بالإضافة إلى ذلك، نحتفظ بالحق في رفض استرداد الأموال إذا قررنا، وفقًا لتقديرنا الخاص، أن الطلب لا يلبي معايير استرداد الأموال لدينا.",
+  "terms-p-142": "تغيرات الأسعار",
+  "terms-p-143": " نحن نحتفظ بالحق في زيادة أسعار أي من خدماتنا في أي وقت. على الرغم من أننا نعتزم عدم زيادة الأسعار للعملاء الحاليين، إلا أن هذا ليس ممكنًا دائمًا بسبب عوامل خارجية.",
+  "terms-p-144": "باعتبارك عميلاً حاليًا، سيكون لديك فترة سماح مدتها 30 يومًا على السعر السابق. إذا كنت لا توافق على زيادة الأسعار، فيمكنك إنهاء اتفاقيتك معنا خلال 30 يومًا من تلقي إشعار زيادة الأسعار. ويعتبر عدم إنهاء الاتفاقية خلال هذا الإطار الزمني بمثابة قبول للسعر الجديد.",
+  "terms-p-145": "توفر المنتج",
+  "terms-p-146": "نحن نحتفظ بالحق في إيقاف أي منتج أو خدمة قمت بدفع ثمنها في أي وقت ولأي سبب. وفي مثل هذه الحالة، سنعيد لك أي مبالغ مدفوعة مقابل المنتج أو الخدمة المتوقفة خلال المدة المتبقية من اشتراكك. لن نكون مسؤولين عن أي أضرار أو خسائر أو مطالبات تنشأ عن إيقاف المنتج أو الخدمة.",
+  "terms-p-147": "ما هي قوانين الدولة التي تنطبق على أي نزاعات؟",
+  "terms-p-148": "نتفق أنت ونحن على أن محاكم إنجلترا وويلز ستكون لها السلطة القضائية الحصرية باستثناء أنه إذا كنت مقيمًا في أيرلندا الشمالية، فيمكنك أيضًا رفع دعوى في أيرلندا الشمالية، وإذا كنت مقيمًا في اسكتلندا، فيمكنك أيضًا رفع دعوى في اسكتلندا .",
+  "terms-p-149": " تخضع شروط الاستخدام هذه وموضوعها وصياغتها (وأي نزاعات أو مطالبات غير تعاقدية) للقانون الإنجليزي. يوافق كلانا على الاختصاص القضائي الحصري لمحاكم إنجلترا وويلز.",
+
+  "section-CyberCoverage-1": "التغطية السيبرانية",
+  "section-CyberCoverage-2": "تسوية AD & 365 – إظهار التغطية السيبرانية للجهاز",
+  "section-CyberCoverage-3": "وكيل الدليل النشط داخل الشركة",
+  "section-CyberCoverage-4": "365/ أزور AD المصالحة",
+  "section-CyberCoverage-5": "365 / تقرير امتثال Azure AD ReconciliaUser MFA",
+  "section-CyberCoverage-6": "مطاردة الأجهزة الوحشية",
+  "section-CyberCoverage-7": "لاجتياز اختبار اختراق داخلي، يجب أن تكون قادرًا على إثبات التحديث مع المتجر المستخدم الأساسي، حيث تتيح التغطية والمصالحة السيبرانية من CorrectSOC للمؤسسة إثبات أنها تتبع المقاييس السيبرانية عبر جميع أجهزتها. تتيح لك هذه الإمكانية المحبوبة جدًا أيضًا تعقب الآلات الوحشية عبر ممتلكاتك.",
+
+  "section-en-1": "تغطية التشفير",
+  "section-en-2": "إدارة Bitlocker – لا تنشغل بالكمبيوتر المحمول الموجود في القطار.",
+  "section-en-3": "الامتثال لـ Bitlocker",
+  "section-en-4": "أجهزة الكمبيوتر المكتبية والخوادم",
+  "section-en-5": "تشفير الجهاز القابل للإزالة",
+  "section-en-6": "تقارير مشاركة Windows",
+  "section-en-7": "إحدى الحوادث الإلكترونية الأكثر شيوعًا التي ستتعامل معها هي فقدان جهاز يحتوي على بيانات الشركة، حيث يوفر التشفير السمعة والضغط عند التعامل مع الأجهزة المفقودة.",
+  "section-en-8": "إذا لم تتمكن من إثبات أن الجهاز كان مشفرًا وإذا كان يحتوي على أي بيانات للعميل (بما في ذلك رسائل البريد الإلكتروني في قواعد بيانات OST غير المتصلة بالإنترنت)، فيجب عليك من الناحية الفنية الإبلاغ عن هذا الأمر الذي قد يتسبب أحيانًا في حدوث مشكلات تتعلق بالسمعة مع العملاء.",
+
+  "blog-top-1": "كوركت سوك",
+  "blog-top-2": "مدونة كوركت سوك",
+  "blog-top-3": "نحن ملتزمون باستمرار بزيادة قاعدة المعرفة الموجودة في هذه المدونات، يرجى الاتصال بنا إذا كان هناك أي شيء ترغب في كتابته على وجه التحديد.",
+  "blog-read": "اقرأ أكثر",
+
+  "blog-linky-1": "هل تم اختراقي حقًا؟ 10 خطوات للتعامل مع الخروقات الأمنية",
+  "blog-linky-2": "حصريًا لـ SafetyDetectives: مقابلة مع تيري لويس من CorrectSOC",
+  "blog-linky-3": "CorrectSOC  Release 153: أبرز الأحداث في مقابلة الإصدار هذه مع تيري لويس من ",
+  "blog-linky-4": "ما هو شودان محرك بحث الهاكرز؟",
+  "blog-linky-5": "الأمن السيبراني ما الذي تحصل عليه مع أساسيات الإنترنت؟",
+  "blog-linky-6": "CorrectSOC ينضم إلى فريق ",
+  "blog-span-1": "الأمن الإلكتروني",
+
+  "sign-in": "تسجيل الدخول",
+  "cancel": "الغاء",
+  "tro-link": "حدثت مشكلة أثناء تسجيل الدخول?",
+  "agree": "أنا أوافق على",
+  "recover-pass": "إستعادة كلمة المرور",
+  "recover-p-1": "أدخل عنوان بريدك الإلكتروني المسجل ثم اضغط على الإرسال.",
+  "recover-p-2": " سنرسل لك تعليمات توضح كيفية إعادة تعيين كلمة المرور الخاصة بك إلى عنوان بريدك الإلكتروني.",
+  "Produtcs": "منتجات",
+  "enter-email": "البريد الاكتروني",
+  "enter-password": "كلمة السر",
+  "user-name": "اسم المستخدم"
 }

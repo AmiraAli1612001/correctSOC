@@ -15,13 +15,17 @@ const Sections = () => {
         sx={{
           display: "flex",
           justifyContent: "center",
-          padding: {xs :"20px 10px",lg :"100px 0px"},
+          padding: { xs: "20px 10px", lg: "100px 0px" },
           alignItems: "center",
         }}
       >
         <Grid item xs={10} md={5}>
           <CardMedia
-            sx={{ width: {xs:"340px" , md:"400px"}, margin: "auto" }}
+            sx={{
+              maxWidth: { xs: "300px", md: "380px" },
+              height: { xs: "310px", md: "390px" },
+              margin: "30px auto",
+            }}
             component="img"
             image={imgOne}
           />
@@ -52,7 +56,7 @@ const Sections = () => {
         sx={{
           display: "flex",
           justifyContent: "center",
-          padding: {xs :"20px 10px",lg :"100px 0px"},
+          padding: { xs: "20px 10px", lg: "100px 0px" },
           alignItems: "center",
         }}
       >
@@ -73,12 +77,23 @@ const Sections = () => {
           </i>
           <Link to="/login">{t("create-small")}</Link>
         </Grid>
-        <Grid item xs={10} md={5} sx={{display :"flex" , justifyContent :"center"  ,alignItems :"center"}}>
+        <Grid
+          item
+          xs={10}
+          md={5}
+          sx={{
+            display: "flex",
+            justifyContent: "center",
+            alignItems: "center",
+          }}
+        >
           <CardMedia
-            sx={{width: {xs:"340px" , md:"400px"}, margin: "auto" ,  
-            
-          display :{xs :"none" , md :"block"}
-            
+            sx={{
+              maxWidth: { xs: "300px", md: "380px" },
+              height: { xs: "310px", md: "390px" },
+              margin: "30px auto",
+
+              display: { xs: "none", md: "block" },
             }}
             component="img"
             image={imgTwo}
@@ -93,13 +108,17 @@ const Sections = () => {
         sx={{
           display: "flex",
           justifyContent: "center",
-          padding: {xs :"20px 10px",lg :"100px 0px"},
+          padding: { xs: "20px 10px", lg: "100px 0px" },
           alignItems: "center",
         }}
       >
         <Grid item xs={10} md={5}>
           <CardMedia
-            sx={{ width: {xs:"340px" , md:"400px"}, margin: "auto"  }}
+            sx={{
+              maxWidth: { xs: "300px", md: "380px" },
+              height: { xs: "310px", md: "390px" },
+              margin: "30px auto",
+            }}
             component="img"
             image={imgOne}
           />
@@ -113,10 +132,8 @@ const Sections = () => {
             <li>{t("section-CyberCoverage-5")}</li>
             <li>{t("section-CyberCoverage-6")}</li>
           </ul>
-          <p>
-          {t("section-CyberCoverage-7")}
-          </p>
-        
+          <p>{t("section-CyberCoverage-7")}</p>
+
           <i className="small">
             {t("section-Defender-i")}
             <ins>{t("section-Defender-ins")}</ins>
@@ -132,27 +149,21 @@ const Sections = () => {
         sx={{
           display: "flex",
           justifyContent: "center",
-          padding: {xs :"20px 10px",lg :"100px 0px"},
+          padding: { xs: "20px 10px", lg: "100px 0px" },
           alignItems: "center",
         }}
       >
         <Grid item xs={10} md={5} sx={{ color: "white" }}>
           <h1>{t("section-en-1")}</h1>
-          <h2>
-          {t("section-en-2")}
-          </h2>
+          <h2>{t("section-en-2")}</h2>
           <ul>
             <li>{t("section-en-1")}</li>
             <li>{t("section-en-2")}</li>
             <li>{t("section-en-3")}</li>
             <li>{t("section-en-4")}</li>
           </ul>
-          <p>
-          {t("section-en-7")}
-          </p>
-          <p>
-          {t("section-en-8")}
-          </p>
+          <p>{t("section-en-7")}</p>
+          <p>{t("section-en-8")}</p>
           <i className="small">
             {t("section-update-i")}
 
@@ -162,10 +173,10 @@ const Sections = () => {
         </Grid>
         <Grid item xs={10} md={5}>
           <CardMedia
-               sx={{ width: {xs:"340px" , md:"400px"}, margin: "auto" ,  
-            
-          display :{xs :"none" , md :"block"}
-            
+            sx={{
+              maxWidth: "380px",
+              height: { xs: "310px", md: "390px" },
+              margin: "30px auto",
             }}
             component="img"
             image={imgTwo}
@@ -180,13 +191,18 @@ const Sections = () => {
         sx={{
           display: "flex",
           justifyContent: "center",
-          padding: {xs :"20px 10px",lg :"100px 0px"},
+          padding: { xs: "20px 10px", lg: "100px 0px" },
           alignItems: "center",
         }}
       >
         <Grid item xs={10} md={5}>
           <CardMedia
-            sx={{ width: {xs:"340px" , md:"400px"}, margin: "auto" }}
+            sx={{
+              maxWidth: { xs: "300px", md: "380px" },
+              height: { xs: "310px", md: "390px" },
+              margin: "30px auto",
+              display: { xs: "none", md: "block" },
+            }}
             component="img"
             image={imgOne}
           />
@@ -217,7 +233,7 @@ const Sections = () => {
         sx={{
           display: "flex",
           justifyContent: "center",
-          padding: {xs :"20px 10px",lg :"100px 0px"},
+          padding: { xs: "20px 10px", lg: "100px 0px" },
           alignItems: "center",
         }}
       >
@@ -242,9 +258,10 @@ const Sections = () => {
         </Grid>
         <Grid item xs={10} md={5}>
           <CardMedia
-            sx={{ width: {xs:"340px" , md:"400px"}, margin: "auto" , 
-          display :{xs :"none" , md :"block"}
-            
+            sx={{
+              maxWidth: { xs: "300px", md: "380px" },
+              margin: "30px auto",
+              display: { xs: "none", md: "block" },
             }}
             component="img"
             image={imgTwo}
@@ -258,13 +275,17 @@ const Sections = () => {
         sx={{
           display: "flex",
           justifyContent: "center",
-          padding: {xs :"20px 10px",lg :"100px 0px"},
+          padding: { xs: "20px 10px", lg: "100px 0px" },
           alignItems: "center",
         }}
       >
         <Grid item xs={10} md={5}>
           <CardMedia
-            sx={{ width: {xs:"340px" , md:"400px"}, margin: "auto" }}
+            sx={{
+              maxWidth: { xs: "300px", md: "380px" },
+              height: { xs: "310px", md: "390px" },
+              margin: "30px auto",
+            }}
             component="img"
             image={imgOne}
           />
@@ -294,8 +315,8 @@ const Sections = () => {
         sx={{
           display: "flex",
           justifyContent: "center",
-          
-          padding: {xs :"20px 10px",lg :"100px 0px"},
+
+          padding: { xs: "20px 10px", lg: "100px 0px" },
           alignItems: "center",
         }}
       >
@@ -318,10 +339,12 @@ const Sections = () => {
         </Grid>
         <Grid item xs={10} md={5}>
           <CardMedia
-             sx={{ width: {xs:"300px" , md:"400px"}, margin: "auto",  
-            
-          display :{xs :"none" , md :"block"}
-            
+            sx={{
+              maxWidth: { xs: "300px", md: "380px" },
+              height: { xs: "310px", md: "390px" },
+              margin: "30px auto",
+
+              display: { xs: "none", md: "block" },
             }}
             component="img"
             image={imgTwo}

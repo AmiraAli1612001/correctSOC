@@ -20,6 +20,7 @@ import OurBlog from "../components/html/OurBlog";
 import image from "../assets/images/background.webp";
 const Scanner = () => {
   const { t } = useTranslation();
+  document.body.title = "vulnerability scanner";
 
   let home = {
     title: t("vulnerability-scanner"),
@@ -28,11 +29,10 @@ const Scanner = () => {
     img: computer,
     background: image,
   };
-  // let [PermanentOrTemporary, setPermanentOrTemporary] = useState("permanent");
   let [noneOrBlock, setNoneOrBlock] = useState("none");
-  // let [drawerDir, setdrawerDir] = useState("left");
   return (
     <Box>
+      <title>vulnerability scanner</title>
       <Header setNoneOrBlock={setNoneOrBlock} />
       <DefDrawer
         noneOrBlock={noneOrBlock}
@@ -53,13 +53,6 @@ const Scanner = () => {
             alignItems: "center",
           }}
         >
-          {/* <Grid item xs={10} md={5}>
-          <CardMedia
-            sx={{ width: "400px", margin: "auto" }}
-            component="img"
-            image={imgOne}
-          />
-        </Grid> */}
           <Grid
             container
             className="one"
@@ -72,7 +65,11 @@ const Scanner = () => {
           >
             <Grid item xs={10} md={5}>
               <CardMedia
-                sx={{ width: "400px", margin: "auto" }}
+                sx={{
+                  maxWidth: { xs: "300px", md: "380px" },
+                  height: { xs: "310px", md: "390px" },
+                  margin: "auto",
+                }}
                 component="img"
                 image={imgOne}
               />
@@ -93,7 +90,7 @@ const Scanner = () => {
                 {t("section-i")}
                 <ins>{t("section-ins")}</ins>
               </i>
-              <Link>{t("create-account")}</Link>
+              <Link>{t("create-small")}</Link>
             </Grid>
           </Grid>
         </Grid>

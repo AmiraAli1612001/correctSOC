@@ -4,19 +4,24 @@ import { Link } from "react-router-dom";
 import { useTranslation } from "react-i18next";
 
 const Cyper = () => {
-  const { t, i18n } = useTranslation();
+  const { t } = useTranslation();
 
   return (
     <Box className="about-discover">
-      <Box className="center" >
+      <Box className="center">
         <p>{t("use")}</p>
-        <h1>{t("cyber-platform")}</h1>
-        <h2>{t("complete")}</h2>
+        <h1 className="h1" style={{ fontWeight: "lighter" }}>
+          <span style={{ fontWeight: "bold" }}>{t("cyber")}</span>{" "}
+          {t("platform")}
+        </h1>
+        <h2 style={{ fontWeight: "lighter" }}>{t("complete")}</h2>
         <Box className="links">
           <Link to="/login" style={{ transform: "translateY(25%)" }}>
             {t("create-small")}
           </Link>
-          <Link to="/cyber-platform">{t("discover-more")}</Link>
+          <Link to="/cyber-platform" style={{ margin: "0px 20px" }}>
+            {t("discover-more")}
+          </Link>
         </Box>
       </Box>
     </Box>

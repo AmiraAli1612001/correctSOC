@@ -9,7 +9,6 @@ import PhoneAndroidIcon from "@mui/icons-material/PhoneAndroid";
 import BugReportIcon from "@mui/icons-material/BugReport";
 import HubIcon from "@mui/icons-material/Hub";
 import LanIcon from "@mui/icons-material/Lan";
-import { t } from "i18next";
 import Roboways from "../components/html/Roboways";
 import img from "../assets/images/NCSC_White.webp";
 import ico from "../assets/images/Robo - ANS.svg";
@@ -17,7 +16,9 @@ import { useTranslation } from "react-i18next";
 
 import scan from "../assets/images/Mobile-Scan.webp";
 const Mobile = () => {
-  const { t, i18n } = useTranslation();
+  document.body.title = "mobile network scanner";
+
+  const { t } = useTranslation();
 
   let lay = [
     {
@@ -51,19 +52,12 @@ const Mobile = () => {
     icon: ico,
     background: scan,
   };
-  // let [PermanentOrTemporary, setPermanentOrTemporary] = useState("permanent");
   let [noneOrBlock, setNoneOrBlock] = useState("none");
-  // let [drawerDir, setdrawerDir] = useState("left");
   return (
     <Box>
+      <title>mobile network scanner</title>
       <Header setNoneOrBlock={setNoneOrBlock} />
-      <DefDrawer
-        noneOrBlock={noneOrBlock}
-        setNoneOrBlock={setNoneOrBlock}
-        // PermanentOrTemporary={PermanentOrTemporary}
-        // setPermanentOrTemporary={setPermanentOrTemporary}
-        // drawerDir={drawerDir}
-      />
+      <DefDrawer noneOrBlock={noneOrBlock} setNoneOrBlock={setNoneOrBlock} />
       <Home home={home} />
 
       <Box className="protect">
@@ -88,7 +82,7 @@ const Mobile = () => {
             display: "flex",
             gap: "30px",
             justifyContent: "center",
-            padding:  {xs :"10px", lg  :"40px",},
+            padding: { xs: "10px", lg: "40px" },
             backgroundColor: "rgba(3, 12, 40, 0.6) ",
           }}
         >
@@ -101,7 +95,7 @@ const Mobile = () => {
                 className="item"
                 sx={{ height: { xs: "90vh", md: "80vh" } }}
               >
-                <Box className="layery" >
+                <Box className="layery">
                   {item.icon}
                   <h2>{item.h1} </h2>
                   <p className="one">{item.p}</p>
@@ -110,14 +104,6 @@ const Mobile = () => {
               </Grid>
             );
           })}
-          {/* <Grid item xs={10} sm={5} md={3} className='item'>
-
-                    <PhoneAndroidIcon/>
-            <h2>Android </h2>
-            <p className="one">Scanner</p>
-        <p>Our mobile vulnerability scanner was originally built to demonstrate the simplicity we felt was needed in the Cyber Security industry. Our free app has since gone viral, allowing people and businesses all over the world to increase their Cyber Security posture for free, in a few short taps.</p>
-
-                    </Grid> */}
         </Grid>
       </Box>
 
@@ -126,9 +112,12 @@ const Mobile = () => {
       <Box className="labtop">
         <Box>
           <p>{t("upgrade")}</p>
-          <h2>{t("cyber-platform")}</h2>
+          <p>
+            <span style={{ fontWeight: "bold" }}>{t("cyber")}</span>
+            {t("platform")}
+          </p>
           <Box className="links">
-            <Link>{t("create-account")}</Link>
+            <Link style={{ margin: "0px 20px" }}>{t("create-small")}</Link>
             <Link>{t("discover-more")}</Link>
           </Box>
         </Box>
@@ -142,17 +131,3 @@ const Mobile = () => {
 };
 
 export default Mobile;
-
-// <Box className="self-mob">
-// <Grid container>
-//     <Grid item xs = {10} sm={5} md={3} className="item">
-//         <Box className="layer">
-//             <PhoneAndroidIcon/>
-//             <h2>Android Scanner</h2>
-//             <p>Our mobile vulnerability scanner was originally built to demonstrate the simplicity we felt was needed in the Cyber Security industry. Our free app has since gone viral, allowing people and businesses all over the world to increase their Cyber Security posture for free, in a few short taps.</p>
-
-//         </Box>
-//     </Grid>
-
-// </Grid>
-// </Box>
