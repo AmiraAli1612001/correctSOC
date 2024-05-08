@@ -55,7 +55,7 @@ const Mobile = () => {
   let [noneOrBlock, setNoneOrBlock] = useState("none");
   return (
     <Box>
-      <title>mobile network scanner</title>
+      <title>{t("Mobile-Network-Scanner")}</title>
       <Header setNoneOrBlock={setNoneOrBlock} />
       <DefDrawer noneOrBlock={noneOrBlock} setNoneOrBlock={setNoneOrBlock} />
       <Home home={home} />

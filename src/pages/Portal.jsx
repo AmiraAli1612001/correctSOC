@@ -20,7 +20,7 @@ const Portal = () => {
   let [noneOrBlock, setNoneOrBlock] = useState("none");
   return (
     <Box sx={{ backgroundColor: "black" }}>
-      <title>portal terms</title>
+      <title>{t("terms-key")}</title>
       <Header setNoneOrBlock={setNoneOrBlock} />
       <DefDrawer noneOrBlock={noneOrBlock} setNoneOrBlock={setNoneOrBlock} />
       <LegalTop legal={legal} />

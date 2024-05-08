@@ -28,7 +28,7 @@ const Privacy = () => {
   let [noneOrBlock, setNoneOrBlock] = useState("none");
   return (
     <Box sx={{ backgroundColor: "black" }}>
-      <title>privacy policy</title>
+      <title>{t("privacy")}</title>
       <Header setNoneOrBlock={setNoneOrBlock} />
       <DefDrawer noneOrBlock={noneOrBlock} setNoneOrBlock={setNoneOrBlock} />
       <LegalTop legal={legal} />

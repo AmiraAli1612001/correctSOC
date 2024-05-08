@@ -20,7 +20,7 @@ const Index = () => {
   let [noneOrBlock, setNoneOrBlock] = useState("none");
   return (
     <Box>
-      <title>Home</title>
+      <title>{t("home")}</title>
       <Header setNoneOrBlock={setNoneOrBlock} />
       <DefDrawer noneOrBlock={noneOrBlock} setNoneOrBlock={setNoneOrBlock} />
       <Box>

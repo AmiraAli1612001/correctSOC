@@ -32,7 +32,7 @@ const Scanner = () => {
   let [noneOrBlock, setNoneOrBlock] = useState("none");
   return (
     <Box>
-      <title>vulnerability scanner</title>
+      <title>{t("vulnerability-scanner")}</title>
       <Header setNoneOrBlock={setNoneOrBlock} />
       <DefDrawer
         noneOrBlock={noneOrBlock}

@@ -20,7 +20,7 @@ const Contact = () => {
 
   return (
     <Box>
-      <title>contact us</title>
+      <title>{t("contact")}</title>
 
       <Header setNoneOrBlock={setNoneOrBlock} />
       <DefDrawer noneOrBlock={noneOrBlock} setNoneOrBlock={setNoneOrBlock} />
@@ -32,7 +32,7 @@ const Contact = () => {
             </Typography>
             <p className="one">{t("contact-p-one")}</p>
             <p className="two">{t("email")}</p>
-            <p className="three">info@soccorrect.com</p>
+            <p className="three">info@correctsoc.com</p>
             {/* <p className="two">{t("phone")}</p>
             <p className="three">+44 20 300 53729</p> */}
           </Grid>

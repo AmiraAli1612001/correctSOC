@@ -21,7 +21,7 @@ const Login = () => {
 
   return (
     <Box className="login">
-      <title>login</title>
+      <title>{t("login")}</title>
       <Box className="box" sx={{ width: { xs: "90vw", md: "50vw" } }}>
         <CardMedia component="img" image={logo}  sx={{height:"100px"}}/>
         <p className="one">{t("login-p-one")}</p>

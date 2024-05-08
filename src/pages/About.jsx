@@ -25,7 +25,7 @@ const About = () => {
   // ]
   return (
     <Box>
-      <title>about us</title>
+      <title>{t("abt-us")}</title>
 
       <Header setNoneOrBlock={setNoneOrBlock} />
       <DefDrawer noneOrBlock={noneOrBlock} setNoneOrBlock={setNoneOrBlock} />

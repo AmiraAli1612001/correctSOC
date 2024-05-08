@@ -88,6 +88,7 @@
   transition: 1s;
 }
 .lang {
+  transform: translateY(2px);
   position: relative;
   padding: 10px 20px;
 }
@@ -807,6 +808,10 @@ form textarea:focus {
   margin-bottom: 30px;
 }
 @media only screen and (max-width: 950px) {
+  .css-hyum1k-MuiToolbar-root {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+  }
   .model-one {
     padding: 20px !important;
     margin: 30px 10px !important;
@@ -861,9 +866,9 @@ form textarea:focus {
     align-items: center;
   }
 
-  .blog .back .parent {
+  /* .blog .back .parent {
     background-image: url("") !important;
-  }
+  } */
 
   ul {
     margin: 0px 10px !important;
@@ -1678,3 +1683,8 @@ ul li {
   font-size: 30px;
   margin: 0px 10px;
 }
+
+form .submit {
+  text-align: center !important;
+}
+

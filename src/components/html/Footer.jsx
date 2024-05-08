@@ -18,7 +18,7 @@ const Footer = () => {
         color: "white",
         display: "flex",
         justifyContent: "center",
-        padding: {xs :"20px" , md :"100px "},
+        padding: { xs: "20px", md: "100px " },
       }}
     >
       <Grid
@@ -32,7 +32,7 @@ const Footer = () => {
           <Typography variant="h6" color="inherit">
             {t("email")}
           </Typography>
-          <p>info@correct.ws</p>
+          <p>info@correctsoc.com</p>
           {/* <Typography variant="h6" color="inherit">
             {t("phone")}
           </Typography> */}
@@ -41,15 +41,15 @@ const Footer = () => {
             {t("head-office")}
           </Typography> */}
 
-          <p>CorrectSOC</p>
+          {/* <p>CorrectSOC</p> */}
           {/* <p  className="address">{t("address")}</p> */}
 
           <Box className="icons">
             <FacebookIcon />
             <TwitterIcon />
-            <YouTubeIcon/>
+            <YouTubeIcon />
 
-      
+
           </Box>
         </Grid>
         <Grid item xs={10} md={3}>

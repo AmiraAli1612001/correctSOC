@@ -54,7 +54,7 @@ const Blog = () => {
 
   return (
     <Box className="blog">
-      <title>blog</title>
+      <title>{t("blog")}</title>
 
       <Header setNoneOrBlock={setNoneOrBlock} />
       <DefDrawer noneOrBlock={noneOrBlock} setNoneOrBlock={setNoneOrBlock} />

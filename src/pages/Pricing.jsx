@@ -67,7 +67,7 @@ const Pricing = () => {
 
   return (
     <Box className="price">
-      <title>pricing</title>
+      <title>{t("price")}</title>
       <Logindrawer setNoneOrBlock={setNoneOrBlock} noneOrBlock={noneOrBlock} />
       <AppBar sx={{ backgroundColor: "#222" }}>
         <Toolbar>

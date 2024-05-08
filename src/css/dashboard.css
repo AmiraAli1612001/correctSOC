@@ -1,0 +1,1237 @@
+.dash-header {
+    background-color: #1e1e1e;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.dash-header img {
+    width: 150px;
+    height: 120px;
+}
+
+.dash-header button {
+    color: white;
+    padding: 5px 10px;
+    margin: 0px 10px;
+
+
+}
+
+body {
+
+    background-color: #121212;
+}
+
+.section {
+    display: flex;
+    justify-content: center;
+    flex-direction: row !important;
+
+
+}
+
+.section .header {
+    background-color: #2c2c2c;
+    color: white;
+    margin-bottom: 10px;
+}
+
+.section .item {
+    text-align: center;
+    background-color: #1e1e1e;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 30px;
+
+
+}
+
+.section .header {
+    font-size: 1.25rem;
+    line-height: 1.5;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.orange {
+    background-color: orange;
+    color: white;
+    width: 30px;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 12px;
+
+}
+
+.green {
+    color: #81c784;
+    display: flex;
+    align-items: center;
+}
+
+.green svg {
+    font-size: 18px;
+    margin: 10px;
+
+}
+
+.one {
+    color: white;
+    text-align: justify;
+    padding-top: 10px;
+}
+
+.two {
+    color: #c1c1c1;
+    font-size: 14px;
+    text-align: justify;
+    margin: 0px 5px;
+
+}
+
+.between {
+    justify-content: space-between;
+    text-align: center;
+}
+
+.alert {
+    color: white;
+    font-size: 30px;
+}
+
+.first-section h1 svg {
+    margin: 5px;
+
+}
+
+.first-section h1 {
+    padding: 10px;
+    margin-bottom: 0px !important;
+    font-size: 20px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    display: flex;
+    align-items: center;
+
+}
+
+.section .header {
+    margin-bottom: 0px;
+}
+
+.blue {
+    background-color: #90caf95f;
+    color: #90caf9;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px;
+    margin-top: 20px;
+
+}
+
+.blue svg {
+    color: white;
+}
+
+.btn {
+    background-color: #1976d2;
+    color: white;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 12px;
+    cursor: pointer;
+
+
+}
+
+.blue .close {
+    background-color: #90caf9;
+    color: black !important;
+    font-size: 15px;
+    border-radius: 100%;
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+
+}
+
+.upgrade {
+    opacity: 0.62;
+    cursor: pointer;
+}
+
+.upgrade:hover {
+    opacity: 1;
+}
+
+.upgrade {
+    font-size: 12px;
+}
+
+
+.flex {
+    display: flex;
+    gap: 5px;
+    justify-content: center;
+}
+
+.flex .item {
+
+    display: flex;
+    flex-direction: row !important;
+    font-size: 15px !important;
+    align-items: center;
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+
+}
+
+.background-section img {
+    width: 100%;
+}
+
+.flex .item img::after {
+    content: "";
+    position: absolute;
+    right: 0px;
+    height: 100%;
+    width: 1px;
+    background-color: #c1c1c1;
+}
+
+.flex .item img {
+    position: relative;
+    width: 35px;
+    height: 35px;
+}
+
+.flex .item .dis {
+
+    background-color: #81c784;
+    opacity: 0.62;
+}
+
+.flex .item svg {
+    color: #81c784;
+}
+
+.flex p {
+    color: #c1c1c1;
+}
+
+.flex .item .p {
+    font-size: 13px;
+}
+
+.flex .item .upgrade {
+    background-color: #1976d2;
+    color: white;
+    font-size: 10px;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.flex .item .dis span {
+    color: #81c784 !important;
+    opacity: 1 !important;
+    width: 150px;
+    border-radius: 5px !important;
+    display: inline-block;
+}
+
+.background {
+    height: 100%;
+}
+
+iframe {
+    width: 100%;
+    height: 150px;
+
+}
+
+.background img {
+    width: 100%;
+    height: 150px !important;
+
+}
+
+.acc .container {
+
+    display: flex;
+    padding: 10px;
+    gap: 10px;
+    border: 0.5px solid #c1c1c1;
+
+}
+
+.css-awui3g {
+    margin-top: 20px !important;
+}
+
+.acc .css-sh22l5-MuiButtonBase-root-MuiAccordionSummary-root.Mui-expanded,
+.css-15v22id-MuiAccordionDetails-root,
+.css-sh22l5-MuiButtonBase-root-MuiAccordionSummary-root,
+.css-15v22id-MuiAccordionDetails-root .css-sh22l5-MuiButtonBase-root-MuiAccordionSummary-root,
+.css-o4b71y-MuiAccordionSummary-content {
+
+    background-color: #1e1e1e !important;
+}
+
+.base {
+    display: flex;
+    gap: 15px;
+}
+
+.content h2 {
+    color: white;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-bottom: 15px;
+}
+
+.content p {
+    color: #c1c1c1;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+
+}
+
+.acc h1 {
+    color: white;
+    font-weight: 400;
+
+    font-size: 15px;
+}
+
+.acc .title,
+.acc svg {
+    color: #c1c1c1;
+    display: flex;
+    align-items: center;
+    font-size: 15px;
+    gap: 5px;
+    font-weight: 400;
+    margin-bottom: 10px;
+}
+
+.last-5 {
+
+
+    margin-top: 15px !important;
+    margin-bottom: 15px !important;
+
+}
+
+.flex .item {
+    background-color: #2c2c2c;
+    padding: 0px 5px;
+    border-radius: 5px;
+}
+
+.flex .item svg {
+    font-size: 15px;
+}
+
+.flex hr {
+    height: 75%;
+    margin: 0px 8px;
+    border-width: 0.5px !important;
+    border-color: #1e1e1e !important;
+}
+
+.item-12 svg {
+    color: rgba(255, 255, 255, 0.683) !important;
+    font-size: 25px !important;
+    margin: 5px 10px !important;
+}
+
+.item-12 .disable {
+    background-color: #555;
+    color: rgba(255, 255, 255, 0.683) !important;
+}
+
+.item-12 .small {
+    color: hsla(0, 0%, 100%, .5) !important;
+    font-size: 13px;
+}
+
+.item-12 .bold {
+
+    font-size: 15px;
+    color: hsla(0, 0%, 100%, .7) !important;
+}
+
+.disable-con {
+
+    display: flex;
+    align-items: center;
+}
+
+.background-section {
+
+    position: relative;
+    display: flex;
+    align-items: center;
+
+}
+
+.logo {
+    width: 40px !important;
+}
+
+.button {
+
+    position: absolute !important;
+    top: 8px !important;
+
+    right: 10px !important;
+
+    background-color: #3652cf !important;
+    color: white !important;
+}
+
+/* drawer style */
+.dash-drawer {
+
+    position: fixed;
+    top: 0px;
+    width: 260px;
+    height: 100vh;
+    background-color: #2c2c2c;
+    z-index: 10;
+}
+
+.dash-drawer img {
+    padding: 10px;
+    width: 170px;
+    display: block !important;
+    margin: auto !important;
+
+
+
+}
+
+.dash-drawer .logo {
+    /* background-color: #1e1e1e; */
+    width: 260px !important;
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+
+.dash-drawer .links {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.dash-drawer .links button {
+    display: flex !important;
+    justify-content: space-between !important;
+    border-radius: 0px !important;
+    color: white !important;
+
+    font-size: .8125rem;
+    font-weight: 500;
+    line-height: 1rem;
+    padding: 10px 5px;
+
+}
+
+.dash-drawer .links button:hover,
+.dash-header button:hover {
+
+    background-color: rgba(255, 255, 255, 0.318);
+}
+
+
+
+.drawer-parent {
+
+    width: 100%;
+    height: 100vh;
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    z-index: 3;
+    background-color: #1e1e1e6d;
+}
+
+
+
+
+.table-header {
+    background-color: #2c2c2c;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.table-header h1 {
+    color: white;
+}
+
+.head th {
+
+
+    font-size: 12px;
+    color: #c1c1c1;
+    font-weight: 500;
+}
+
+td {
+    display: flex;
+}
+
+.table-content {
+    background-color: #1e1e1e !important;
+}
+
+.css-bsph2u-MuiTableCell-root {
+    padding: 0px !important;
+    color: white !important;
+}
+
+.css-bsph2u-MuiTableCell-root:nth-child(1) {
+    width: 10px !important;
+}
+
+.table-header .box {
+    display: flex !important;
+    flex-direction: column;
+    gap: 10px !important;
+
+
+}
+
+.box img {
+    display: block;
+    margin: auto;
+    margin-bottom: 10px;
+
+
+}
+
+.box p {
+    display: block !important;
+    margin-bottom: 10px !important;
+    font-size: 12px !important;
+    color: #c1c1c1 !important;
+    margin-top: 10px;
+}
+
+.boxes {
+    display: flex !important;
+    flex-direction: row !important;
+    gap: 15px !important;
+
+}
+
+/*
+.table-header .block {
+    display: block !important;
+} */
+
+.pagination {
+
+
+    float: right !important;
+    color: white !important;
+    margin-bottom: 10px !important;
+    display: block !important;
+
+
+
+
+}
+
+.scan-history .filter {
+
+
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+
+}
+
+.start-scan-btn {
+    background-color: #81c784 !important;
+    width: 100%;
+    color: white !important;
+    margin: 0px 20px !important;
+
+}
+
+.scan-history .filter span {
+    color: white;
+    font-size: 12px;
+    background-color: rgba(255, 255, 255, 0.254);
+    padding: 5px 10px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.scan-history .filter span:hover {
+
+    background-color: rgba(255, 255, 255, 0.377);
+
+}
+
+/* lan style */
+.lan-scanner-section {
+    width: 97vw !important;
+    margin: 20px auto !important;
+    color: hsla(0, 0%, 100%, .7);
+    margin-top: 20px
+}
+
+.lan-container {
+    padding: 5px 20px;
+
+}
+
+.lan-h1 {
+    display: flex;
+    align-items: center;
+    vertical-align: middle;
+    background-color: #272727;
+}
+
+.lan-h1 .white,
+.lan-h1 svg {
+    font-size: 18px;
+    color: white;
+    font-weight: 400;
+
+
+}
+
+.lan-h1 svg {
+    margin-top: 3px;
+}
+
+.lan-scanner-section {
+
+    background-color: #1E1E1E !important;
+
+}
+
+.lan-h1 .gray {
+
+    font-size: 14px;
+    font-weight: 500 !important;
+    color: hsla(0, 0%, 100%, .7);
+
+}
+
+.lan-h1 {
+    background-color: #2c2c2c;
+    padding: 8px 10px
+}
+
+.lan-scanner-section {
+    background-color: #171717;
+}
+
+.start-container {
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.start-container p {
+    text-align: center !important;
+}
+
+.start-container .item {
+    text-align: left !important;
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: center
+}
+
+.start-container .item-2 {
+    flex-direction: column
+}
+
+.start-container .item .icon {
+    font-size: 30px;
+    margin: 0px 10px;
+}
+
+.start-container .item p {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center
+}
+
+.start-container .item p {
+    font-size: 12px !important;
+}
+
+.start-container .item svg {
+    font-size: 23px !important;
+
+}
+
+.lan-scanner-section .data {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.lan-scanner-section .data p {
+
+    text-align: center;
+
+}
+
+.lanScan {
+    background-color: #1E1E1E;
+}
+
+
+.lan-scanner-section .select {
+
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+
+
+
+}
+
+.lan-scanner-section .select input {
+    color: white;
+    padding: 10px !important;
+    border-style: solid !important;
+    border-width: 1px !important;
+    border-color: red !important;
+
+}
+
+/* hardware style */
+
+
+.hardware h1 {
+    color: white;
+    font-size: 20px;
+    font-weight: 400;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.hardware .item svg {
+    font-size: 50px !important;
+    width: 100px !important;
+}
+
+
+/* .lan-scanner-section .select  #demo-simple-select {
+
+    color: white;
+    padding: 10px !important;
+    border-style: solid !important;
+    border-width: 1px !important;
+    outline: none !important;
+
+
+
+} */
+
+.css-11u53oe-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input {
+    padding: 8px !important;
+}
+
+/* table */
+
+.table-data .v-application .font-weight-thin {
+    color: white !important;
+}
+
+
+.table-data {
+    /* background-color: #272727 !important; */
+    color: white !important;
+}
+.css-n3fyjk-MuiDataGrid-root .MuiDataGrid-withBorderColor {
+    border-color: #2c2c2c !important;
+}
+.css-n3fyjk-MuiDataGrid-root {
+ 
+    --unstable_DataGrid-overlayBackground: none !important;
+    --DataGrid-containerBackground: none !important;
+    --DataGrid-pinnedBackground: none !important;
+    --DataGrid-rowBorderColor: none !important;
+   
+}
+.MuiDataGrid-columnHeaderTitle {
+
+    color: #c1c1c1 !important;
+    font-size: 12px !important;
+    font-weight: 500;
+
+}
+
+.css-yrdy0g-MuiDataGrid-columnHeaderRow {
+
+    background-color: #2c2c2c !important;
+
+}
+
+
+
+/* download style */
+
+
+.download h1,
+.download-file h1 {
+    background-color: #272727;
+    color: white;
+    font-size: 18.75px;
+    padding: 15px;
+    font-weight: 400;
+}
+
+.downloads,
+.download-file {
+    background-color: #1E1E1E;
+
+}
+
+.downloads .white,
+.download-file .white {
+
+    color: white;
+    font-size: 15px;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+
+
+.download .box {
+    width: 30px !important;
+    height: 30px !important;
+    font-weight: 500;
+    color: white;
+}
+
+.downloads a,
+.download a,
+.download-file a {
+    color: #1976d2;
+    font-size: 12px;
+    font-weight: 400;
+    margin: 0px 5px;
+}
+
+.downloads .install {
+    color: #979797;
+    font-size: 12px;
+    line-height: 23px;
+    font-weight: 500;
+}
+
+.downloads .downloads-con {
+
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.downloads .md {
+
+    font-size: 150px;
+    float: right;
+    color: #979797;
+    margin-right: 20px
+}
+
+.download .text {
+    font-weight: 700;
+    margin-bottom: 10px;
+    font-size: 14px !important;
+}
+
+.css-1h9z7r5-MuiButtonBase-root-MuiTab-root:checked {
+    color: #1976d2 !important;
+}
+
+.css-1h9z7r5-MuiButtonBase-root-MuiTab-root {
+    color: #979797 !important;
+}
+
+.downloads .item {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding-top: 20px;
+
+}
+
+
+.downloads .item-svg {
+
+    align-items: flex-end;
+    font-size: 10px !important;
+
+}
+
+.downloads .item-text {
+
+    align-items: flex-start !important;
+}
+
+.downloads .item-text:nth-child(2) {
+    margin-bottom: 40px;
+}
+
+.download .text,
+.download .icons {
+
+    display: flex !important;
+    justify-content: space-between !important;
+}
+
+.download .info-p {
+    display: flex;
+    align-items: center;
+    text-align: left;
+    gap: 5px;
+    color: #979797 !important;
+    font-size: 12px;
+    margin-top: 25px;
+}
+
+.download .text p {
+
+    text-align: left !important;
+    margin-top: 20px;
+
+}
+
+.download .text,
+.download .icons,
+.download-table p {
+
+    font-size: 12px;
+    color: #979797 !important;
+    font-weight: 500;
+
+
+}
+
+.download .white,
+.download .icon-con,
+.download-table p {
+
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.download .icon-con svg,
+.download-table td svg {
+
+    font-size: 18px;
+
+
+}
+
+hr {
+    margin: 15px auto;
+    border-color: #2c2c2c !important;
+    border-width: 1px !important;
+}
+
+.grid-container .item {
+    background-color: #1E1E1E;
+    padding: 35px;
+    padding-top: 5px;
+
+
+}
+
+.v-number {
+    background-color: #1E1E1E;
+}
+
+.v-number span,
+.v-number p {
+
+    text-align: center;
+    position: relative
+}
+
+.v-number p {
+
+    font-size: 25px !important;
+    font-weight: 400;
+}
+
+.v-number p::after {
+
+    content: "";
+    position: absolute;
+    width: 80%;
+    height: 4px;
+    margin: auto;
+    bottom: -30px;
+    transform: translateX(-61%);
+    background-color: #90CAF9;
+
+}
+
+.white-box svg {
+    width: 20px;
+    height: 20px;
+}
+
+.white-box {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    color: white;
+    font-weight: 500;
+
+}
+
+.text-con {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.btn-green {
+
+    background-color: #9FD4A1 !important;
+    color: white !important;
+    display: flex;
+    align-items: center;
+    gap: 3px !important;
+}
+
+.download-table .MuiDataGrid-cell {
+
+    width: auto !important;
+}
+
+.download-table td {
+    color: white;
+
+    gap: 5px;
+    font-weight: 400;
+}
+
+.download-table .badge-yellow {
+
+    border: 1px solid #D29944 !important;
+    padding: 5px 8px;
+    color: #D29944;
+    border-radius: 4px;
+    background-color: transparent !important;
+    font-size: 12px;
+
+}
+
+.download-table .badge-green {
+
+    border: 1px solid #527754 !important;
+    padding: 5px 8px;
+    color: #527754;
+    border-radius: 4px;
+    background-color: transparent !important;
+    font-size: 12px;
+
+}
+
+.download-table .btn {
+
+
+    color: white;
+    background-color: #1976d2;
+    padding: 5px 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 3px;
+    width: 120px;
+    border: none;
+    font-weight: 500 !important;
+    border-radius: 4px !important;
+    box-shadow: 1px 1px 2px #121212;
+
+
+
+}
+
+.download-table .td {
+    display: flex;
+    align-items: center !important;
+    gap: 10px;
+    color: white !important;
+    font-size: 15px !important;
+}
+
+.download-table .css-1ygcj2i-MuiTableCell-root {
+
+    color: #979797 !important;
+
+}
+
+.download-table .css-1ygcj2i-MuiTableCell-root:hover {
+    color: white !important;
+    cursor: pointer !important;
+    font-weight: 400;
+    font-size: 14px !important;
+
+}
+.css-1oudwrl {
+    position: static !important;
+}
+
+
+/* software */
+
+.download-tab h1 {
+
+    background-color: #272727;
+    color: white;
+    font-size: 20px;
+    font-weight: 400;
+    margin: 0px !important;
+    padding: 10px;
+
+
+}
+
+.download-tab p {
+
+    color: #979797;
+    font-size: 14px;
+
+    margin: 10px
+}
+
+.download-tab .css-19kzrtu {
+    padding-top: 0px;
+
+}
+
+ .css-19kzrtu {
+
+    padding: 0px !important;
+}
+.MuiDataGrid-cell {
+
+    display: flex !important;
+    align-items: center !important;
+    width: auto !important;
+}
+.css-jj6133 {
+    height: auto !important;
+}
+.download-tab svg {
+    font-size: 55px;
+    font-weight: 600;
+    color:#979797
+}
+
+.download-tab .number {
+
+
+    color: white;
+    font-size: 45px;
+    font-weight: 500;
+}
+
+.download-tab .item {
+    display: flex;
+    align-items: center;
+    gap: 65px;
+}
+
+.download-tab .grid {
+    position: relative;
+
+}
+
+.download-tab .grid::after {
+
+    content: "";
+    position: absolute;
+    top: 0px;
+    right: 20px;
+    width: 1px;
+    transform: translateY(10%);
+    height: 80%;
+    background-color: #2c2c2c
+}
+
+.download-tab .separate {
+
+    background-color: #1e1e1e !important;
+}
+
+/* data-disks style */
+.data-disks .svg {
+
+    width: 100px !important;
+    height: 100px !important;
+
+}
+
+.data-disks .svg-1 {
+
+    font-size: 40px;
+
+}
+
+.CircularProgressbar .CircularProgressbar-path,
+.CircularProgressbar .CircularProgressbar-text {
+    stroke: #ff6d00 !important;
+    fill: #ff6d00 !important;
+
+    /* background-color: #ff6d00 !important; */
+
+}
+
+.data-disks .small-svg {
+    font-size: 24px;
+}
+
+.data-disks .p {
+    display: flex;
+    align-items: center;
+    align-content: center;
+    gap: 10px
+}
+
+.data-disks .box {
+    padding-bottom: 40px
+}
+
+/* table */
+.MuiDataGrid-menuIcon {
+    display: none !important;
+}

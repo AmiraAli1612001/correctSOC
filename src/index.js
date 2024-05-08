@@ -7,7 +7,7 @@ import {
   Route,
   RouterProvider,
   createRoutesFromElements,
-  createHashRouter,
+  createBrowserRouter
 } from "react-router-dom";
 import Index from "./pages/Index";
 import Contact from "./pages/contact";
@@ -22,9 +22,16 @@ import Cookie from "./pages/cookie";
 import Login from "./pages/login";
 import Blog from "./pages/blog";
 import Notfound from "./components/html/Notfound";
+import Dashboard from "./pages/dashboard";
+import Lanscanner from "./pages/back/component/lanscanner";
+import Download from "./pages/back/downloads"
+import Software from "./pages/back/software";
+import Hardware from "./pages/back/hardware";
+import DataDisks from "./pages/back/data-disks";
+import OsUpdates from "./pages/back/os-updates";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
-const router = createHashRouter(
+const router = createBrowserRouter(
   createRoutesFromElements(
     <Route path="/" element={<App />}>
       <Route index element={<Index />} />
@@ -39,7 +46,16 @@ const router = createHashRouter(
       <Route path="cookie" element={<Cookie />} />
       <Route path="login" element={<Login />} />
       <Route path="blog" element={<Blog />} />
-      <Route path="*" element={<Notfound />} />
+      <Route path="dashboard" element={<Dashboard/>} />
+      <Route path="lan-scanner" element={<Lanscanner/>} />
+      <Route path="download" element={<Download/>} />
+      <Route path="hardware" element={<Hardware/>} />
+      <Route path="software" element={<Software/>} />
+      <Route path="data-disks" element={<DataDisks/>} />
+      <Route path="os-updates" element={<OsUpdates/>} />
+
+
+      <Route path="*" element={<Notfound/>} />
     </Route>
   )
 );

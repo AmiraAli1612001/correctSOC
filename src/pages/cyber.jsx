@@ -30,7 +30,7 @@ const Cyber = () => {
 
   return (
     <Box>
-      <title>cyber platform</title>
+      <title>{t("cyber-platform")}</title>
       <Header setNoneOrBlock={setNoneOrBlock} />
       <DefDrawer noneOrBlock={noneOrBlock} setNoneOrBlock={setNoneOrBlock} />
       <Home home={home} />

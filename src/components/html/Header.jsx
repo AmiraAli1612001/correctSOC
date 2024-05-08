@@ -44,6 +44,7 @@ const Header = (props) => {
     { text: t("blog"), path: "/blog" },
     { text: t("contact"), path: "/contact" },
     { text: t("login"), path: "/login" },
+
   ];
   let boxes = [
     {
@@ -93,13 +94,16 @@ const Header = (props) => {
           >
             <Grid
               item
+              xs={5}
+              md={6}
+              lg ={2}
               sx={{ cursor: "pointer" }}
               onClick={() => {
                 navigate("/");
               }}
             >
               <CardMedia
-                sx={{ width: { xs: "160px", lg: "230px" }, height: "85px" }}
+                sx={{ width: { xs: "160px", lg: "230px" }, height: "85px"  , transform: {xs : "translateY(-10px)" , md :"translateY(-10px)"} }}
                 component="img"
                 image={Logo}
                 onClick={() => {
@@ -111,6 +115,8 @@ const Header = (props) => {
               />
             </Grid>
             <Grid
+
+            
               item
               sx={{ display: { xs: "block", lg: "none", cursor: "pointer" } }}
             >

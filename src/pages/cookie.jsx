@@ -20,7 +20,7 @@ const Cookie = () => {
   let [noneOrBlock, setNoneOrBlock] = useState("none");
   return (
     <Box sx={{ backgroundColor: "black" }}>
-      <title>cookies policy</title>
+      <title>{ t("cookie-top")}</title>
       <Header setNoneOrBlock={setNoneOrBlock} />
       <DefDrawer noneOrBlock={noneOrBlock} setNoneOrBlock={setNoneOrBlock} />
       <LegalTop legal={legal} />
